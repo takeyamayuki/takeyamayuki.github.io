@@ -1,6 +1,6 @@
 ---
 title: "About"
-date: 2021-06-20T14:50:29+09:00
+date: 2021-06-20T20:13:34+09:00
 draft: false
 toc: false
 images:
@@ -46,5 +46,5 @@ SoundCloud、Youtubeで自分で作った曲を投稿。
 * [elchika](https://elchika.com/user/takeyama/?page=0)  
 * [GitHub](https://github.com/takeyamayuki)  
 * [doda](https://campus.doda.jp/profile/list/appeal)  
-* [Soundcloud](https://soundcloud.com/takeyamadesu)  
+* [Soundcloud](https://soundcloud.com/takeyamadesu)
 
