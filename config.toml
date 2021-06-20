@@ -105,7 +105,7 @@ disableHugoGeneratorInject = false
   [params.footer]
     trademark = true
     rss =false
-    copyright = true
+    copyright = false
     author = true
 
     topText = []
@@ -171,10 +171,9 @@ disableHugoGeneratorInject = false
 
 [languages]
   [languages.en]
-    title = "Hello Friend NG"
+    title = "Yuki's portfolio"
     subtitle = "A simple theme for Hugo"
     keywords = ""
-    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
@@ -197,12 +196,12 @@ disableHugoGeneratorInject = false
 
 # ロケールに基づいた上部メニュー設定? 自分はすぐ下の設定の、generic menuを活かしたかったので
 # ここはコメントアウトしました。
-    [languages.en.menu]
-        [[languages.en.menu.main]]
-            identifier = "about"
-            name = "About"
-            url = "/about"
-        [[languages.en.menu.main]]
-            identifier = "showcase"
-            name = "Showcase"
-            url = "/showcase"
+#    [languages.en.menu]
+#        [[languages.en.menu.main]]
+#            identifier = "about"
+#            name = "About"
+#            url = "/about"
+#        [[languages.en.menu.main]]
+#            identifier = "showcase"
+#            name = "Showcase"
+#            url = "/showcase"
