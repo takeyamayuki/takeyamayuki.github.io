@@ -5,7 +5,7 @@ draft: false
 toc: false
 images:
 tags:
-  - about
+  - daily
 ---
 
 武山侑輝のポートフォリオサイトです
