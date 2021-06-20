@@ -1,11 +1,11 @@
 ---
-title: "Yuki's website"
-date: 2019-06-30T02:34:27+09:00
-draft: false
+title: "About"
+date: 2021-06-20T20:06:46+09:00
+draft: true
 toc: false
 images:
 tags:
-  - daily
+  - about
 ---
 
 武山侑輝のポートフォリオサイトです
@@ -49,4 +49,3 @@ SoundCloud、Youtubeで自分で作った曲を投稿。
 * [Soundcloud](https://soundcloud.com/takeyamadesu)  
 
 
-[sub](sub.md)ページあり
