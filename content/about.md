@@ -8,7 +8,7 @@ images:
 
 ## 自己紹介
 ### 武山侑輝（たけやまゆうき）(Yuki Takeyama)  
-#### 技術全般好きな大学生です(Arduino, KiCad, Pythonあたりが得意です)
+技術全般好きな大学生です(Arduino, KiCad, Pythonあたりが得意です)
 
 ## 経歴、表彰
 茨城県立並木中等教育学校 入学
