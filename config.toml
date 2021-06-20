@@ -168,7 +168,7 @@ disableHugoGeneratorInject = false
 [languages]
   [languages.en]
     title = "Yuki's portfolio"
-    subtitle = "ja"
+    subtitle = ""
     keywords = ""
     readOtherPosts = "Read other posts"
 
