@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <sitemap>
-    <loc>https://takeyamayuki.github.io/portfolio/en/sitemap.xml</loc>
-    
-      <lastmod>2019-06-30T02:34:27+09:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://takeyamayuki.github.io/portfolio/fr/sitemap.xml</loc>
-    
-  </sitemap>
-  
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://takeyamayuki.github.io/portfolio/tags/daily/</loc>
+    <lastmod>2019-06-30T02:34:27+09:00</lastmod>
+  </url><url>
+    <loc>https://takeyamayuki.github.io/portfolio/</loc>
+    <lastmod>2019-06-30T02:34:27+09:00</lastmod>
+  </url><url>
+    <loc>https://takeyamayuki.github.io/portfolio/posts/</loc>
+    <lastmod>2019-06-30T02:34:27+09:00</lastmod>
+  </url><url>
+    <loc>https://takeyamayuki.github.io/portfolio/tags/</loc>
+    <lastmod>2019-06-30T02:34:27+09:00</lastmod>
+  </url><url>
+    <loc>https://takeyamayuki.github.io/portfolio/posts/2019/06/%E3%81%AF%E3%81%98%E3%82%81%E3%81%BE%E3%81%97%E3%81%A6/</loc>
+    <lastmod>2019-06-30T02:34:27+09:00</lastmod>
+  </url><url>
+    <loc>https://takeyamayuki.github.io/portfolio/categories/</loc>
+  </url><url>
+    <loc>https://takeyamayuki.github.io/portfolio/series/</loc>
+  </url>
+</urlset>
