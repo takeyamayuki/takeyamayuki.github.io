@@ -158,16 +158,12 @@ disableHugoGeneratorInject = false
     url  = "https://github.com/takeyamayuki"
 
   [[params.social]]
-    name = "email"
-    url  = "mailto:namiki.takeyama@gmail.com"
-
-  [[params.social]]
-    name = "note"
-    url  = "https://note.com/spinach_egg"
-
-  [[params.social]]
     name = "youtube"
     url  = "https://www.youtube.com/channel/UC2Ijyce-DOkMKqagTPDZleg"
+
+  [[params.social]]
+    name = "email"
+    url  = "mailto:namiki.takeyama@gmail.com"
 
 [languages]
   [languages.en]
