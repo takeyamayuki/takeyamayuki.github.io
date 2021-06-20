@@ -196,12 +196,12 @@ disableHugoGeneratorInject = false
 
 # ロケールに基づいた上部メニュー設定? 自分はすぐ下の設定の、generic menuを活かしたかったので
 # ここはコメントアウトしました。
-#    [languages.en.menu]
-#        [[languages.en.menu.main]]
-#            identifier = "about"
-#            name = "About"
-#            url = "/about"
-#        [[languages.en.menu.main]]
-#            identifier = "showcase"
-#            name = "Showcase"
-#            url = "/showcase"
+    [languages.en.menu]
+        [[languages.en.menu.main]]
+            identifier = "about"
+            name = "About"
+            url = "/about"
+        [[languages.en.menu.main]]
+            identifier = "posts"
+            name = "Posts"
+            url = "/posts"
