@@ -21,7 +21,7 @@ images:
 * ロボカップジュニア    
 チームは２人で運営していて、自分が機構設計、回路基板設計担当。もう１人がプログラミング担当。自分は、主に、123Ddesignで機構設計、KiCad,bsch3vを用いて基板を設計開発をしていた。高校２年生のときには、全国５位になった。
 
-* NonMouse  
+* NonMouse    
 Webカメラを用いて、実体のないマウスの開発に成功。以下に詳細を書いた。
 https://github.com/takeyamayuki/NonMouse2
 https://youtu.be/ufvOJUTCF8M
