@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Yuki&#39;s portfolio</title>
-    <link>https://takeyamayuki.github.io/portfolio/</link>
-    <description>Recent content on Yuki&#39;s portfolio</description>
+    <title>about on Yuki&#39;s portfolio</title>
+    <link>https://takeyamayuki.github.io/portfolio/tags/about/</link>
+    <description>Recent content in about on Yuki&#39;s portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 20 Jun 2021 20:13:34 +0900</lastBuildDate><atom:link href="https://takeyamayuki.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Jun 2021 20:13:34 +0900</lastBuildDate><atom:link href="https://takeyamayuki.github.io/portfolio/tags/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>https://takeyamayuki.github.io/portfolio/about/</link>
@@ -19,15 +19,6 @@
   文化祭でのシューティングゲーム開発
   開発言語、ツール  C/C++: 競技プログラミング(atcoder灰色), ROS, Arduino, Python: アプリケーション開発経験あり UNIX: 基本シェルコマンド使用経験あり RaspberryPi/ Arduino: ロボカップジュニア、学習リモコン、シンセサイザー、ファイルサーバーなどの製作 3DCAD: 123Ddesignでロボカップのロボット設計(Fusion360勉強中) KiCad: ロボカップ出場ロボットの基板を設計開発 Git/GitHub: 個人開発経験あり MPLAB IDE， STM32CubeIDE: 自己学習ため ROS: 勉強中 オシロスコープ、安定化電源: 学校の実験、自己学習での使用 HTML/CSS， Java， MATLAB: 自己学習で触りだけ  作曲 SoundCloud、Youtubeで自分で作った曲を投稿。
  日体大コールをNCS風にRemixしてみたwwwがYoutube上で現在1.4万再生 にわとりがNCS風のEDMを歌い出しましたという題名で、ニワトリの鳴き声を用いて、EDMを製作 パフェいわしをNCS風にRemixしてみたwww (feat.きりたん)という題名で、ぱふぇいわしをEDMアレンジ セミの鳴き声をEDMにRemixしてみたwwwという題名で、蝉の鳴き声でEDMを製作。さらに、映像も３DCGソフトblenderを用いて自己製作。  リンク  ThisWebsite Youtube note HatenaBlog elchika GitHub doda Soundcloud  </description>
-    </item>
-    
-    <item>
-      <title>はじめまして</title>
-      <link>https://takeyamayuki.github.io/portfolio/posts/2019/06/%E3%81%AF%E3%81%98%E3%82%81%E3%81%BE%E3%81%97%E3%81%A6/</link>
-      <pubDate>Sun, 30 Jun 2019 02:34:27 +0900</pubDate>
-      
-      <guid>https://takeyamayuki.github.io/portfolio/posts/2019/06/%E3%81%AF%E3%81%98%E3%82%81%E3%81%BE%E3%81%97%E3%81%A6/</guid>
-      <description>Hugoで簡単なブログを作りました。</description>
     </item>
     
   </channel>
