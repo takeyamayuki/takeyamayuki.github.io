@@ -6,33 +6,32 @@
     <description>Recent content on Yuki&#39;s portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 30 Jun 2019 02:34:27 +0900</lastBuildDate><atom:link href="https://takeyamayuki.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Jun 2021 02:34:27 +0900</lastBuildDate><atom:link href="https://takeyamayuki.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>https://takeyamayuki.github.io/portfolio/about/</link>
       <pubDate>Sun, 20 Jun 2021 20:13:34 +0900</pubDate>
       
       <guid>https://takeyamayuki.github.io/portfolio/about/</guid>
-      <description>自己紹介 武山侑輝（たけやまゆうき）(Yuki Takeyama) 茨城県立並木中等教育学校 卒業
+      <description>自己紹介 武山侑輝（たけやまゆうき）(Yuki Takeyama) 技術全般好きな大学生です(Arduino, KiCad, Pythonあたりが得意です) 経歴、表彰 茨城県立並木中等教育学校 入学 ロボカップジュニアサッカーライトウェイト2017中津川オープン５位 茨城県立並木中等教育学校 卒業 青山学院大学 理工学部 電気電子工学科入学
 青山学院大学 理工学部 電気電子工学科 学部３年
 プロジェクト   ロボカップジュニア
-123Ddesignでロボカップのロボット設計(Fusion360勉強中) KiCad: ロボカップ出場ロボットの基板を設計開発
-  NonMouse2
-  文化祭でのシューティングゲーム開発
-  競技プログラミング
+チームは２人で運営していて、自分が機構設計、回路基板設計担当。もう１人がプログラミング担当。自分は、主に、123Ddesignで機構設計、KiCad,bsch3vを用いて基板を設計開発をしていた。高校２年生のときには、全国５位になった。
+  NonMouse Webカメラを用いて、実体のないマウスの開発に成功。以下に詳細を書いた。 https://github.com/takeyamayuki/NonMouse2 https://youtu.be/ufvOJUTCF8M
+  文化祭でのシューティングゲーム開発 ３人で作っていて、自分は回路設計、はんだ付けを担当。もう１人がファームウェア（マイコンプログラミング）、最後の一人が、パソコン上でのアプリ開発を担当し、作業を分担した。最終的にはレーザーでCdSセンサーの的を撃つと、音がなり、パソコン上で点数がカウントされ、web上の順位表に表示するものができた。
+  競技プログラミング C/C++, Pythonを用いてAtcoderに出場している。現在、灰色。
   その他自己開発
 学習リモコン、シンセサイザー、ファイルサーバー、倒立振子などの製作
   開発言語、ツール それぞれの項目において、使用頻度の高い順に並んでいます。
- 使用言語: C/C++, Python, Markdown, (MATLAB) OS: MacOS, Ubuntu, Windows, RaspberrypiOS エディタ: VScode, nano, vim ツール: Arduino, Git/GitHub, ROS, MPLAB IDE, STM32CubeIDE 基板設計CAD: Fritzing, KiCad, PasS, bsch3v, 3DCAD: Fusion360, (123Ddesign) 実験機器: 安定化電源, オシロスコープ  作曲 SoundCloud、Youtubeで自分で作った曲を投稿。
- 「日体大コールをNCS風にRemixしてみたwww」がYoutube上で現在1.</description>
+ 使用言語: C/C++, Python, Markdown, (MATLAB) OS: MacOS, Ubuntu, Windows, RaspberrypiOS エディタ: VScode, nano, vim ツール: Arduino, Git/GitHub, ROS, MPLAB IDE, STM32CubeIDE 基板設計CAD: Fritzing, KiCad, PasS, bsch3v, 3DCAD: Fusion360, (123Ddesign) 実験機器: 安定化電源, オシロスコープ  作曲 SoundCloud、Youtubeで自分で作った曲を投稿。</description>
     </item>
     
     <item>
       <title>はじめまして</title>
-      <link>https://takeyamayuki.github.io/portfolio/posts/2019/06/%E3%81%AF%E3%81%98%E3%82%81%E3%81%BE%E3%81%97%E3%81%A6/</link>
-      <pubDate>Sun, 30 Jun 2019 02:34:27 +0900</pubDate>
+      <link>https://takeyamayuki.github.io/portfolio/posts/2021/06/%E3%81%AF%E3%81%98%E3%82%81%E3%81%BE%E3%81%97%E3%81%A6/</link>
+      <pubDate>Sun, 20 Jun 2021 02:34:27 +0900</pubDate>
       
-      <guid>https://takeyamayuki.github.io/portfolio/posts/2019/06/%E3%81%AF%E3%81%98%E3%82%81%E3%81%BE%E3%81%97%E3%81%A6/</guid>
+      <guid>https://takeyamayuki.github.io/portfolio/posts/2021/06/%E3%81%AF%E3%81%98%E3%82%81%E3%81%BE%E3%81%97%E3%81%A6/</guid>
       <description>Hugoで簡単なブログを作りました。</description>
     </item>
     

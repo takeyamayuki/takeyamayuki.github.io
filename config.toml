@@ -154,25 +154,25 @@ disableHugoGeneratorInject = false
     url  = "https://twitter.com/takeyamaaaaa"
 
   [[params.social]]
-    name = "email"
-    url  = "mailto:namiki.takeyama@gmail.com"
-
-  [[params.social]]
     name = "github"
     url  = "https://github.com/takeyamayuki"
+
+  [[params.social]]
+    name = "email"
+    url  = "mailto:namiki.takeyama@gmail.com"
 
   [[params.social]]
     name = "note"
     url  = "https://note.com/spinach_egg"
 
   [[params.social]]
-    name = "Youtube"
+    name = "youtube"
     url  = "https://www.youtube.com/channel/UC2Ijyce-DOkMKqagTPDZleg"
 
 [languages]
   [languages.en]
     title = "Yuki's portfolio"
-    subtitle = "A simple theme for Hugo"
+    subtitle = ""
     keywords = ""
     readOtherPosts = "Read other posts"
 
