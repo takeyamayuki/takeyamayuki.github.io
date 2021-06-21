@@ -47,20 +47,20 @@ disableHugoGeneratorInject = false
   series   = "series"
 
 [params]
-  dateform        = "Jan 2, 2006"
+  dateform        = "Jan 2, 2021"
   dateformShort   = "Jan 2"
-  dateformNum     = "2006-01-02"
-  dateformNumTime = "2006-01-02 15:04"
+  dateformNum     = "2021-06-21"
+  dateformNumTime = "2021-06-21 15:04"
 
   # Metadata mostly used in document's head
   # 
-  description = "Nice theme for homepages and blogs"
+  description = ""
   keywords = ""
   images = [""]
 
   # Home subtitle of the index page.
   #
-  homeSubtitle = "Hello"
+  homeSubtitle = "Robotics engineer / Track maker"
 
   # Set a background for the homepage
   # backgroundImage = "assets/images/background.jpg"
@@ -109,8 +109,7 @@ disableHugoGeneratorInject = false
     author = true
 
     topText = []
-    bottomText = ["Powered by <a href=\"http://gohugo.io\">Hugo</a>",
-            "Made with &#10084; by <a href=\"https://github.com/rhazdon\">Djordje Atlialp</a>"]
+    bottomText = []
 
   # Colors for favicons
   #
