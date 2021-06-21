@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yuki Takeyama</title>
-    <link>https://takeyamayuki.github.io/portfolio/</link>
+    <link>https://takeyamayuki.github.io/</link>
     <description>Recent content on Yuki Takeyama</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 20 Jun 2021 02:34:27 +0900</lastBuildDate><atom:link href="https://takeyamayuki.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Jun 2021 02:34:27 +0900</lastBuildDate><atom:link href="https://takeyamayuki.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Link</title>
-      <link>https://takeyamayuki.github.io/portfolio/link/</link>
+      <link>https://takeyamayuki.github.io/link/</link>
       <pubDate>Mon, 21 Jun 2021 21:21:36 +0900</pubDate>
       
-      <guid>https://takeyamayuki.github.io/portfolio/link/</guid>
+      <guid>https://takeyamayuki.github.io/link/</guid>
       <description> ThisWebsite Youtube Youtube(RoboCupJunior) note HatenaBlog elchika GitHub doda Soundcloud  </description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://takeyamayuki.github.io/portfolio/about/</link>
+      <link>https://takeyamayuki.github.io/about/</link>
       <pubDate>Sun, 20 Jun 2021 20:13:34 +0900</pubDate>
       
-      <guid>https://takeyamayuki.github.io/portfolio/about/</guid>
+      <guid>https://takeyamayuki.github.io/about/</guid>
       <description>自己紹介 武山侑輝（たけやま ゆうき）(Yuki Takeyama) 技術全般好きな大学生です(Arduino, KiCad, Pythonあたりが得意です)
 経歴、表彰  Apr. 2012 - 茨城県立並木中等教育学校 入学 Mar. 2017 - ロボカップジュニアサッカーライトウェイト2017中津川オープン５位 Mar. 2018 - 茨城県立並木中等教育学校 卒業 Apr. 2019 - 青山学院大学 理工学部 電気電子工学科入学 Jun. 2021 - 青山学院大学 理工学部 電気電子工学科 学部３年  開発環境、ツール  使用言語: C/C++, Python, Markdown, (MATLAB) OS: MacOS, Ubuntu, Windows, RaspberrypiOS エディタ: VScode, nano, vim ツール: Arduino, Git/GitHub, ROS, MPLAB IDE, STM32CubeIDE 基板設計CAD: Fritzing, KiCad, PasS, bsch3v 3DCAD: Fusion360, (123Ddesign) 実験機器: 安定化電源, オシロスコープ  プロジェクト  ロボカップジュニア ２台の完全自律型ロボット同士でサッカーをして、点数を勝負する大会であるロボカップジュニアサッカーにおいて、高校２年生のときに、全国５位。チームは２人で運営。自分は、主に123Ddesignで機構設計、KiCad,bsch3vを用いて基板を設計開発。もう１人がプログラミングを担当。youtube に試合動画を公開。   NonMouse Webカメラを用いて、手の骨格を認識することで実体のないマウスの開発に成功。以下に詳細。  github youtube   文化祭でのシューティングゲーム開発</description>
     </item>
     
     <item>
       <title>はじめまして</title>
-      <link>https://takeyamayuki.github.io/portfolio/posts/2021/06/%E3%81%AF%E3%81%98%E3%82%81%E3%81%BE%E3%81%97%E3%81%A6/</link>
+      <link>https://takeyamayuki.github.io/posts/2021/06/%E3%81%AF%E3%81%98%E3%82%81%E3%81%BE%E3%81%97%E3%81%A6/</link>
       <pubDate>Sun, 20 Jun 2021 02:34:27 +0900</pubDate>
       
-      <guid>https://takeyamayuki.github.io/portfolio/posts/2021/06/%E3%81%AF%E3%81%98%E3%82%81%E3%81%BE%E3%81%97%E3%81%A6/</guid>
+      <guid>https://takeyamayuki.github.io/posts/2021/06/%E3%81%AF%E3%81%98%E3%82%81%E3%81%BE%E3%81%97%E3%81%A6/</guid>
       <description>Hugoで簡単なブログを作りました。</description>
     </item>
     

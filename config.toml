@@ -1,4 +1,4 @@
-baseURL = "https://takeyamayuki.github.io/portfolio"
+baseURL = "https://takeyamayuki.github.io"
 title   = "Yuki Takeyama"
 languageCode = "en-us"
 theme = "hello-friend-ng"
