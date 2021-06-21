@@ -19,17 +19,17 @@ images:
 
 ## プロジェクト
 * ロボカップジュニア    
-チームは２人で運営していて、自分が機構設計、回路基板設計担当。もう１人がプログラミング担当。自分は、主に123Ddesignで機構設計、KiCad,bsch3vを用いて基板を設計開発をしていた。高校２年生のときには、全国５位になった。
+　チームは２人で運営。自分が機構設計、回路基板設計担当。もう１人がプログラミング担当。自分は、主に123Ddesignで機構設計、KiCad,bsch3vを用いて基板を設計開発をしていた。高校２年生のときには、全国５位になった。
 * NonMouse    
-Webカメラを用いて、実体のないマウスの開発に成功。以下に詳細。    
+　Webカメラを用いて、実体のないマウスの開発に成功。以下に詳細。    
     * [github](https://github.com/takeyamayuki/NonMouse2)  
     * [youtube](https://youtu.be/ufvOJUTCF8M)  
 * 文化祭でのシューティングゲーム開発  
-３人で作っていて、自分は回路設計、はんだ付けを担当。もう１人がファームウェア（マイコンプログラミング）、3人目が、パソコン上でのアプリ開発を担当し、作業を分担した。最終的にはレーザーでCdSセンサーの的を撃つと、音がなり、パソコン上で点数がカウントされ、web上の順位表に表示するものができた。  
+　３人で作っていて、自分は回路設計、はんだ付けを担当。もう１人がファームウェア（マイコンプログラミング）、3人目が、パソコン上でのアプリ開発を担当し、作業を分担した。最終的にはレーザーでCdSセンサーの的を撃つと、音がなり、パソコン上で点数がカウントされ、web上の順位表に表示するものができた。  
 * 競技プログラミング  
-C/C++, Pythonを用いてAtcoderに出場している。現在、灰色。
+　C/C++, Pythonを用いてAtcoderに出場している。現在、灰色。
 * その他自己開発    
-学習リモコン、シンセサイザー、ファイルサーバー、倒立振子などの製作
+　学習リモコン、シンセサイザー、ファイルサーバー、倒立振子などの製作
 
 ## 開発言語、ツール
 それぞれの項目において、使用頻度の高い順に並んでいます。
@@ -48,16 +48,7 @@ SoundCloud、Youtubeで自分で作った曲を投稿。
 * 「[パフェいわしをNCS風にRemixしてみたwww (feat.きりたん)](https://youtu.be/u1lYUsXILzE)」という題名で、ぱふぇいわしをEDMアレンジ
 * 「[セミの鳴き声をEDMにRemixしてみたwww](https://youtu.be/ZytECgMGO9s)」という題名で、蝉の鳴き声でEDMを製作。さらに、映像も３DCGソフトblenderを用いて自己製作。
 
-## リンク
-* [ThisWebsite](https://takeyamayuki.github.io/portfolio/)   
-* [Youtube](https://www.youtube.com/channel/UC2Ijyce-DOkMKqagTPDZleg)
-* [Youtube(RoboCupJunior2017)](https://www.youtube.com/channel/UCUD8Q4T8kha_dqY00fZ1tWQ)   
-* [note](https://note.com/spinach_egg)  
-* [HatenaBlog](https://namikitake.hateblo.jp/)  
-* [elchika](https://elchika.com/user/takeyama/?page=0)  
-* [GitHub](https://github.com/takeyamayuki)  
-* [doda](https://campus.doda.jp/profile/list/appeal)  
-* [Soundcloud](https://soundcloud.com/takeyamadesu)  
+
 
 
 
