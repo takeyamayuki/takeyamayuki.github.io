@@ -8,7 +8,7 @@ images:
 
 * [ThisWebsite](https://takeyamayuki.github.io/portfolio/)   
 * [Youtube](https://www.youtube.com/channel/UC2Ijyce-DOkMKqagTPDZleg)
-* [Youtube(RoboCupJunior2017)](https://www.youtube.com/channel/UCUD8Q4T8kha_dqY00fZ1tWQ)   
+* [Youtube(RoboCupJunior)](https://www.youtube.com/channel/UCUD8Q4T8kha_dqY00fZ1tWQ)   
 * [note](https://note.com/spinach_egg)  
 * [HatenaBlog](https://namikitake.hateblo.jp/)  
 * [elchika](https://elchika.com/user/takeyama/?page=0)  
