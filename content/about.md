@@ -17,15 +17,6 @@ images:
 * Apr. 2019 - 青山学院大学 理工学部 電気電子工学科入学    
 * Jun. 2021 - 青山学院大学 理工学部 電気電子工学科 学部３年    
 
-## 開発環境、ツール
-* 使用言語: C/C++, Python, Markdown, (MATLAB) 
-* OS: MacOS, Ubuntu, Windows, RaspberrypiOS
-* エディタ: VScode, nano, vim
-* ツール: Arduino, Git/GitHub, ROS, MPLAB IDE, STM32CubeIDE  
-* 基板設計CAD: Fritzing, KiCad, PasS, bsch3v  
-* 3DCAD: Fusion360, (123Ddesign)      
-* 実験機器: 安定化電源, オシロスコープ  
-
 ## プロジェクト
 * ロボカップジュニア    
 ２台の完全自律型ロボット同士でサッカーをして、点数を勝負する大会であるロボカップジュニアサッカーにおいて、高校２年生のときに、全国５位。チームは２人で運営。自分は、主に123Ddesignで機構設計、KiCad,bsch3vを用いて基板を設計開発。もう１人がプログラミングを担当。[youtube](https://www.youtube.com/playlist?list=PLkEBRGnKNUILFJv4zKvQkQi69NoT-_FYg) に試合動画を公開。  
@@ -33,7 +24,8 @@ images:
 {{< image src="/img/00.jpg" position="center" style="border-radius: 4px;" >}}  
 
 * NonMouse    
-Webカメラを用いて、手の骨格を認識することで実体のないマウスの開発に成功。以下に詳細。    
+Webカメラを用いて、手の骨格を認識することで実体のないマウスの開発に成功。以下に詳細。
+{{< image src="/img/02.gif" position="center" style="border-radius: 4px;" >}}    
     * [github](https://github.com/takeyamayuki/NonMouse2)  
     * [youtube](https://youtu.be/ufvOJUTCF8M)  
 * 文化祭でのシューティングゲーム開発  
@@ -45,7 +37,14 @@ C++, Pythonを用いてAtcoderに出場。現在、灰色。
 * その他自己開発    
 学習リモコン、シンセサイザー、ファイルサーバー、倒立振子などの製作。
 
-
+## 開発環境、ツール
+* 使用言語: C/C++, Python, Markdown, (MATLAB) 
+* OS: MacOS, Ubuntu, Windows, RaspberrypiOS
+* エディタ: VScode, nano, vim
+* ツール: Arduino, Git/GitHub, ROS, MPLAB IDE, STM32CubeIDE  
+* 基板設計CAD: Fritzing, KiCad, PasS, bsch3v  
+* 3DCAD: Fusion360, (123Ddesign)      
+* 実験機器: 安定化電源, オシロスコープ 
 ## 作曲
 SoundCloud、Youtubeで自分で作った曲を投稿。  
 * 「[日体大コールをNCS風にRemixしてみたwww](https://www.youtube.com/watch?v=4RMUM_g9-A8)」がYoutube上で現在1.4万再生  
