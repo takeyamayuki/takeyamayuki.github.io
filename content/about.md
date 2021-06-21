@@ -28,7 +28,7 @@ images:
 
 ## プロジェクト
 * ロボカップジュニア    
-２台の完全自律型ロボット同士でサッカーをして、点数を勝負する大会であるロボカップジュニアサッカーにおいて、高校２年生のときに、全国５位。チームは２人で運営。自分は、主に123Ddesignで機構設計、KiCad,bsch3vを用いて基板を設計開発。もう１人がプログラミングを担当。[youtube](https://www.youtube.com/playlist?list=PLkEBRGnKNUILFJv4zKvQkQi69NoT-_FYg) に試合動画を公開。
+２台の完全自律型ロボット同士でサッカーをして、点数を勝負する大会であるロボカップジュニアサッカーにおいて、高校２年生のときに、全国５位。チームは２人で運営。自分は、主に123Ddesignで機構設計、KiCad,bsch3vを用いて基板を設計開発。もう１人がプログラミングを担当。[youtube](https://www.youtube.com/playlist?list=PLkEBRGnKNUILFJv4zKvQkQi69NoT-_FYg) に試合動画を公開。  
 {{< image src="/img/00.jpg" position="center" style="border-radius: 4px;" >}}  
 
 * NonMouse    
