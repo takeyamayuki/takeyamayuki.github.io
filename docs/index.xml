@@ -23,13 +23,7 @@
       
       <guid>https://takeyamayuki.github.io/portfolio/about/</guid>
       <description>自己紹介 武山侑輝（たけやま ゆうき）(Yuki Takeyama) 技術全般好きな大学生です(Arduino, KiCad, Pythonあたりが得意です)
-経歴、表彰  茨城県立並木中等教育学校 入学 ロボカップジュニアサッカーライトウェイト2017中津川オープン５位 茨城県立並木中等教育学校 卒業 青山学院大学 理工学部 電気電子工学科入学 青山学院大学 理工学部 電気電子工学科 学部３年  プロジェクト   ロボカップジュニア ２台の完全自律型ロボット同士でサッカーをして、点数を勝負する大会であるロボカップジュニアサッカーにおいて、高校２年生のときに、全国５位。チームは２人で運営。自分は、主に123Ddesignで機構設計、KiCad,bsch3vを用いて基板を設計開発。もう１人がプログラミングを担当。   NonMouse Webカメラを用いて、手の骨格を認識することで実体のないマウスの開発に成功。以下に詳細。
- github youtube    文化祭でのシューティングゲーム開発
-レーザーでCdSセンサーの的を撃つと、音がなり、パソコン上で点数がカウントされ、順位表に表示するシステムを作った。３人で作っていて、自分は回路設計、はんだ付けを担当。もう１人がファームウェア（マイコンプログラミング）、3人目が、パソコン上でのアプリ開発を担当。   競技プログラミング
-C++, Pythonを用いてAtcoderに出場。現在、灰色。
-  その他自己開発 学習リモコン、シンセサイザー、ファイルサーバー、倒立振子などの製作。
-  開発言語、ツール それぞれの項目において、使用頻度の高い順に並んでいます。
- 使用言語: C/C++, Python, Markdown, (MATLAB) OS: MacOS, Ubuntu, Windows, RaspberrypiOS エディタ: VScode, nano, vim ツール: Arduino, Git/GitHub, ROS, MPLAB IDE, STM32CubeIDE 基板設計CAD: Fritzing, KiCad, PasS, bsch3v, 3DCAD: Fusion360, (123Ddesign) 実験機器: 安定化電源, オシロスコープ  作曲 SoundCloud、Youtubeで自分で作った曲を投稿。</description>
+経歴、表彰  Apr. 2012 - 茨城県立並木中等教育学校 入学 Mar. 2017 - ロボカップジュニアサッカーライトウェイト2017中津川オープン５位 Mar. 2018 - 茨城県立並木中等教育学校 卒業 Apr. 2019 - 青山学院大学 理工学部 電気電子工学科入学 Jun. 2021 - 青山学院大学 理工学部 電気電子工学科 学部３年  開発環境、ツール  使用言語: C/C++, Python, Markdown, (MATLAB) OS: MacOS, Ubuntu, Windows, RaspberrypiOS エディタ: VScode, nano, vim ツール: Arduino, Git/GitHub, ROS, MPLAB IDE, STM32CubeIDE 基板設計CAD: Fritzing, KiCad, PasS, bsch3v 3DCAD: Fusion360, (123Ddesign) 実験機器: 安定化電源, オシロスコープ  プロジェクト   ロボカップジュニア ２台の完全自律型ロボット同士でサッカーをして、点数を勝負する大会であるロボカップジュニアサッカーにおいて、高校２年生のときに、全国５位。チームは２人で運営。自分は、主に123Ddesignで機構設計、KiCad,bsch3vを用いて基板を設計開発。もう１人がプログラミングを担当。youtube に試合動画を公開。   NonMouse Webカメラを用いて、手の骨格を認識することで実体のないマウスの開発に成功。以下に詳細。</description>
     </item>
     
     <item>
