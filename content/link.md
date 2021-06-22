@@ -6,12 +6,15 @@ toc: false
 images:
 ---
 
-* [ThisWebsite](https://takeyamayuki.github.io/portfolio/)   
+* [Portfolio](https://takeyamayuki.github.io/portfolio/)  
+* [GitHub](https://github.com/takeyamayuki)    
 * [Youtube](https://www.youtube.com/channel/UC2Ijyce-DOkMKqagTPDZleg)
 * [Youtube(RoboCupJunior)](https://www.youtube.com/channel/UCUD8Q4T8kha_dqY00fZ1tWQ)   
+
 * [note](https://note.com/spinach_egg)  
 * [HatenaBlog](https://namikitake.hateblo.jp/)  
 * [elchika](https://elchika.com/user/takeyama/?page=0)  
-* [GitHub](https://github.com/takeyamayuki)  
-* [doda](https://campus.doda.jp/profile/list/appeal)  
+ 
+* [doda](https://campus.doda.jp/profile/list/appeal) 
+ 
 * [Soundcloud](https://soundcloud.com/takeyamadesu)  
