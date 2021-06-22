@@ -173,7 +173,7 @@ disableHugoGeneratorInject = false
 
     [languages.en.params.logo]
         logoMark     = ">"
-        logoText     = "$ cd $HOME"
+        logoText     = "$ cd /home"
         logoHomeLink = "/"
     # or
     #
@@ -185,10 +185,10 @@ disableHugoGeneratorInject = false
     [languages.en.menu]
         [[languages.en.menu.main]]
             identifier = "about"
-            name = "$ cd ~/about"
+            name = "About"
             url = "/about"
         [[languages.en.menu.main]]
             identifier = "link"
-            name = "$ cd ~/link"
+            name = "Link"
             url = "/link"
 
