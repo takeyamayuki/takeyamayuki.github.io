@@ -9,6 +9,7 @@ images:
 * [Portfolio](https://takeyamayuki.github.io)  
 * [GitHub](https://github.com/takeyamayuki)    
 * [Twitter](https://twitter.com/takeyamaaaaa)  
+* [connpass](https://connpass.com/user/takeyamaaaaa/)
 * [Youtube](https://www.youtube.com/channel/UC2Ijyce-DOkMKqagTPDZleg)
 * [Youtube(RoboCupJunior)](https://www.youtube.com/channel/UCUD8Q4T8kha_dqY00fZ1tWQ)   
 
