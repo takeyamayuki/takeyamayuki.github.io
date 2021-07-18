@@ -22,17 +22,17 @@ images:
 ## プロジェクト
 * ロボカップジュニア    
 ２台の完全自律型ロボット同士でサッカーの試合をする大会であるロボカップジュニアサッカーにおいて、高校２年生のときに全国５位。チームは２人で運営。自分は、主に123Ddesignで機構設計、KiCad,bsch3vを用いて回路、基板を設計開発。もう１人がプログラミングを担当。[youtube](https://www.youtube.com/playlist?list=PLkEBRGnKNUILFJv4zKvQkQi69NoT-_FYg) に試合動画を公開。  
-{{< image src="/img/00.jpg" position="center" style="border-radius: 8px;" >}}    
+{{< image width="100" src="/img/00.jpg" position="center" style="border-radius: 8px;" >}}
 
 * NonMouse    
 Webカメラを用いて、手の骨格を認識することで実体のないマウスの開発に成功。以下に詳細。  
     * [github](https://github.com/takeyamayuki/NonMouse2)  
     * [youtube](https://youtu.be/ufvOJUTCF8M)  
-{{< image src="/img/02.gif" position="center" style="border-radius: 8px;" >}}  
+{{< image width="40" src="/img/02.gif" position="center" style="border-radius: 8px;" >}}  
 
 * 文化祭でのシューティングゲーム開発  
 レーザーでCdSセンサーの的を撃つと、音がなり、パソコン上で点数がカウントされ、順位表に表示するシステムを構築。３人で作っていて、自分は回路設計、はんだ付けを担当。もう１人がファームウェア（マイコンプログラミング）、3人目が、パソコン上でのアプリ開発を担当。  
-{{< image src="/img/012.JPG" position="center" style="border-radius: 8px;" >}}  
+{{< image width="100" src="/img/012.JPG" position="center" style="border-radius: 8px;" >}}   
 
 * 競技プログラミング  
 C++, Pythonを用いてAtcoderに出場。現在、灰色  
