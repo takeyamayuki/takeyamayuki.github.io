@@ -21,17 +21,17 @@ images:
 
 ## プロジェクト
 * **ロボカップジュニア**    
-２台の完全自律型ロボット同士でサッカーの試合をする大会であるロボカップジュニアサッカーにおいて、高校２年生のときに全国５位。チームは２人で運営。自分は、主に123Ddesignで機構設計、KiCad,bsch3vを用いて回路、基板を設計開発。もう１人がプログラミングを担当。[youtube](https://www.youtube.com/playlist?list=PLkEBRGnKNUILFJv4zKvQkQi69NoT-_FYg) に試合動画を公開。  [note](https://note.com/spinach_egg/n/n5938fe6f424b)にロボットの詳細。
+２台の完全自律型ロボット同士でサッカーの試合をする大会であるロボカップジュニアサッカーにおいて、高校２年生のときに全国５位。チームは２人で運営。自分は、主に123Ddesignで機構設計、KiCad,bsch3vを用いて回路、基板を設計開発。[youtube](https://www.youtube.com/playlist?list=PLkEBRGnKNUILFJv4zKvQkQi69NoT-_FYg) に試合動画を公開。  [note](https://note.com/spinach_egg/n/n5938fe6f424b)にロボットの詳細。
 
 {{< image src="/img/0894.JPG" position="center" style="width:70%; border-radius: 8px;" >}}
 
 * **NonMouse**    
-Webカメラを用いて、手の骨格を認識することで実体のないマウスの開発に成功。以下に詳細。[github](https://github.com/takeyamayuki/NonMouse2)と[youtube](https://youtu.be/ufvOJUTCF8M)に詳細。  
+Webカメラを用いて、手の骨格を認識することで実体のないマウスの開発に成功。[github](https://github.com/takeyamayuki/NonMouse2)と[youtube](https://youtu.be/ufvOJUTCF8M)に詳細。  
 
 {{< image src="/img/02.gif" position="center" style="width:70%; border-radius: 8px;" >}}  
 
 * **シューティングゲーム**  
-レーザーでCdSセンサーの的を撃つと、音がなり、パソコン上で点数がカウントされ、順位表に表示するシステムを、文化祭のため構築。３人で作っていて、自分は回路設計、はんだ付けを担当。もう１人がファームウェア（マイコンプログラミング）、3人目が、パソコン上でのアプリ開発を担当。  
+レーザーでCdSセンサーの的を撃つと、パソコン上で点数がカウントされ、順位表に表示するシステムを、文化祭のため構築。３人で作っていて、自分は回路設計、はんだ付けを担当。2人目がファームウェア、3人目が、パソコン上でのアプリ開発を担当。  
 
 {{< image src="/img/02_013.JPG" position="center" style="width:70%; border-radius: 8px;" >}}   
 
