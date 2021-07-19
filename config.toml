@@ -103,10 +103,10 @@ disableHugoGeneratorInject = false
   # If you want, you can easily override the default footer with your own content. 
   #
   [params.footer]
-    trademark = true
+    trademark = false
     rss = false
     copyright = false
-    author = true
+    author = false
 
     topText = []
     bottomText = ["<span style=\"font-size:0.7rem;\">Powered by <a href=\"http://gohugo.io\">Hugo</a></span>",
