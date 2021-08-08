@@ -1,3 +1,3 @@
 # takeyamayuki.github.io
-this is a program of my portfolio site  
+this is a Hugo implementation of my portfolio site  
 https://takeyamayuki.github.io/
