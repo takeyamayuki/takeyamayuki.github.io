@@ -41,14 +41,16 @@ C++, Pythonを用いてAtcoderに出場。現在、灰色
 * **その他**  
 学習リモコン、シンセサイザー、ファイルサーバー、倒立振子などの製作。
 
-## 開発環境、ツール、使用機材
-* 使用言語: C/C++, Python, Markdown, (MATLAB)  
+## スキル 
+* プログラミング言語: C/C++, Python, Markdown, (MATLAB)  
 * OS: MacOS, Ubuntu, Windows, RaspberrypiOS  
-* エディタ: VScode, nano, vim  
-* ツール: Arduino, Git/GitHub, ROS, MPLAB IDE, STM32CubeIDE  
+* エディタ: VScode, nano  
+* ツール: Arduino, Git/GitHub, ROS, MPLAB IDE, STM32CubeIDE
+* Web系ツール: Hugo, Docker, (Flask)  
 * 基板設計CAD: Fritzing, KiCad, PasS, bsch3v  
 * 3DCAD: Fusion360, (123Ddesign)      
 * 使用機材: 安定化電源, オシロスコープ, 3Dプリンター
+
 ## 作曲
 SoundCloud、Youtubeで自分で作った曲を投稿。  
 * 「[日体大コールをNCS風にRemixしてみたwww](https://www.youtube.com/watch?v=4RMUM_g9-A8)」がYoutube上で現在1.4万再生  
