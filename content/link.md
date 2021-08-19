@@ -13,14 +13,18 @@ images:
 
 * [note](https://note.com/spinach_egg)  
 
-* [connpass](https://connpass.com/user/takeyamaaaaa/)  
+* [Zenn](https://zenn.dev/ninzin)
 
 * [Youtube](https://www.youtube.com/channel/UC2Ijyce-DOkMKqagTPDZleg)  
 
 * [Youtube(RoboCupJunior)](https://www.youtube.com/channel/UCUD8Q4T8kha_dqY00fZ1tWQ)   
 
+* [connpass](https://connpass.com/user/takeyamaaaaa/)  
+
 * [HatenaBlog](https://namikitake.hateblo.jp/)  
 
 * [elchika](https://elchika.com/user/takeyama/?page=0)  
+
+* [Qiita](https://qiita.com/namiki_takeyama)
 
 * [Soundcloud](https://soundcloud.com/takeyamadesu)  
