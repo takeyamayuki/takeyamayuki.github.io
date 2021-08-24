@@ -19,6 +19,19 @@ images:
 * `2019-09` 富士通インターン参加   
 * `2021-06` 青山学院大学 理工学部 電気電子工学科 学部３年    
 
+## 興味
+- マイコン(PIC, STM32, Arduino), CPU, 低レイヤプログラミング(自作OS)
+- ロボティクス(ROS, 確率ロボティクス)
+- 画像処理(OpenCV)
+- Python
+- IoT(ESP32, HTTPS)
+- Web(Django)
+- 音楽、作曲
+- 動画編集
+
+## 資格
+- 英検２級
+- 第２種電気工事士
 ## プロジェクト
 * **ロボカップジュニア**    
 ２台の完全自律型ロボット同士でサッカーの試合をする大会であるロボカップジュニアサッカーにおいて、高校２年生のときに全国５位。チームは２人で運営。自分は、主に123Ddesignで機構設計、KiCad,bsch3vを用いて回路、基板を設計開発。[youtube](https://www.youtube.com/playlist?list=PLkEBRGnKNUILFJv4zKvQkQi69NoT-_FYg) に試合動画を公開。  [note](https://note.com/spinach_egg/n/n5938fe6f424b)にロボットの詳細。
