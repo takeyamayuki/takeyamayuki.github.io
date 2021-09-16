@@ -21,11 +21,12 @@ Arduino, KiCad, Pythonあたりが得意です
 * `2021-06` 青山学院大学 理工学部 電気電子工学科 学部３年    
 
 ## 興味
-- マイコン(PIC, STM32, Arduino), CPU, 低レイヤプログラミング(自作OS)
+- マイコン(PIC, STM32, Arduino), CPU
+- IoT(ESP32, HTTPS)
+- 自作OS, Linux
 - ロボティクス(ROS, 確率ロボティクス)
 - 画像処理(OpenCV)
 - Python
-- IoT(ESP32, HTTPS)
 - Web(Django)
 - 音楽、作曲
 - 動画編集
