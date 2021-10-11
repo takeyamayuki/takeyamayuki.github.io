@@ -1,3 +1,5 @@
 # takeyamayuki.github.io
-this is a Hugo implementation of my portfolio site  
+
+Implementation of my portfolio site with Hugo　　
+
 https://takeyamayuki.github.io/
