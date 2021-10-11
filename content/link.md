@@ -15,11 +15,9 @@ images:
 
 * [Zenn](https://zenn.dev/ninzin)
 
-* [Youtube](https://www.youtube.com/channel/UC2Ijyce-DOkMKqagTPDZleg)  
+* [Youtube(でんきにんじん)](https://www.youtube.com/channel/UC2Ijyce-DOkMKqagTPDZleg)  
 
 * [Youtube(RoboCupJunior)](https://www.youtube.com/channel/UCUD8Q4T8kha_dqY00fZ1tWQ)   
-
-* [connpass](https://connpass.com/user/takeyamaaaaa/)  
 
 * [HatenaBlog](https://namikitake.hateblo.jp/)  
 
@@ -28,3 +26,5 @@ images:
 * [Qiita](https://qiita.com/namiki_takeyama)
 
 * [Soundcloud](https://soundcloud.com/takeyamadesu)  
+
+* [connpass](https://connpass.com/user/takeyamaaaaa/)  
