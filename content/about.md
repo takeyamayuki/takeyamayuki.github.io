@@ -8,7 +8,7 @@ images:
 
 
 ## 武山侑輝（たけやま ゆうき）- Yuki Takeyama  
-Robotics, OS, Python, Musicが好きな大学生です  
+ロボット, OS, Python, 音楽が好きな大学生です  
 
 ## Career
 * `2012-04` 茨城県立並木中等教育学校 入学 
@@ -17,15 +17,15 @@ Robotics, OS, Python, Musicが好きな大学生です
 * `2021-06` 青山学院大学 理工学部 電気電子工学科 学部３年   
 
 ## Activities
-* `2016-09` 千葉大学 第10回高校生理科研究発表会にてロボット開発で優秀賞受賞
+* `2016-09` 千葉大学 第10回高校生理科研究発表会にて優秀賞受賞
 * `2017-03` ロボカップジュニアサッカーライトウェイト2017中津川オープン５位  
 * `2019-09` 富士通インターン参加   
 * `2021-03` [Youtubeチャンネル](https://www.youtube.com/channel/UC2Ijyce-DOkMKqagTPDZleg/featured)にて[日体大コールRemix](https://youtu.be/4RMUM_g9-A8)が１万回再生突破
 * `2021-10` 技育展 開発スキル支援部門にて「NonMouse」で優秀賞受賞
 
 ## Qualifications
-- 英検２級
-- 第２種電気工事士
+- `2015-09` 英検２級 取得
+- `2021-08` 第２種電気工事士 取得
 ## Projects
 * **ロボカップジュニア**    
 　２台の完全自律型ロボット同士でサッカーの試合をする大会であるロボカップジュニアサッカーにおいて、高校２年生のときに全国５位。チームは２人で運営。自分は、主に123Ddesignで機構設計、KiCad,bsch3vを用いて回路、基板を設計開発。[youtube](https://www.youtube.com/playlist?list=PLkEBRGnKNUILFJv4zKvQkQi69NoT-_FYg) に試合動画を公開。  [note](https://note.com/spinach_egg/n/n5938fe6f424b)にロボットの詳細。
@@ -68,11 +68,11 @@ SoundCloud、Youtubeで自分で作った曲を投稿。
 
 ## Interests
 - マイコン(PIC, STM32, Arduino), CPU
-- IoT(ESP32, HTTPS)
-- 自作OS, Linux
+- IoT(ESP32, RaspberryPi, RESTful API, MQTT, AWS IoT)
+- 自作OS, UNIX, RaspberryPiOS
 - ロボティクス(ROS, 確率ロボティクス)
 - 画像処理(OpenCV)
-- Python
-- Web(Django)
-- 音楽、作曲
+- Python, C++, C, MATLAB, Rust, TypeScript
+- Web(Django, Flask, Docker, Hugo, Heroku, Git/GitHub)
+- 音楽, 作曲
 - 動画編集
