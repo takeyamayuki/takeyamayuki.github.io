@@ -47,7 +47,7 @@ images:
 　C++, Pythonを用いてAtcoderに出場。現在、灰色  
 
 * **その他**  
-　学習リモコン、シンセサイザー、ファイルサーバー、倒立振子などの製作。
+　学習リモコン、シンセサイザー、ファイルサーバー、倒立振子などの製作。
 
 ## Development Environment 
 * プログラミング言語: C/C++, Python, Markdown, (MATLAB)  
@@ -77,3 +77,18 @@ SoundCloud、Youtubeで自分で作った曲を投稿。
 - Web(Django, Flask, Docker, Hugo, Heroku, Git/GitHub)
 - 音楽, 作曲
 - 動画編集
+
+## History
+- 中学受験  
+茨城で1、2番の中高一貫校に合格
+- ロボコン  
+中学：創造アイディアロボットコンテスト出場  
+高校：ロボカップジュニアサッカー全国5位  
+- 浪人  
+横浜の寮で病み人生挫折
+- 大学入学＆パリピ  
+髪染め、パーマ、酒呑サークル
+- 作曲  
+YouTubeで1万再生
+- 技術オタク  
+技育展優秀賞で10万賞金、youtuber?
