@@ -31,38 +31,44 @@ images:
 * `2015-09` 実用英語技能検定２級 取得
 * `2019-09` 普通自動車第一種運転免許 取得
 * `2021-08` 第２種電気工事士 取得
+* `2022-03` TOEIC 740点
 
-## Tech Projects
-
+## Tech Projects 
 * `ロボカップジュニアサッカー`  
-　２台の完全自律型ロボット同士でサッカーの試合をする大会であるロボカップジュニアサッカーにおいて、高校２年生のときに全国５位。チームは２人で運営。自分は、主に123Ddesignで機構設計、KiCad,bsch3vを用いて回路、基板を設計開発。[youtube](https://www.youtube.com/playlist?list=PLkEBRGnKNUILFJv4zKvQkQi69NoT-_FYg) に試合動画を公開。  [note](https://note.com/spinach_egg/n/n5938fe6f424b)にロボットの詳細。
+２台の完全自律型ロボット同士でサッカーの試合をする大会であるロボカップジュニアサッカーにおいて, 高校２年生のときに全国５位入賞. チームは２人で運営し、私は主に123Ddesignでの機構設計, KiCad, bsch3vを用いた回路, 基板の設計開発を担当. [試合動画](https://www.youtube.com/playlist?list=PLkEBRGnKNUILFJv4zKvQkQi69NoT-_FYg), [ロボットの詳細](https://note.com/spinach_egg/n/n5938fe6f424b)
 
 {{< image src="/img/0894.JPG" position="center" style="width:70%; border-radius: 8px;" >}}
 
 * `NonMouse`   
-　Webカメラを用いて、手の骨格を認識することで実体のないマウスの開発に成功。[github](https://github.com/takeyamayuki/NonMouse2)と[youtube](https://youtu.be/ufvOJUTCF8M)に詳細。技育展2021にて開発スキル支援部門で優秀賞受賞。
+Webカメラを用いて手の骨格を認識することで実体のないマウスの開発に成功. 技育展2021にて開発スキル支援部門で優秀賞受賞. [github](https://github.com/takeyamayuki/NonMouse2), [youtube](https://youtu.be/ufvOJUTCF8M)
 
 {{< image src="https://user-images.githubusercontent.com/22733958/135473409-9ddf2fc5-4722-4e55-8eef-64476635c10d.gif" position="center" style="width:70%; border-radius: 8px;" >}}  
 
 * `シューティングゲーム`      
-　レーザーでCdSセンサーの的を撃つと、パソコン上で点数がカウントされ、順位表に表示するシステムを、文化祭のため構築。３人で作っていて、自分は回路設計、はんだ付けを担当。2人目がファームウェア、3人目が、パソコン上でのアプリ開発を担当。  
+高校の文化祭において, レーザーでCdSセンサーの的を撃つとパソコン上で点数がカウントされ順位表に表示するシステムを構築. ３人で作っていて, 自分は回路設計, はんだ付けを担当. 
 
 {{< image src="/img/02_013.JPG" position="center" style="width:70%; border-radius: 8px;" >}}
 
+* `Youtubeチャンネルの運営`  
+[でんきにんじんチャンネル](https://www.youtube.com/channel/UC2Ijyce-DOkMKqagTPDZleg)で電子工作, プログラミング, 商品レビューや音楽の動画を投稿.
+「[【電子工作】シンセサイザーを作る](https://youtu.be/jINfBOPpO74) 」というシンセサイザーの作り方の動画を投稿し, 現在8000回再生.
+
 <!-- * `競技プログラミング`      
-　C++, Pythonを用いてAtcoderに出場。現在、灰色  
+C++, Pythonを用いてAtcoderに出場。現在、灰色  
 
 * `その他`      
-　学習リモコン、シンセサイザー、ファイルサーバー、倒立振子などの製作。 -->
+学習リモコン、シンセサイザー、ファイルサーバー、倒立振子などの製作。 -->
 
 ## Art Projects
+SoundCloud, Youtubeで自分で作った曲や動画を投稿.    
+* [日体大コールをNCS風にRemixしてみたwww](https://www.youtube.com/watch?v=4RMUM_g9-A8)   
+Youtube上で現在1.9万再生.
 
-SoundCloud、Youtubeで自分で作った曲や動画を投稿。  
+* [にわとりの声をEDMにRemixしてみたwww](https://youtu.be/6ET-LOTNuJA)    
+ニワトリの鳴き声を用いて, EDMを制作. 映像もblenderを用いて制作.
 
-* 「[日体大コールをNCS風にRemixしてみたwww](https://www.youtube.com/watch?v=4RMUM_g9-A8)」がYoutube上で現在1.4万再生
-* 「[にわとりがNCS風のEDMを歌い出しました](https://youtu.be/6ET-LOTNuJA)」という題名で、ニワトリの鳴き声を用いて、EDMを製作。さらに、映像もblenderを用いて製作。
-* 「[パフェいわしをNCS風にRemixしてみたwww (feat.きりたん)](https://youtu.be/u1lYUsXILzE)」という題名で、ぱふぇいわしをEDMアレンジ
-* 「[セミの鳴き声をEDMにRemixしてみたwww](https://youtu.be/ZytECgMGO9s)」という題名で、蝉の鳴き声でEDMを製作。さらに、映像も３DCGソフトblenderを用いて自主製作。
+* [パフェいわしをNCS風にRemixしてみたwww (feat.きりたん)](https://youtu.be/u1lYUsXILzE)  
+ 
 
 
 ## Skill
