@@ -18,20 +18,19 @@ images:
 * `2019-04` 青山学院大学 理工学部 電気電子工学科入学
 * `2022-05` 青山学院大学 理工学部 電気電子工学科 学部4年
 
-## Activities
-
-* `2016-09` 千葉大学 第10回高校生理科研究発表会にて優秀賞受賞
-* `2017-03` ロボカップジュニアサッカーライトウェイト2017中津川オープン５位  
-* `2019-09` 富士通インターン参加
-* `2021-03` [Youtubeチャンネル](https://www.youtube.com/channel/UC2Ijyce-DOkMKqagTPDZleg/featured)にて[日体大コールRemix](https://youtu.be/4RMUM_g9-A8)が１万回再生突破
-* `2021-10` 技育展 開発スキル支援部門にて「NonMouse」で優秀賞受賞
-
 ## Qualifications
-
 * `2015-09` 実用英語技能検定２級 取得
 * `2019-09` 普通自動車第一種運転免許 取得
 * `2021-08` 第２種電気工事士 取得
 * `2022-03` TOEIC 740点
+
+## Activities
+* `2016-09` 千葉大学 第10回高校生理科研究発表会にて優秀賞受賞
+* `2017-03` ロボカップジュニアサッカーライトウェイト2017中津川オープン５位  
+* `2019-09` 富士通インターン(3days)参加
+* `2021-03` [Youtubeチャンネル](https://www.youtube.com/channel/UC2Ijyce-DOkMKqagTPDZleg/featured)にて[日体大コールRemix](https://youtu.be/4RMUM_g9-A8)が１万回再生突破
+* `2021-10` 技育展 開発スキル支援部門にて「NonMouse」で優秀賞受賞
+
 
 ## Tech Projects 
 * `ロボカップジュニアサッカー`  
@@ -71,18 +70,19 @@ Youtube上で現在1.9万再生.
  
 
 
-## Skill
+## Skills
 - プログラミング  
-    * 言語: C/C++, Python, MATLAB, Markdown, (Rust, Dart) 
+    * 言語: C/C++, Python, MATLAB, Markdown, (Rust, Dart, Swift) 
     * OS: MacOS, Ubuntu, Windows, RaspberrypiOS  
     * エディタ: VScode, nano  
     * ツール: Arduino, MPLAB IDE, STM32CubeIDE, ROS, OpenCV, MediaPiPe, Git/GitHub, Docker
     * Web系ツール: Hugo, Wordpress
 
 - 回路、ハードウェア
-    * 基板設計CAD: Fritzing, KiCad, PasS, bsch3v  
-    * 3DCAD: Fusion360, (123Ddesign)
+    * 基板/回路設計CAD: Fritzing, KiCad, PasS, bsch3v  
+    * 3DCAD: (123Ddesign, Fusion360)
     * 機材: 安定化電源, オシロスコープ, 3Dプリンター
+    * 電子工作系機材全般: はんだごて, テスターなど
 
 - コンテンツ
     * 画像編集: Affinity Photo, Affinity Designer
@@ -93,13 +93,13 @@ Youtube上で現在1.9万再生.
 ## Interests
 
 * マイコン(PIC, STM32, Arduino)
-* 自作CPU
+* 自作CPU, RISC-V
 * IoT(ESP32, RaspberryPi, MQTT)
 * 自作OS, UNIX, RaspberryPiOS
 * ロボティクス(ROS, 確率ロボティクス)
 * 画像処理(OpenCV, MediaPipe)
 * 言語(Python, C++, C, MATLAB, Rust, Typescript, Dart)
-* Web(Django, Docker, Hugo, Git/GitHub, Wordpress, Flutter, AWS)
+* Web(Django, Docker, Flutter, AWS, Babylon.js)
 * 音楽, 作曲
 * 動画編集
 
