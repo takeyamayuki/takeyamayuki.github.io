@@ -72,7 +72,7 @@ Youtube上で現在1.9万再生.
 
 ## Skills
 - プログラミング  
-    * 言語: C/C++, Python, MATLAB, Markdown, (Rust, Dart, Swift) 
+    * 言語: C/C++, Python, MATLAB, Markdown, (Rust, Dart, Swift, Javascript) 
     * OS: MacOS, Ubuntu, Windows, RaspberrypiOS  
     * エディタ: VScode, nano  
     * ツール: Arduino, MPLAB IDE, STM32CubeIDE, ROS, OpenCV, MediaPiPe, Git/GitHub, Docker
