@@ -13,29 +13,28 @@ images:
 
 ※ 以下、下線が引いてあるものはリンク先に飛べます
 
-## Career
-
-* `2012-04` 茨城県立並木中等教育学校 入学
-* `2018-03` 茨城県立並木中等教育学校 卒業  
-* `2019-04` 青山学院大学 理工学部 電気電子工学科入学
+## 🏫 Education
 * `2022-05` 青山学院大学 理工学部 電気電子工学科 学部4年
-
-## Qualifications
-* `2015-09` 実用英語技能検定２級 取得
-* `2019-09` 普通自動車第一種運転免許 取得
-* `2021-08` 第２種電気工事士 取得
-* `2022-03` TOEIC 740点
-
-## Activities
-* `2016-01` 筑波大学GFEST第3回共通プログラム チャレンジコース参加
-* `2016-09` [千葉大学 第10回高校生理科研究発表会にて優秀賞受賞](https://www.cfs.chiba-u.jp/koudai-renkei/event/history/2016/10jusyou.pdf)
-* `2017-03` ロボカップジュニアサッカーライトウェイト2017中津川オープン５位 
 * `2019-09` 富士通インターン(3days)参加
-* `2021-03` [Youtubeチャンネル](https://www.youtube.com/channel/UC2Ijyce-DOkMKqagTPDZleg/featured)にて[日体大コールRemix](https://youtu.be/4RMUM_g9-A8)が１万回再生突破
+* `2019-04` 青山学院大学 理工学部 電気電子工学科入学
+* `2018-03` 茨城県立並木中等教育学校 卒業 
+* `2016-01` 筑波大学GFEST第3回共通プログラム チャレンジコース参加
+* `2012-04` 茨城県立並木中等教育学校 入学 
+
+## 📔 Qualifications
+* `2022-03` TOEIC 740点
+* `2021-08` 第２種電気工事士 取得
+* `2019-09` 普通自動車第一種運転免許 取得
+* `2015-09` 実用英語技能検定２級 取得
+
+## 🏆 Awards
 * `2021-10` 技育展 開発スキル支援部門にて「NonMouse」を発表し、優秀賞受賞
+* `2017-03` ロボカップジュニア・ジャパンオープン2017 サッカーライトウェイト ５位 
+* `2016-09` [千葉大学 第10回高校生理科研究発表会にて優秀賞受賞](https://www.cfs.chiba-u.jp/koudai-renkei/event/history/2016/10jusyou.pdf)
 
 
-## Tech Projects 
+
+## 💻 Tech Projects 
 * `ロボカップジュニアサッカー`  
 ２台の完全自律型ロボット同士でサッカーの試合をする大会であるロボカップジュニアサッカーにおいて, 高校２年生のときに全国５位入賞. チームは２人で運営し、私は主に123Ddesignでの機構設計, KiCad, bsch3vを用いた回路, 基板の設計開発を担当. [試合動画](https://www.youtube.com/playlist?list=PLkEBRGnKNUILFJv4zKvQkQi69NoT-_FYg), [ロボットの詳細](https://note.com/spinach_egg/n/n5938fe6f424b)
 
@@ -71,12 +70,11 @@ C++, Pythonを用いてAtcoderに出場。現在、灰色   -->
 
 ## Art Projects
 SoundCloud, Youtubeで自分で作った曲や動画を投稿.    
+
 * [日体大コールをNCS風にRemixしてみたwww](https://www.youtube.com/watch?v=4RMUM_g9-A8)   
 Youtube上で現在1.9万再生.
-
 * [にわとりの声をEDMにRemixしてみたwww](https://youtu.be/6ET-LOTNuJA)    
 ニワトリの鳴き声を用いて, EDMを制作. 映像もblenderを用いて制作.
-
 * [パフェいわしをNCS風にRemixしてみたwww (feat.きりたん)](https://youtu.be/u1lYUsXILzE)  
  
 
@@ -84,7 +82,7 @@ Youtube上で現在1.9万再生.
 ## Skills
 - プログラミング  
     * 言語: C/C++, Python, MATLAB, Markdown, (Rust, Dart, Swift, Javascript) 
-    * OS: MacOS, Ubuntu, Windows, RaspberrypiOS  
+    * OS: macOS, Ubuntu, Windows, RaspberrypiOS  
     * エディタ: VScode, nano  
     * ツール: ArduinoIDE, PlatformIO, MPLAB IDE, OpenCV, MediaPipe, Git/GitHub, Docker, (STM32CubeIDE, MbedStudio, ROS, TeX)
     * Web系ツール: Hugo, Wordpress
