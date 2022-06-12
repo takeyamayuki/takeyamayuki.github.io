@@ -13,6 +13,11 @@ images:
 
 ※ 以下、下線が引いてあるものはリンク先に飛べます
 
+## 🏆 Awards
+* `2021-10` 技育展 開発スキル支援部門にて「NonMouse」を発表し、優秀賞受賞
+* `2017-03` ロボカップジュニア・ジャパンオープン2017 サッカーライトウェイト ５位 
+* `2016-09` [千葉大学 第10回高校生理科研究発表会にて優秀賞受賞](https://www.cfs.chiba-u.jp/koudai-renkei/event/history/2016/10jusyou.pdf)
+
 ## 🏫 Education
 * `2022-05` 青山学院大学 理工学部 電気電子工学科 学部4年
 * `2019-09` 富士通インターン(3days)参加
@@ -26,12 +31,6 @@ images:
 * `2021-08` 第２種電気工事士 取得
 * `2019-09` 普通自動車第一種運転免許 取得
 * `2015-09` 実用英語技能検定２級 取得
-
-## 🏆 Awards
-* `2021-10` 技育展 開発スキル支援部門にて「NonMouse」を発表し、優秀賞受賞
-* `2017-03` ロボカップジュニア・ジャパンオープン2017 サッカーライトウェイト ５位 
-* `2016-09` [千葉大学 第10回高校生理科研究発表会にて優秀賞受賞](https://www.cfs.chiba-u.jp/koudai-renkei/event/history/2016/10jusyou.pdf)
-
 
 
 ## 💻 Tech Projects 
@@ -68,7 +67,7 @@ C++, Pythonを用いてAtcoderに出場。現在、灰色   -->
 
 
 
-## Art Projects
+## 🎶 Art Projects
 SoundCloud, Youtubeで自分で作った曲や動画を投稿.    
 
 * [日体大コールをNCS風にRemixしてみたwww](https://www.youtube.com/watch?v=4RMUM_g9-A8)   
@@ -79,7 +78,7 @@ Youtube上で現在1.9万再生.
  
 
 
-## Skills
+## 💪 Skills
 - プログラミング  
     * 言語: C/C++, Python, MATLAB, Markdown, (Rust, Dart, Swift, Javascript) 
     * OS: macOS, Ubuntu, Windows, RaspberrypiOS  
@@ -99,7 +98,7 @@ Youtube上で現在1.9万再生.
     * 音楽制作: Logic Pro X, Garageband, 音楽理論, マスタリング, ミックス
     * Office: Word, Excel, PowerPoint, Onenote
 
-## Interests
+## 👀 Interests
 
 - Tech
     * マイコン(PIC, STM32, Arduino)
