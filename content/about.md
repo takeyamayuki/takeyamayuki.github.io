@@ -14,7 +14,7 @@ images:
 ※ 以下、下線が引いてあるものはリンク先に飛べます
 
 ## 🏆 Awards
-* `2021-10` 技育展 開発スキル支援部門にて[「NonMouse」](https://takeyamayuki.github.io/about/#NonMouse)を発表し、優秀賞受賞
+* `2021-10` 技育展 開発スキル支援部門にて[「NonMouse」](https://takeyamayuki.github.io/about/#nonmouse)を発表し、優秀賞受賞
 * `2017-03` [ロボカップジュニア・ジャパンオープン2017 サッカーライトウェイト ５位](https://takeyamayuki.github.io/about/#ロボカップジュニアサッカー) 
 * `2016-09` [千葉大学 第10回高校生理科研究発表会にて優秀賞受賞](https://www.cfs.chiba-u.jp/koudai-renkei/event/history/2016/10jusyou.pdf)
 
