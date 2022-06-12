@@ -39,9 +39,16 @@ images:
 
 ２台の完全自律型ロボット同士でサッカーの試合をする大会であるロボカップジュニアサッカーにおいて, 高校２年生のときに全国５位入賞. チームは２人で運営し、私は主に123Ddesignでの機構設計, KiCad, bsch3vを用いた回路, 基板の設計開発を担当. [試合動画](https://www.youtube.com/playlist?list=PLkEBRGnKNUILFJv4zKvQkQi69NoT-_FYg), [ロボットの詳細](https://note.com/spinach_egg/n/n5938fe6f424b)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YSenTVdDd-s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<!-- 
-{{< image src="/img/0894.JPG" position="center" style="width:70%; border-radius: 8px;" >}} -->
+- 試合の様子
+
+<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/YSenTVdDd-s"  title="YouTube video player" position="center" frameborder="0" style="width:70%; border-radius: 8px;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315"style="display:block; margin:0 auto;"  src="https://www.youtube.com/embed/YSenTVdDd-s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+
+<iframe width="560" height="315" style="display:block; margin:24px auto 0; width:70%;"  src="https://www.youtube.com/embed/YSenTVdDd-s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+- 実際のロボット
+{{< image src="/img/0894.JPG" position="center" style="width:70%; border-radius: 8px;" >}}
 
 
 ### NonMouse  
