@@ -14,8 +14,8 @@ images:
 ※ 以下、下線が引いてあるものはリンク先に飛べます
 
 ## 🏆 Awards
-* `2021-10` 技育展 開発スキル支援部門にて[「NonMouse」](##-💻-Tech-Projects/*-`NonMouse`)を発表し、優秀賞受賞
-* `2017-03` [ロボカップジュニア・ジャパンオープン2017 サッカーライトウェイト ５位](##-💻-Tech-Projects/*-`ロボカップジュニアサッカー` ) 
+* `2021-10` 技育展 開発スキル支援部門にて[「NonMouse」](https://takeyamayuki.github.io/about/#NonMouse)を発表し、優秀賞受賞
+* `2017-03` [ロボカップジュニア・ジャパンオープン2017 サッカーライトウェイト ５位](https://takeyamayuki.github.io/about/#ロボカップジュニアサッカー) 
 * `2016-09` [千葉大学 第10回高校生理科研究発表会にて優秀賞受賞](https://www.cfs.chiba-u.jp/koudai-renkei/event/history/2016/10jusyou.pdf)
 
 ## 🏫 Education
@@ -34,29 +34,37 @@ images:
 
 
 ## 💻 Tech Projects 
-* `ロボカップジュニアサッカー`  
+
+### ロボカップジュニアサッカー
+
 ２台の完全自律型ロボット同士でサッカーの試合をする大会であるロボカップジュニアサッカーにおいて, 高校２年生のときに全国５位入賞. チームは２人で運営し、私は主に123Ddesignでの機構設計, KiCad, bsch3vを用いた回路, 基板の設計開発を担当. [試合動画](https://www.youtube.com/playlist?list=PLkEBRGnKNUILFJv4zKvQkQi69NoT-_FYg), [ロボットの詳細](https://note.com/spinach_egg/n/n5938fe6f424b)
 
 {{< image src="/img/0894.JPG" position="center" style="width:70%; border-radius: 8px;" >}}
 
-* `NonMouse`   
+
+### NonMouse  
+
 Webカメラを用いて手の骨格を認識することで実体のないマウスの開発に成功. 技育展2021にて開発スキル支援部門で優秀賞受賞. [github](https://github.com/takeyamayuki/NonMouse2), [youtube](https://youtu.be/ufvOJUTCF8M)
 
 {{< image src="https://user-images.githubusercontent.com/22733958/135473409-9ddf2fc5-4722-4e55-8eef-64476635c10d.gif" position="center" style="width:70%; border-radius: 8px;" >}}  
 
-* `シューティングゲーム`      
+
+### シューティングゲーム      
+
 高校の文化祭において, レーザーでCdSセンサーの的を撃つとパソコン上で点数がカウントされ順位表に表示するシステムを構築. ３人で作っていて, 自分は回路設計, はんだ付けを担当. 
 
 {{< image src="/img/02_013.JPG" position="center" style="width:70%; border-radius: 8px;" >}}
 
 
-* `スマートホーム`(開発中)  
+### スマートホーム(開発中)
+
 Raspberry Pi, ESP32を用いて家のIoT化を行った. メイン処理部分にはHomekitエミュレータのHomebridgeをインストールしたRaspberry Pi Zeroを使用し, リモコン操作も可能にした. 壁付けスイッチの操作にはSwitchbotを模した[RESTful-servo-motor](https://github.com/takeyamayuki/RESTful-servo-motor)を開発した. 現時点では, エアコン操作とスイッチ操作を, 家の中ならiphoneのホームアプリから, 家の外ならVPN接続をしてブラウザから操作できる.   
 
 {{< image src="https://user-images.githubusercontent.com/22733958/173193531-89778f00-82e1-46e1-8544-b0c455d07dfb.gif" position="center" style="width:70%; border-radius: 8px;" >}}  
 
 
-* `Youtubeチャンネルの運営`  
+### Youtubeチャンネルの運営
+
 [でんきにんじんチャンネル](https://www.youtube.com/channel/UC2Ijyce-DOkMKqagTPDZleg)で電子工作, プログラミング, 商品レビューや音楽の動画を投稿.
 「[【電子工作】シンセサイザーを作る](https://youtu.be/jINfBOPpO74) 」というシンセサイザーの作り方の動画を投稿し, 現在8000回再生.
 
