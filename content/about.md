@@ -47,7 +47,7 @@ images:
 
 <iframe width="560" height="315" style="display:block; margin:24px auto 0; width:70%;"  src="https://www.youtube.com/embed/YSenTVdDd-s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-- 実際のロボット
+- 製作したロボット
 
 {{< image src="/img/0894.JPG" position="center" style="width:70%; border-radius: 8px;" >}}
 
