@@ -1,23 +1,122 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <link rel="apple-touch-icon" sizes="57x57" href="https://takeyamayuki.github.io/apple-icon-57x57.png">
-<link rel="apple-touch-icon" sizes="60x60" href="https://takeyamayuki.github.io/apple-icon-60x60.png">
-<link rel="apple-touch-icon" sizes="72x72" href="https://takeyamayuki.github.io/apple-icon-72x72.png">
-<link rel="apple-touch-icon" sizes="76x76" href="https://takeyamayuki.github.io/apple-icon-76x76.png">
-<link rel="apple-touch-icon" sizes="114x114" href="https://takeyamayuki.github.io/apple-icon-114x114.png">
-<link rel="apple-touch-icon" sizes="120x120" href="https://takeyamayuki.github.io/apple-icon-120x120.png">
-<link rel="apple-touch-icon" sizes="144x144" href="https://takeyamayuki.github.io/apple-icon-144x144.png">
-<link rel="apple-touch-icon" sizes="152x152" href="https://takeyamayuki.github.io/apple-icon-152x152.png">
-<link rel="apple-touch-icon" sizes="180x180" href="https://takeyamayuki.github.io/apple-icon-180x180.png">
-<link rel="icon" type="image/png" sizes="192x192"  href="https://takeyamayuki.github.io/android-icon-192x192.png">
-<link rel="icon" type="image/png" sizes="32x32" href="https://takeyamayuki.github.io/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="96x96" href="https://takeyamayuki.github.io/favicon-96x96.png">
-<link rel="icon" type="image/png" sizes="16x16" href="https://takeyamayuki.github.io/favicon-16x16.png">
-<link rel="manifest" href="https://takeyamayuki.github.io/manifest.json">
+        <meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="author" content="Yuki Takeyama ">
+<meta name="description" content="目次  ロボカップジュニアサッカー NonMouse シューティングゲーム Youtubeチャンネルの運営 GyroMouseBLE スマートホーム 倒立振子 競技プログラミング ChinaRemover   ⚽ ロボカップジュニアサッカー ２台の完全自律型ロボット同士でサッカーの試合をする大会であるロボカップジュニアサッカーにおいて, 高校２年生のときに全国５位入賞. チームは２人で運営し, 私は主に123Ddesignでの機構設計, KiCad, bsch3vを用いた回路, 基板の設計開発を担当.
+試合動画, ロボットの詳細, GitHub(基板データ)
+ 試合の様子    製作したロボット  👆 NonMouse Webカメラを用いて手の骨格を認識することで実体のないマウスの開発に成功. 技育展2021にて開発スキル支援部門で優秀賞受賞. GitHub, Zenn, Youtube
+🔫 シューティングゲーム 高校の文化祭において, レーザーでCdSセンサーの的を撃つとパソコン上で点数がカウントされ順位表に表示するシステムを構築. ３人で作っていて, 自分は回路設計, はんだ付けを担当.
+💻 Youtubeチャンネルの運営 でんきにんじんチャンネルで電子工作, プログラミング, 商品レビューや音楽の動画を投稿. 【電子工作】シンセサイザーを作る というシンセサイザーの作り方の動画を投稿し, 現在8000回再生.
+🖱️ GyroMouseBLE Youtubeの企画として, Wiiリモコンのようにジャイロセンサーを使ってマウスを操作するBLEデバイスの製作をした. GitHub, Youtube
+🏠 スマートホーム Raspberry Pi, ESP32を用いて家のIoT化を行った. メイン処理部分にはHomekitエミュレータのHomebridgeをインストールしたRaspberry Piを使用し, リモコン操作も可能にした. 壁付けスイッチの操作のために, Switchbotを模したRESTful-servo-motorを開発した." />
+<meta name="keywords" content="" />
+<meta name="robots" content="noodp" />
+<meta name="theme-color" content="" />
+<link rel="canonical" href="https://takeyamayuki.github.io/tech/" />
+<link rel="apple-touch-icon" sizes="57x57" href="https://takeyamayuki.github.io/favicon/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="https://takeyamayuki.github.io/favicon/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="https://takeyamayuki.github.io/favicon/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="https://takeyamayuki.github.io/favicon/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="144x144" href="https://takeyamayuki.github.io/favicon/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="https://takeyamayuki.github.io/favicon/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="120x120" href="https://takeyamayuki.github.io/favicon/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="180x180" href="https://takeyamayuki.github.io/favicon/apple-icon-180x180.png">
+<link rel="apple-touch-icon" sizes="114x114" href="https://takeyamayuki.github.io/favicon/apple-icon-114x114.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="https://takeyamayuki.github.io/favicon/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://takeyamayuki.github.io/favicon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="https://takeyamayuki.github.io/favicon/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://takeyamayuki.github.io/favicon/favicon-16x16.png">
+<link rel="manifest" href="https://takeyamayuki.github.io/favicon/manifest.json">
 <meta name="msapplication-TileColor" content="#ffffff">
-<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="msapplication-TileImage" content="/favicon/ms-icon-144x144.png">
 <meta name="theme-color" content="#ffffff">
+
+
+    <title>
+        
+            Tech Project :: Yuki Takeyama 
+        
+    </title>
+
+
+
+<link href="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/css/flag-icon.min.css" rel="stylesheet"
+    type="text/css">
+
+
+
+<link rel="stylesheet" href="https://takeyamayuki.github.io/main.4e5c639214707eff609bb55fe49e183dee42258a73bc90e4cc7b0a84f900798a.css">
+
+
+
+    <link rel="apple-touch-icon" sizes="180x180" href="https://takeyamayuki.github.io/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://takeyamayuki.github.io/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://takeyamayuki.github.io/favicon-16x16.png">
+    <link rel="manifest" href="https://takeyamayuki.github.io/site.webmanifest">
+    <link rel="mask-icon" href="https://takeyamayuki.github.io/safari-pinned-tab.svg" color="">
+    <link rel="shortcut icon" href="https://takeyamayuki.github.io/favicon.ico">
+    <meta name="msapplication-TileColor" content="">
+
+
+<meta itemprop="name" content="Tech Project">
+<meta itemprop="description" content="目次  ロボカップジュニアサッカー NonMouse シューティングゲーム Youtubeチャンネルの運営 GyroMouseBLE スマートホーム 倒立振子 競技プログラミング ChinaRemover   ⚽ ロボカップジュニアサッカー ２台の完全自律型ロボット同士でサッカーの試合をする大会であるロボカップジュニアサッカーにおいて, 高校２年生のときに全国５位入賞. チームは２人で運営し, 私は主に123Ddesignでの機構設計, KiCad, bsch3vを用いた回路, 基板の設計開発を担当.
+試合動画, ロボットの詳細, GitHub(基板データ)
+ 試合の様子    製作したロボット  👆 NonMouse Webカメラを用いて手の骨格を認識することで実体のないマウスの開発に成功. 技育展2021にて開発スキル支援部門で優秀賞受賞. GitHub, Zenn, Youtube
+🔫 シューティングゲーム 高校の文化祭において, レーザーでCdSセンサーの的を撃つとパソコン上で点数がカウントされ順位表に表示するシステムを構築. ３人で作っていて, 自分は回路設計, はんだ付けを担当.
+💻 Youtubeチャンネルの運営 でんきにんじんチャンネルで電子工作, プログラミング, 商品レビューや音楽の動画を投稿. 【電子工作】シンセサイザーを作る というシンセサイザーの作り方の動画を投稿し, 現在8000回再生.
+🖱️ GyroMouseBLE Youtubeの企画として, Wiiリモコンのようにジャイロセンサーを使ってマウスを操作するBLEデバイスの製作をした. GitHub, Youtube
+🏠 スマートホーム Raspberry Pi, ESP32を用いて家のIoT化を行った. メイン処理部分にはHomekitエミュレータのHomebridgeをインストールしたRaspberry Piを使用し, リモコン操作も可能にした. 壁付けスイッチの操作のために, Switchbotを模したRESTful-servo-motorを開発した."><meta itemprop="datePublished" content="2021-06-20T20:13:34&#43;09:00" />
+<meta itemprop="dateModified" content="2021-06-20T20:13:34&#43;09:00" />
+<meta itemprop="wordCount" content="89"><meta itemprop="image" content="https://takeyamayuki.github.io"/>
+<meta itemprop="keywords" content="" />
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="https://takeyamayuki.github.io"/>
+
+<meta name="twitter:title" content="Tech Project"/>
+<meta name="twitter:description" content="目次  ロボカップジュニアサッカー NonMouse シューティングゲーム Youtubeチャンネルの運営 GyroMouseBLE スマートホーム 倒立振子 競技プログラミング ChinaRemover   ⚽ ロボカップジュニアサッカー ２台の完全自律型ロボット同士でサッカーの試合をする大会であるロボカップジュニアサッカーにおいて, 高校２年生のときに全国５位入賞. チームは２人で運営し, 私は主に123Ddesignでの機構設計, KiCad, bsch3vを用いた回路, 基板の設計開発を担当.
+試合動画, ロボットの詳細, GitHub(基板データ)
+ 試合の様子    製作したロボット  👆 NonMouse Webカメラを用いて手の骨格を認識することで実体のないマウスの開発に成功. 技育展2021にて開発スキル支援部門で優秀賞受賞. GitHub, Zenn, Youtube
+🔫 シューティングゲーム 高校の文化祭において, レーザーでCdSセンサーの的を撃つとパソコン上で点数がカウントされ順位表に表示するシステムを構築. ３人で作っていて, 自分は回路設計, はんだ付けを担当.
+💻 Youtubeチャンネルの運営 でんきにんじんチャンネルで電子工作, プログラミング, 商品レビューや音楽の動画を投稿. 【電子工作】シンセサイザーを作る というシンセサイザーの作り方の動画を投稿し, 現在8000回再生.
+🖱️ GyroMouseBLE Youtubeの企画として, Wiiリモコンのようにジャイロセンサーを使ってマウスを操作するBLEデバイスの製作をした. GitHub, Youtube
+🏠 スマートホーム Raspberry Pi, ESP32を用いて家のIoT化を行った. メイン処理部分にはHomekitエミュレータのHomebridgeをインストールしたRaspberry Piを使用し, リモコン操作も可能にした. 壁付けスイッチの操作のために, Switchbotを模したRESTful-servo-motorを開発した."/>
+
+
+
+
+    <meta property="og:title" content="Tech Project" />
+<meta property="og:description" content="目次  ロボカップジュニアサッカー NonMouse シューティングゲーム Youtubeチャンネルの運営 GyroMouseBLE スマートホーム 倒立振子 競技プログラミング ChinaRemover   ⚽ ロボカップジュニアサッカー ２台の完全自律型ロボット同士でサッカーの試合をする大会であるロボカップジュニアサッカーにおいて, 高校２年生のときに全国５位入賞. チームは２人で運営し, 私は主に123Ddesignでの機構設計, KiCad, bsch3vを用いた回路, 基板の設計開発を担当.
+試合動画, ロボットの詳細, GitHub(基板データ)
+ 試合の様子    製作したロボット  👆 NonMouse Webカメラを用いて手の骨格を認識することで実体のないマウスの開発に成功. 技育展2021にて開発スキル支援部門で優秀賞受賞. GitHub, Zenn, Youtube
+🔫 シューティングゲーム 高校の文化祭において, レーザーでCdSセンサーの的を撃つとパソコン上で点数がカウントされ順位表に表示するシステムを構築. ３人で作っていて, 自分は回路設計, はんだ付けを担当.
+💻 Youtubeチャンネルの運営 でんきにんじんチャンネルで電子工作, プログラミング, 商品レビューや音楽の動画を投稿. 【電子工作】シンセサイザーを作る というシンセサイザーの作り方の動画を投稿し, 現在8000回再生.
+🖱️ GyroMouseBLE Youtubeの企画として, Wiiリモコンのようにジャイロセンサーを使ってマウスを操作するBLEデバイスの製作をした. GitHub, Youtube
+🏠 スマートホーム Raspberry Pi, ESP32を用いて家のIoT化を行った. メイン処理部分にはHomekitエミュレータのHomebridgeをインストールしたRaspberry Piを使用し, リモコン操作も可能にした. 壁付けスイッチの操作のために, Switchbotを模したRESTful-servo-motorを開発した." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://takeyamayuki.github.io/tech/" /><meta property="og:image" content="https://takeyamayuki.github.io"/><meta property="article:section" content="" />
+<meta property="article:published_time" content="2021-06-20T20:13:34&#43;09:00" />
+<meta property="article:modified_time" content="2021-06-20T20:13:34&#43;09:00" /><meta property="og:site_name" content="Yuki Takeyama" />
+
+
+
+
+
+
+
+    <meta property="article:published_time" content="2021-06-20 20:13:34 &#43;0900 JST" />
+
+
+
+
+
+
+
+
+
+
     </head>
 
     
