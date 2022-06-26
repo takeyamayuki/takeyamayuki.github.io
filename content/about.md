@@ -41,15 +41,14 @@ images:
     * 言語: C/C++, Python, MATLAB, Markdown, (Rust, Dart, Swift, Javascript) 
     * OS: macOS, Ubuntu, Windows, RaspberrypiOS  
     * エディタ: VScode, nano  
-    * ツール: ArduinoIDE, PlatformIO, MPLAB IDE, OpenCV, MediaPipe, Git/GitHub, Docker, (STM32CubeIDE, MbedStudio, ROS, TeX)
+    * ツール: ArduinoIDE, PlatformIO, MPLAB IDE, OpenCV, MediaPipe, Git/GitHub, Docker, ROS, TeX, (STM32CubeIDE, MbedStudio)
     * Web系ツール: Hugo, Wordpress
-    * アルゴリズム: 動的計画法, 幅優先探索, PID制御
+    <!-- * アルゴリズム: 動的計画法, 幅優先探索, PID制御 -->
 
 - `回路, ハードウェア`
     * 基板/回路設計CAD: Fritzing, KiCad, PasS, bsch3v  
     * 3DCAD: (123Ddesign, Fusion360)
-    * 機材: 安定化電源, オシロスコープ, 3Dプリンター
-    * 電子工作系機材全般: はんだごて, テスターなど
+    * 機材: 安定化電源, オシロスコープ, 3Dプリンター, テスター, はんだごてなど
 
 - `コンテンツ`
     * 画像編集: Affinity Photo, Affinity Designer
@@ -60,16 +59,19 @@ images:
 ## 👀 Interests
 
 - `Tech`
-    * マイコン(PIC, STM32, Arduino), RISC-V, IoT
-    * 自作OS, UNIX, RaspberryPiOS
+    * マイコン(PIC, STM32, Arduino), IoT
     * ロボティクス(ROS, 確率ロボティクス)
     * 画像処理(OpenCV, MediaPipe)
-    * 未だに触れたことのない流行りの技術(Rust, Typescript, Dart, Django, AWS, Babylon.js)
+    * Web系(Django, AWS, Babylon.js)
+    * 低レイヤプログラミング(自作OS, Linux, RISC-V)
     * 音楽, 作曲
     * 動画編集
 
-- `Sports`
-    * 野球, スキー, バドミントン, 筋トレ
+- `Sport`
+    * 野球, バドミントン, 筋トレ
+
+- `Food`
+    * コーヒー
 
 ## 📚 Links
 * [GitHub](https://github.com/takeyamayuki)    
