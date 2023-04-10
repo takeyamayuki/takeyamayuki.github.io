@@ -1,0 +1,308 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="author" content="Yuki Takeyama ">
+<meta name="description" content="目次 ロボカップジュニアサッカー NonMouse RESTuino シューティングゲーム Youtubeチャンネルの運営 GyroMouseBLE スマートホーム 倒立振子 競技プログラミング ChinaRemover ⚽ ロボカップジュニアサッカー ２台の完全自律型ロボット同士でサッカーの試合をする大会であるロボカップジュニアサッカーにおいて，高校２年生のときに全国５位入賞．チームは２人で運営し，私は主に123Ddesignでの機構設計，KiCad，bsch3vを用いた回路，基板の設計開発を担当． 試合動画，ロボットの詳細，GitHub(基板データ)
+試合の様子 製作したロボット 👆 NonMouse Webカメラを用いて手の骨格を認識することで実体のないマウスを開発．技育展2021にて開発スキル支援部門で優秀賞受賞．GitHub，Zenn，Youtube
+📶 RESTuino RESTuinoは，REST APIでArduinoを制御するためのESP32向けファームウェアで，このファームウェアを用いることで，IoT開発の効率化を行えたり，対話型組み込み開発ができるようになる． GitHub，Zenn
+🔫 シューティングゲーム 高校の文化祭において，レーザーでCdSセンサーの的を撃つとパソコン上で点数がカウントされ順位表に表示するシステムを構築．３人で作っていて，自分は回路設計，はんだ付けを担当．
+💻 Youtubeチャンネルの運営 でんきにんじんチャンネルで電子工作，プログラミング，商品レビューや音楽の動画を投稿． 【電子工作】シンセサイザーを作る というシンセサイザーの作り方の動画を投稿し，現在8000回再生．
+🖱️ GyroMouseBLE Youtubeの企画として，Wiiリモコンのようにジャイロセンサーを使ってマウスを操作するBLEデバイスの製作をした．GitHub，Youtube
+🏠 スマートホーム Raspberry Pi，ESP32を用いて家のIoT化を行った．メイン処理部分にはHomekitエミュレータのHomebridgeをインストールしたRaspberry Piを使用し，リモコン操作も可能にした．壁付けスイッチの操作のために，Switchbotを模したRESTful-servo-motorを開発した．(→現在は，それをarduinoGPIOに拡張したRESTuinoがあります．)
+現時点では，エアコン操作とスイッチ操作を，家の中ならiphoneのホームアプリから，家の外ならVPN接続をしてブラウザから操作できる．Youtube
+iPhoneからスイッチを操作する様子 🤖 倒立振子 ジャイロセンサを搭載した二輪ロボットの製作と，倒立振子のPD制御プログラムを開発した．GitHub
+💻 競技プログラミング C&#43;&#43;，Pythonを用いてAtcoderに出場．現在灰色．リンク
+🛒 ChinaRemover Amazonの検索結果の中から，日本発送以外のものを排除した検索結果を表示するGoogle Chromeの拡張機能を製作． Chrome Store，GitHub
+※ 下線が引いてあるものはリンク先に飛べます．" />
+<meta name="keywords" content="" />
+<meta name="robots" content="noodp" />
+<meta name="theme-color" content="" />
+<link rel="canonical" href="https://takeyamayuki.github.io/tech/" />
+
+
+    <title>
+        
+            Tech Projects :: Yuki Takeyama 
+        
+    </title>
+
+
+
+
+
+<link rel="stylesheet" href="https://takeyamayuki.github.io/main.b78c3be9451dc4ca61ca377f3dc2cf2e6345a44c2bae46216a322ef366daa399.css" integrity="sha256-t4w76UUdxMphyjd/PcLPLmNFpEwrrkYhajIu82bao5k=">
+
+
+
+    <link rel="apple-touch-icon" sizes="180x180" href="https://takeyamayuki.github.io/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://takeyamayuki.github.io/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://takeyamayuki.github.io/favicon-16x16.png">
+    <link rel="manifest" href="https://takeyamayuki.github.io/site.webmanifest">
+    <link rel="mask-icon" href="https://takeyamayuki.github.io/safari-pinned-tab.svg" color="">
+    <link rel="shortcut icon" href="https://takeyamayuki.github.io/favicon.ico">
+    <meta name="msapplication-TileColor" content="">
+
+
+<meta itemprop="name" content="Tech Projects">
+<meta itemprop="description" content="目次 ロボカップジュニアサッカー NonMouse RESTuino シューティングゲーム Youtubeチャンネルの運営 GyroMouseBLE スマートホーム 倒立振子 競技プログラミング ChinaRemover ⚽ ロボカップジュニアサッカー ２台の完全自律型ロボット同士でサッカーの試合をする大会であるロボカップジュニアサッカーにおいて，高校２年生のときに全国５位入賞．チームは２人で運営し，私は主に123Ddesignでの機構設計，KiCad，bsch3vを用いた回路，基板の設計開発を担当． 試合動画，ロボットの詳細，GitHub(基板データ)
+試合の様子 製作したロボット 👆 NonMouse Webカメラを用いて手の骨格を認識することで実体のないマウスを開発．技育展2021にて開発スキル支援部門で優秀賞受賞．GitHub，Zenn，Youtube
+📶 RESTuino RESTuinoは，REST APIでArduinoを制御するためのESP32向けファームウェアで，このファームウェアを用いることで，IoT開発の効率化を行えたり，対話型組み込み開発ができるようになる． GitHub，Zenn
+🔫 シューティングゲーム 高校の文化祭において，レーザーでCdSセンサーの的を撃つとパソコン上で点数がカウントされ順位表に表示するシステムを構築．３人で作っていて，自分は回路設計，はんだ付けを担当．
+💻 Youtubeチャンネルの運営 でんきにんじんチャンネルで電子工作，プログラミング，商品レビューや音楽の動画を投稿． 【電子工作】シンセサイザーを作る というシンセサイザーの作り方の動画を投稿し，現在8000回再生．
+🖱️ GyroMouseBLE Youtubeの企画として，Wiiリモコンのようにジャイロセンサーを使ってマウスを操作するBLEデバイスの製作をした．GitHub，Youtube
+🏠 スマートホーム Raspberry Pi，ESP32を用いて家のIoT化を行った．メイン処理部分にはHomekitエミュレータのHomebridgeをインストールしたRaspberry Piを使用し，リモコン操作も可能にした．壁付けスイッチの操作のために，Switchbotを模したRESTful-servo-motorを開発した．(→現在は，それをarduinoGPIOに拡張したRESTuinoがあります．)
+現時点では，エアコン操作とスイッチ操作を，家の中ならiphoneのホームアプリから，家の外ならVPN接続をしてブラウザから操作できる．Youtube
+iPhoneからスイッチを操作する様子 🤖 倒立振子 ジャイロセンサを搭載した二輪ロボットの製作と，倒立振子のPD制御プログラムを開発した．GitHub
+💻 競技プログラミング C&#43;&#43;，Pythonを用いてAtcoderに出場．現在灰色．リンク
+🛒 ChinaRemover Amazonの検索結果の中から，日本発送以外のものを排除した検索結果を表示するGoogle Chromeの拡張機能を製作． Chrome Store，GitHub
+※ 下線が引いてあるものはリンク先に飛べます．"><meta itemprop="datePublished" content="2021-06-20T20:13:34+09:00" />
+<meta itemprop="dateModified" content="2021-06-20T20:13:34+09:00" />
+<meta itemprop="wordCount" content="57"><meta itemprop="image" content="https://takeyamayuki.github.io"/>
+<meta itemprop="keywords" content="" />
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="https://takeyamayuki.github.io"/>
+
+<meta name="twitter:title" content="Tech Projects"/>
+<meta name="twitter:description" content="目次 ロボカップジュニアサッカー NonMouse RESTuino シューティングゲーム Youtubeチャンネルの運営 GyroMouseBLE スマートホーム 倒立振子 競技プログラミング ChinaRemover ⚽ ロボカップジュニアサッカー ２台の完全自律型ロボット同士でサッカーの試合をする大会であるロボカップジュニアサッカーにおいて，高校２年生のときに全国５位入賞．チームは２人で運営し，私は主に123Ddesignでの機構設計，KiCad，bsch3vを用いた回路，基板の設計開発を担当． 試合動画，ロボットの詳細，GitHub(基板データ)
+試合の様子 製作したロボット 👆 NonMouse Webカメラを用いて手の骨格を認識することで実体のないマウスを開発．技育展2021にて開発スキル支援部門で優秀賞受賞．GitHub，Zenn，Youtube
+📶 RESTuino RESTuinoは，REST APIでArduinoを制御するためのESP32向けファームウェアで，このファームウェアを用いることで，IoT開発の効率化を行えたり，対話型組み込み開発ができるようになる． GitHub，Zenn
+🔫 シューティングゲーム 高校の文化祭において，レーザーでCdSセンサーの的を撃つとパソコン上で点数がカウントされ順位表に表示するシステムを構築．３人で作っていて，自分は回路設計，はんだ付けを担当．
+💻 Youtubeチャンネルの運営 でんきにんじんチャンネルで電子工作，プログラミング，商品レビューや音楽の動画を投稿． 【電子工作】シンセサイザーを作る というシンセサイザーの作り方の動画を投稿し，現在8000回再生．
+🖱️ GyroMouseBLE Youtubeの企画として，Wiiリモコンのようにジャイロセンサーを使ってマウスを操作するBLEデバイスの製作をした．GitHub，Youtube
+🏠 スマートホーム Raspberry Pi，ESP32を用いて家のIoT化を行った．メイン処理部分にはHomekitエミュレータのHomebridgeをインストールしたRaspberry Piを使用し，リモコン操作も可能にした．壁付けスイッチの操作のために，Switchbotを模したRESTful-servo-motorを開発した．(→現在は，それをarduinoGPIOに拡張したRESTuinoがあります．)
+現時点では，エアコン操作とスイッチ操作を，家の中ならiphoneのホームアプリから，家の外ならVPN接続をしてブラウザから操作できる．Youtube
+iPhoneからスイッチを操作する様子 🤖 倒立振子 ジャイロセンサを搭載した二輪ロボットの製作と，倒立振子のPD制御プログラムを開発した．GitHub
+💻 競技プログラミング C&#43;&#43;，Pythonを用いてAtcoderに出場．現在灰色．リンク
+🛒 ChinaRemover Amazonの検索結果の中から，日本発送以外のものを排除した検索結果を表示するGoogle Chromeの拡張機能を製作． Chrome Store，GitHub
+※ 下線が引いてあるものはリンク先に飛べます．"/>
+
+
+
+    <meta property="og:title" content="Tech Projects" />
+<meta property="og:description" content="目次 ロボカップジュニアサッカー NonMouse RESTuino シューティングゲーム Youtubeチャンネルの運営 GyroMouseBLE スマートホーム 倒立振子 競技プログラミング ChinaRemover ⚽ ロボカップジュニアサッカー ２台の完全自律型ロボット同士でサッカーの試合をする大会であるロボカップジュニアサッカーにおいて，高校２年生のときに全国５位入賞．チームは２人で運営し，私は主に123Ddesignでの機構設計，KiCad，bsch3vを用いた回路，基板の設計開発を担当． 試合動画，ロボットの詳細，GitHub(基板データ)
+試合の様子 製作したロボット 👆 NonMouse Webカメラを用いて手の骨格を認識することで実体のないマウスを開発．技育展2021にて開発スキル支援部門で優秀賞受賞．GitHub，Zenn，Youtube
+📶 RESTuino RESTuinoは，REST APIでArduinoを制御するためのESP32向けファームウェアで，このファームウェアを用いることで，IoT開発の効率化を行えたり，対話型組み込み開発ができるようになる． GitHub，Zenn
+🔫 シューティングゲーム 高校の文化祭において，レーザーでCdSセンサーの的を撃つとパソコン上で点数がカウントされ順位表に表示するシステムを構築．３人で作っていて，自分は回路設計，はんだ付けを担当．
+💻 Youtubeチャンネルの運営 でんきにんじんチャンネルで電子工作，プログラミング，商品レビューや音楽の動画を投稿． 【電子工作】シンセサイザーを作る というシンセサイザーの作り方の動画を投稿し，現在8000回再生．
+🖱️ GyroMouseBLE Youtubeの企画として，Wiiリモコンのようにジャイロセンサーを使ってマウスを操作するBLEデバイスの製作をした．GitHub，Youtube
+🏠 スマートホーム Raspberry Pi，ESP32を用いて家のIoT化を行った．メイン処理部分にはHomekitエミュレータのHomebridgeをインストールしたRaspberry Piを使用し，リモコン操作も可能にした．壁付けスイッチの操作のために，Switchbotを模したRESTful-servo-motorを開発した．(→現在は，それをarduinoGPIOに拡張したRESTuinoがあります．)
+現時点では，エアコン操作とスイッチ操作を，家の中ならiphoneのホームアプリから，家の外ならVPN接続をしてブラウザから操作できる．Youtube
+iPhoneからスイッチを操作する様子 🤖 倒立振子 ジャイロセンサを搭載した二輪ロボットの製作と，倒立振子のPD制御プログラムを開発した．GitHub
+💻 競技プログラミング C&#43;&#43;，Pythonを用いてAtcoderに出場．現在灰色．リンク
+🛒 ChinaRemover Amazonの検索結果の中から，日本発送以外のものを排除した検索結果を表示するGoogle Chromeの拡張機能を製作． Chrome Store，GitHub
+※ 下線が引いてあるものはリンク先に飛べます．" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://takeyamayuki.github.io/tech/" /><meta property="og:image" content="https://takeyamayuki.github.io"/><meta property="article:section" content="" />
+<meta property="article:published_time" content="2021-06-20T20:13:34+09:00" />
+<meta property="article:modified_time" content="2021-06-20T20:13:34+09:00" /><meta property="og:site_name" content="Yuki Takeyama" />
+
+
+
+
+
+
+    <meta property="article:published_time" content="2021-06-20 20:13:34 &#43;0900 JST" />
+
+
+
+
+
+
+
+
+
+
+
+    </head>
+
+    
+        <body>
+    
+    
+        <div class="container">
+            <header class="header">
+    <span class="header__inner">
+        <a href="https://takeyamayuki.github.io/" style="text-decoration: none;">
+    <div class="logo">
+        
+            <span class="logo__mark">&gt;</span>
+            <span class="logo__text ">
+                $ cd /home</span>
+            <span class="logo__cursor" style=
+                  "
+                   
+                   ">
+            </span>
+        
+    </div>
+</a>
+
+
+        <span class="header__right">
+            
+                <nav class="menu">
+    <ul class="menu__inner"><li><a href="https://takeyamayuki.github.io/aboutme">0_aboutme</a></li><li><a href="https://takeyamayuki.github.io/tech">1_tech</a></li><li><a href="https://takeyamayuki.github.io/other">2_other</a></li>
+    </ul>
+</nav>
+
+                <span class="menu-trigger">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                        <path d="M0 0h24v24H0z" fill="none"/>
+                        <path d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"/>
+                    </svg>
+                </span>
+            
+        </span>
+    </span>
+</header>
+
+
+            <div class="content">
+                
+    <main class="post">
+
+        <div class="post-info">
+            
+            </p>
+        </div>
+
+        <article>
+            <h2 class="post-title"><a href="https://takeyamayuki.github.io/tech/">Tech Projects</a></h2>
+
+            
+            
+            
+
+            <div class="post-content">
+                <h2 id="目次">目次</h2>
+<ul>
+<li><a href="#-%E3%83%AD%E3%83%9C%E3%82%AB%E3%83%83%E3%83%97%E3%82%B8%E3%83%A5%E3%83%8B%E3%82%A2%E3%82%B5%E3%83%83%E3%82%AB%E3%83%BC">ロボカップジュニアサッカー</a></li>
+<li><a href="#-nonmouse">NonMouse</a></li>
+<li><a href="#-restuino">RESTuino</a></li>
+<li><a href="#-%E3%82%B7%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B2%E3%83%BC%E3%83%A0">シューティングゲーム</a></li>
+<li><a href="#-youtube%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB%E3%81%AE%E9%81%8B%E5%96%B6">Youtubeチャンネルの運営</a></li>
+<li><a href="#-gyromouseble">GyroMouseBLE</a></li>
+<li><a href="#-%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%9B%E3%83%BC%E3%83%A0">スマートホーム</a></li>
+<li><a href="#-%E5%80%92%E7%AB%8B%E6%8C%AF%E5%AD%90">倒立振子</a></li>
+<li><a href="#-%E7%AB%B6%E6%8A%80%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0">競技プログラミング</a></li>
+<li><a href="#-chinaremover">ChinaRemover</a></li>
+</ul>
+<p> </p>
+<h2 id="-ロボカップジュニアサッカー">⚽ ロボカップジュニアサッカー</h2>
+<p>２台の完全自律型ロボット同士でサッカーの試合をする大会であるロボカップジュニアサッカーにおいて，高校２年生のときに全国５位入賞．チームは２人で運営し，私は主に123Ddesignでの機構設計，KiCad，bsch3vを用いた回路，基板の設計開発を担当．
+<a href="https://www.youtube.com/playlist?list=PLkEBRGnKNUILFJv4zKvQkQi69NoT-_FYg">試合動画</a>，<a href="https://note.com/spinach_egg/n/n5938fe6f424b">ロボットの詳細</a>，<a href="https://github.com/takeyamayuki/RCJ_Japan_Soccer2017_Board">GitHub(基板データ)</a></p>
+<ul>
+<li>試合の様子</li>
+</ul>
+<iframe width="560" height=auto style="display:block; margin:24px auto 0; width:70%; aspect-ratio:1.766;"  src="https://www.youtube.com/embed/YSenTVdDd-s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<ul>
+<li>製作したロボット</li>
+</ul>
+
+    <img src="https://takeyamayuki.github.io/img/0894.JPG"  class="center"  style="width:70%; border-radius: 8px;"  />
+
+
+<h2 id="-nonmouse">👆 NonMouse</h2>
+<p>Webカメラを用いて手の骨格を認識することで実体のないマウスを開発．技育展2021にて開発スキル支援部門で優秀賞受賞．<a href="https://github.com/takeyamayuki/NonMouse2">GitHub</a>，<a href="https://zenn.dev/ninzin/articles/94b05fdb9edf53">Zenn</a>，<a href="https://youtu.be/ufvOJUTCF8M">Youtube</a></p>
+
+    <img src="https://user-images.githubusercontent.com/22733958/135473409-9ddf2fc5-4722-4e55-8eef-64476635c10d.gif"  class="center"  style="width:70%; border-radius: 8px;"  />
+
+
+<h2 id="-restuino">📶 RESTuino</h2>
+<p>RESTuinoは，REST APIでArduinoを制御するためのESP32向けファームウェアで，このファームウェアを用いることで，IoT開発の効率化を行えたり，対話型組み込み開発ができるようになる．
+<a href="https://github.com/takeyamayuki/RESTuino">GitHub</a>，<a href="https://zenn.dev/ninzin/articles/5c859a0bfc1ee6">Zenn</a></p>
+
+    <img src="https://user-images.githubusercontent.com/22733958/188927218-d310dea3-8fe5-4b1a-8fdd-ffdac5e5f4da.gif"  class="center"  style="width:70%; border-radius: 8px;"  />
+
+
+<!-- Arduinoを用いてWebアプリケーションを作成することができます．-->
+<h2 id="-シューティングゲーム">🔫 シューティングゲーム</h2>
+<p>高校の文化祭において，レーザーでCdSセンサーの的を撃つとパソコン上で点数がカウントされ順位表に表示するシステムを構築．３人で作っていて，自分は回路設計，はんだ付けを担当．</p>
+
+    <img src="https://takeyamayuki.github.io/img/02_013.JPG"  class="center"  style="width:70%; border-radius: 8px;"  />
+
+
+<h2 id="-youtubeチャンネルの運営">💻 Youtubeチャンネルの運営</h2>
+<p><a href="https://www.youtube.com/channel/UC2Ijyce-DOkMKqagTPDZleg">でんきにんじんチャンネル</a>で電子工作，プログラミング，商品レビューや音楽の動画を投稿．
+<a href="https://youtu.be/jINfBOPpO74">【電子工作】シンセサイザーを作る</a> というシンセサイザーの作り方の動画を投稿し，現在8000回再生．</p>
+<h2 id="-gyromouseble">🖱️ GyroMouseBLE</h2>
+<p>Youtubeの企画として，Wiiリモコンのようにジャイロセンサーを使ってマウスを操作するBLEデバイスの製作をした．<a href="https://github.com/takeyamayuki/GyroMouseBLE">GitHub</a>，<a href="https://youtu.be/DzT40SCh3nI">Youtube</a></p>
+
+    <img src="https://user-images.githubusercontent.com/22733958/130589777-bb9e9679-aeb6-43dd-bc9e-a26c03030525.gif"  class="center"  style="width:70%; border-radius: 8px;"  />
+
+
+<h2 id="-スマートホーム">🏠 スマートホーム</h2>
+<p>Raspberry Pi，ESP32を用いて家のIoT化を行った．メイン処理部分にはHomekitエミュレータのHomebridgeをインストールしたRaspberry Piを使用し，リモコン操作も可能にした．壁付けスイッチの操作のために，Switchbotを模した<a href="https://github.com/takeyamayuki/RESTful-servo-motor">RESTful-servo-motor</a>を開発した．(→現在は，それをarduinoGPIOに拡張した<a href="#-restuino">RESTuino</a>があります．)</p>
+<p>現時点では，エアコン操作とスイッチ操作を，家の中ならiphoneのホームアプリから，家の外ならVPN接続をしてブラウザから操作できる．<a href="https://youtu.be/n8qGnXRE8T8">Youtube</a></p>
+<ul>
+<li>iPhoneからスイッチを操作する様子</li>
+</ul>
+
+    <img src="https://user-images.githubusercontent.com/22733958/173193531-89778f00-82e1-46e1-8544-b0c455d07dfb.gif"  class="center"  style="width:70%; border-radius: 8px;"  />
+
+
+<h2 id="-倒立振子">🤖 倒立振子</h2>
+<p>ジャイロセンサを搭載した二輪ロボットの製作と，倒立振子のPD制御プログラムを開発した．<a href="https://github.com/takeyamayuki/Inverted-pendulum">GitHub</a></p>
+
+    <img src="https://user-images.githubusercontent.com/22733958/174483055-81f5fcc1-4386-4e63-b027-0413a0957270.gif"  class="center"  style="width:70%; border-radius: 8px;"  />
+
+
+<h2 id="-競技プログラミング">💻 競技プログラミング</h2>
+<p>C++，Pythonを用いてAtcoderに出場．現在灰色．<a href="https://atcoder.jp/users/takeyama">リンク</a></p>
+<h2 id="-chinaremover">🛒 ChinaRemover</h2>
+<p>Amazonの検索結果の中から，日本発送以外のものを排除した検索結果を表示するGoogle Chromeの拡張機能を製作．
+<a href="https://chrome.google.com/webstore/detail/china-remover/koddfmmljnagafaapbegnjacfhlhiefg?hl=ja&amp;gl=001">Chrome Store</a>，<a href="https://github.com/takeyamayuki/ChinaRemover">GitHub</a></p>
+<p> </p>
+<p>※ 下線が引いてあるものはリンク先に飛べます．</p>
+
+            </div>
+        </article>
+
+        <hr />
+
+        <div class="post-info">
+            
+            
+  		</div>
+    </main>
+
+            </div>
+
+            
+                <footer class="footer">
+    
+    <div class="footer__inner">
+        <div class="footer__content">
+            
+            
+            
+            
+            <span><span style="font-size:0.8rem;">© 2023 Yuki Takeyama</span></span>
+        </div>
+    </div>
+    
+    
+    <div class="footer__inner">
+        <div class="footer__content">
+            <span><span style="font-size:0.4rem;">Powered by <a href="http://gohugo.io">Hugo</a> / Made with &#10084; by <a href="https://github.com/rhazdon">Djordje Atlialp</a></span></span>
+        </div>
+    </div>
+    
+</footer>
+
+            
+        </div>
+
+        
+
+
+
+<script type="text/javascript" src="https://takeyamayuki.github.io/bundle.min.205d491810c28f95aa953fae884e1c27abe13fdf93ec63b882d0036b248d4a6282eb2d134e4e7225c6ad6e86db87b08488a361ca4a7383d01fcff43f3d57b9c3.js" integrity="sha512-IF1JGBDCj5WqlT&#43;uiE4cJ6vhP9&#43;T7GO4gtADaySNSmKC6y0TTk5yJcatbobbh7CEiKNhykpzg9Afz/Q/PVe5ww=="></script>
+
+
+
+    </body>
+</html>

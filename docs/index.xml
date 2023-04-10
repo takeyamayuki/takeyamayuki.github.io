@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yuki Takeyama</title>
+    <link>https://takeyamayuki.github.io/</link>
+    <description>Recent content on Yuki Takeyama</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 20 Jun 2021 02:34:27 +0900</lastBuildDate><atom:link href="https://takeyamayuki.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Link</title>
+      <link>https://takeyamayuki.github.io/link/</link>
+      <pubDate>Mon, 21 Jun 2021 21:21:36 +0900</pubDate>
+      
+      <guid>https://takeyamayuki.github.io/link/</guid>
+      <description>GitHub
+Twitter
+note
+Zenn
+Youtube(でんきにんじん)
+Youtube(RoboCupJunior)
+HatenaBlog
+elchika
+Qiita
+Soundcloud
+connpass</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://takeyamayuki.github.io/aboutme/</link>
+      <pubDate>Sun, 20 Jun 2021 20:13:34 +0900</pubDate>
+      
+      <guid>https://takeyamayuki.github.io/aboutme/</guid>
+      <description>Yuki TAKEYAMA / 武山侑輝（たけやま ゆうき） Email: namiki.takeyama@gmail.com GitHub: github.com/takeyamayuki Twitter: twitter.com/takeyamaaaaa LAPRAS: lapras.com/public/PUORP0A Blog Zenn: zenn.dev/ninzin note: note.com/spinach_egg YouTube: youtube.com/@DenkiNinzin Profile HCI，Computer Vision，Roboticsなどが好きな大学院生です．
+Education 筑波大学大学院 Apr 2023 - Mar 2025 理工情報生命学術院 システム情報工学研究群 情報理工学位プログラム 修士(工学) 青山学院大学 Apr 2019 - Mar 2023 理工学部 電気電子工学科 卒業 学士(工学) 卒業研究: 3次元点群における動的物体の検出精度向上手法の開発 茨城県立並木中等教育学校 Apr 2012 - Mar 2018 中高一貫校 普通科 卒業 Work Experience CyberAgent株式会社 AI事業本部 対話エージェントチーム アルバイト (Feb 2023 - Present) 大阪大学との共同研究チームにリサーチエンジニアとして参画し，画像処理による人物の動作解析プログラムの作成を行っている．また，チーム内でのコミュニケーションや進捗管理を行っている． Technical Skills: Python (with motpy, YOLO, MediaPipe), ROS2, OpenCV, Docker, Ubuntu, Git/Github.</description>
+    </item>
+    
+    <item>
+      <title>Other Projects</title>
+      <link>https://takeyamayuki.github.io/other/</link>
+      <pubDate>Sun, 20 Jun 2021 20:13:34 +0900</pubDate>
+      
+      <guid>https://takeyamayuki.github.io/other/</guid>
+      <description>🎶 作曲 SoundCloud, Youtubeで自分で作った曲や動画を投稿.
+日体大コールをNCS風にRemixしてみたwww
+にわとりの声をEDMにRemixしてみたwww
+パフェいわしをNCS風にRemixしてみたwww (feat.きりたん)
+でんきにんじん - コンビニ feat.AIきりたん
+でんきにんじん - Just a friend
+でんきにんじん - Yes Young
+でんきにんじん - Thunder Lover (feat. Die Nummen, KaoLu)
+でんきにんじん - ファミコン
+🖱️ 商品レビュー Anne pro 2商品レビュー【2ヶ月使用】
+3000円でメカニカルキーボードを使いやすくする方法 / Customizing Your Keyboard With $30
+【商品レビュー】トラックボールM575を半年使って分かったこと
+😂 ネタ動画 真面目に全自動入力キーボード作る 💻 技術動画 here ※ 下線が引いてあるものはリンク先に飛べます.</description>
+    </item>
+    
+    <item>
+      <title>Skills</title>
+      <link>https://takeyamayuki.github.io/skill/</link>
+      <pubDate>Sun, 20 Jun 2021 20:13:34 +0900</pubDate>
+      
+      <guid>https://takeyamayuki.github.io/skill/</guid>
+      <description>得意 プログラミング
+言語: C/C++, Python, MATLAB, Markdown, Javascript OS: macOS, Ubuntu, Windows, RaspberrypiOS エディタ: VScode, nano ツール: Arduino, PlatformIO, MPLAB IDE, OpenCV, MediaPipe, Git/GitHub, ROS Web系ツール: Hugo, Wordpress 回路, ハードウェア
+基板/回路設計CAD: Fritzing, KiCad, PasS, bsch3v 機材: 安定化電源, オシロスコープ, 3Dプリンター, テスター, はんだごてなど 苦手 プログラミング
+アルゴリズム系 回路, ハードウェア
+3DCAD: 123Ddesignを使ったことはあるが、今はないため。 </description>
+    </item>
+    
+    <item>
+      <title>Tech Projects</title>
+      <link>https://takeyamayuki.github.io/tech/</link>
+      <pubDate>Sun, 20 Jun 2021 20:13:34 +0900</pubDate>
+      
+      <guid>https://takeyamayuki.github.io/tech/</guid>
+      <description>目次 ロボカップジュニアサッカー NonMouse RESTuino シューティングゲーム Youtubeチャンネルの運営 GyroMouseBLE スマートホーム 倒立振子 競技プログラミング ChinaRemover ⚽ ロボカップジュニアサッカー ２台の完全自律型ロボット同士でサッカーの試合をする大会であるロボカップジュニアサッカーにおいて，高校２年生のときに全国５位入賞．チームは２人で運営し，私は主に123Ddesignでの機構設計，KiCad，bsch3vを用いた回路，基板の設計開発を担当． 試合動画，ロボットの詳細，GitHub(基板データ)
+試合の様子 製作したロボット 👆 NonMouse Webカメラを用いて手の骨格を認識することで実体のないマウスを開発．技育展2021にて開発スキル支援部門で優秀賞受賞．GitHub，Zenn，Youtube
+📶 RESTuino RESTuinoは，REST APIでArduinoを制御するためのESP32向けファームウェアで，このファームウェアを用いることで，IoT開発の効率化を行えたり，対話型組み込み開発ができるようになる． GitHub，Zenn
+🔫 シューティングゲーム 高校の文化祭において，レーザーでCdSセンサーの的を撃つとパソコン上で点数がカウントされ順位表に表示するシステムを構築．３人で作っていて，自分は回路設計，はんだ付けを担当．
+💻 Youtubeチャンネルの運営 でんきにんじんチャンネルで電子工作，プログラミング，商品レビューや音楽の動画を投稿． 【電子工作】シンセサイザーを作る というシンセサイザーの作り方の動画を投稿し，現在8000回再生．
+🖱️ GyroMouseBLE Youtubeの企画として，Wiiリモコンのようにジャイロセンサーを使ってマウスを操作するBLEデバイスの製作をした．GitHub，Youtube
+🏠 スマートホーム Raspberry Pi，ESP32を用いて家のIoT化を行った．メイン処理部分にはHomekitエミュレータのHomebridgeをインストールしたRaspberry Piを使用し，リモコン操作も可能にした．壁付けスイッチの操作のために，Switchbotを模したRESTful-servo-motorを開発した．(→現在は，それをarduinoGPIOに拡張したRESTuinoがあります．)
+現時点では，エアコン操作とスイッチ操作を，家の中ならiphoneのホームアプリから，家の外ならVPN接続をしてブラウザから操作できる．Youtube
+iPhoneからスイッチを操作する様子 🤖 倒立振子 ジャイロセンサを搭載した二輪ロボットの製作と，倒立振子のPD制御プログラムを開発した．GitHub
+💻 競技プログラミング C++，Pythonを用いてAtcoderに出場．現在灰色．リンク
+🛒 ChinaRemover Amazonの検索結果の中から，日本発送以外のものを排除した検索結果を表示するGoogle Chromeの拡張機能を製作． Chrome Store，GitHub
+※ 下線が引いてあるものはリンク先に飛べます．</description>
+    </item>
+    
+    <item>
+      <title>はじめまして</title>
+      <link>https://takeyamayuki.github.io/posts/2021/06/%E3%81%AF%E3%81%98%E3%82%81%E3%81%BE%E3%81%97%E3%81%A6/</link>
+      <pubDate>Sun, 20 Jun 2021 02:34:27 +0900</pubDate>
+      
+      <guid>https://takeyamayuki.github.io/posts/2021/06/%E3%81%AF%E3%81%98%E3%82%81%E3%81%BE%E3%81%97%E3%81%A6/</guid>
+      <description>Hugoで簡単なブログを作りました。</description>
+    </item>
+    
+  </channel>
+</rss>

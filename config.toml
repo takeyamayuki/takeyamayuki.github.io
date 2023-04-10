@@ -1,0 +1,201 @@
+baseURL = "https://takeyamayuki.github.io"
+title   = "Yuki Takeyama"
+languageCode = "en-us"
+theme = "hello-friend-ng"
+
+PygmentsCodeFences = true
+PygmentsStyle = "monokai"
+
+paginate  = 10
+rssLimit  = 10  # Maximum number of items in the RSS feed.
+
+# googleAnalytics = ""
+# disqusShortname = ""
+
+archetypeDir = "archetypes"
+contentDir   = "content"
+dataDir      = "data"
+layoutDir    = "layouts"
+publishDir   = "docs"
+
+buildDrafts  = false
+buildFuture  = false
+buildExpired = false
+canonifyURLs = true
+
+enableRobotsTXT = true
+enableGitInfo   = false
+enableEmoji     = true
+enableMissingTranslationPlaceholders = false
+disableRSS     = false
+disableSitemap = false
+disable404     = false
+disableHugoGeneratorInject = false
+
+
+[permalinks]
+  posts = "/posts/:year/:month/:title/"
+
+[author]
+  name = "Yuki Takeyama"
+
+[blackfriday]
+  hrefTargetBlank = true
+
+[taxonomies]
+  tag      = "tags"
+  category = "categories"
+  series   = "series"
+
+[params]
+  dateform        = "Jan 2, 2021"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2021-06-21"
+  dateformNumTime = "2021-06-21 15:04"
+
+  # Metadata mostly used in document's head
+  # 
+  description = ""
+  keywords = ""
+  images = [""]
+
+  # Home subtitle of the index page.
+  #
+  homeSubtitle = "Student / Engineer / Track maker"
+
+  # Set a background for the homepage
+  # backgroundImage = "assets/images/background.jpg"
+
+  # Prefix of link to the git commit detail page. GitInfo must be enabled.
+  #
+  # gitUrl = ""
+
+  # Set disableReadOtherPosts to true in order to hide the links to other posts.
+  #
+  disableReadOtherPosts = false
+
+  # Enable theme toggle
+  # 
+  # This options enables the theme toggle for the theme. 
+  # Per default, this option is off. 
+  # The theme is respecting the prefers-color-scheme of the operating systeme. 
+  # With this option on, the page user is able to set the scheme he wants. 
+  enableThemeToggle = false
+
+  # Sharing buttons
+  #
+  # There are a lot of buttons preconfigured. If you want to change them,
+  # generate the buttons here: https://sharingbuttons.io
+  # and add them into your own `layouts/partials/sharing-buttons.html`
+  #
+  enableSharingButtons = true
+
+  # Integrate Javascript files or stylesheets by adding the url to the external assets or by
+  # linking local files with their path relative to the static folder, e.g. "css/styles.css"
+  #
+  customCSS = []
+  customJS  = []
+
+  # Toggle this option need to rebuild SCSS, requires extended version of Hugo
+  #
+  justifyContent = false  # Set "text-align: justify" to .post-content.
+
+  # Custom footer 
+  # If you want, you can easily override the default footer with your own content. 
+  #
+  [params.footer]
+    trademark = false
+    rss = false
+    copyright = false
+    author = false
+
+    topText = ["<span style=\"font-size:0.8rem;\">© 2023 Yuki Takeyama</span>"] 
+    bottomText = ["<span style=\"font-size:0.4rem;\">Powered by <a href=\"http://gohugo.io\">Hugo</a> / Made with &#10084; by <a href=\"https://github.com/rhazdon\">Djordje Atlialp</a></span>"]
+
+  # Colors for favicons
+  #
+  [params.favicon.color]
+    mask = "#1b1c1d"
+    msapplication = "#1b1c1d"
+    theme = "#1b1c1d"
+
+  [params.logo]
+    logoMark     = ">"
+    logoText     = "$ cd /home/"
+    logoHomeLink = "/"
+    # Set true to remove the logo cursor entirely.
+    # logoCursorDisabled = false
+    # Set to a valid CSS color to change the cursor in the logo.
+    # logoCursorColor    = "#67a2c9"
+    # Set to a valid CSS time value to change the animation duration, "0s" to disable.
+    # logoCursorAnimate  = "2s"
+
+  # Commento is more than just a comments widget you can embed — 
+  # it’s a return to the roots of the internet. 
+  # An internet without the tracking and invasions of privacy. 
+  # An internet that is simple and lightweight. 
+  # An internet that is focused on interesting discussions, not ads. 
+  # A better internet.
+  # Uncomment this to enable Commento.
+  #
+  # [params.commento]
+  #   url = ""
+
+  # Uncomment this if you want a portrait on your start page
+  #
+  # [params.portrait]
+  #   path     = "/img/image.jpg"
+  #   alt      = "Portrait"
+  #   maxWidth = "50px"
+
+  # Social icons
+  [[params.social]]
+    name = "twitter"
+    url  = "https://twitter.com/takeyamaaaaa"
+
+  [[params.social]]
+    name = "github"
+    url  = "https://github.com/takeyamayuki"
+
+  [[params.social]]
+    name = "youtube"
+    url  = "https://www.youtube.com/channel/UC2Ijyce-DOkMKqagTPDZleg"
+
+  [[params.social]]
+    name = "email"
+    url  = "mailto:namiki.takeyama@gmail.com"
+
+[languages]
+  [languages.en]
+    title = "Yuki Takeyama"
+    subtitle = ""
+    keywords = ""
+    readOtherPosts = "Read other posts"
+
+  [languages.en.params.logo]
+      logoMark     = ">"
+      logoText     = "$ cd /home"
+      logoHomeLink = "/"
+  # or
+  #
+  # path = "/img/your-example-logo.svg"
+  # alt = "Your example logo alt text"
+
+  [languages.en.menu]
+      [[languages.en.menu.main]]
+          identifier = "aboutme"
+          name = "0_aboutme"
+          url = "/aboutme"
+      [[languages.en.menu.main]]
+          identifier = "tech"
+          name = "1_tech"
+          url = "/tech"
+      [[languages.en.menu.main]]  
+          identifier = "other"
+          name = "2_other"
+          url = "/other"
+
+
+[markup.goldmark.renderer]
+unsafe = true
+
