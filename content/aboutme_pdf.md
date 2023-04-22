@@ -78,15 +78,15 @@ HCI，Computer Vision，Roboticsなどが好きな大学院生です．
 - 「3次元点群における動的物体の検出精度向上手法の開発」というテーマで，3次元点群のモーションブラー除去を行うことで動的物体の検出精度を向上させる手法の開発を行った．私は，Pythonで3次元点群処理のフィルタの実装や，ROSによる評価プログラムの実装，LaTeXによる論文作成，共同研究者との英語・日本語でのコミュニケーションを行った．
 - **Technical Skills**: Python (with Open3D, Numpy, Pandas, Jupyter Notebook, K3D, etc.), ROS1, Ubuntu, Git/Github, LaTeX.
 - **Soft Skills**: Time Management, Presentation skills.
-- [研究室](https://www.itami-robot-research.net/)
+- 研究室: https://www.itami-robot-research.net/
 
 ### `優秀賞` 技育展2022 開発スキル支援部門 参加
 - Sep 2022
 - 「RESTuino」というソフトウェアの開発を行った．RESTuinoは，ArduinoのGPIOをREST APIによって対話的に操作可能にするソフトウェアである．私は，このソフトウェアの企画，C++(PlatformIO)によるマイコン上へのREST API実装，プレゼンをほぼすべて1人で行った．結果として開発スキル支援部門で**優秀賞**を受賞した．
 - **Technical Skills**: PlatformIO, Arduino, C++, Python, Git/Github.
 - **Soft Skills**: Time Management, Presentation skills.
-- [記事(日本語)](https://zenn.dev/ninzin/articles/5c859a0bfc1ee6)
-- [GitHub](https://github.com/takeyamayuki/RESTuino)
+- 記事(日本語): https://zenn.dev/ninzin/articles/5c859a0bfc1ee6
+- GitHub: https://github.com/takeyamayuki/RESTuino
 
 
 ### `優秀賞` 技育展2021 開発スキル支援部門 参加
@@ -94,22 +94,22 @@ HCI，Computer Vision，Roboticsなどが好きな大学院生です．
 - 「NonMouse」というソフトウェアの開発を行った．NonMouseはマウスを使わずに，webカメラから手の動きを認識してコンピュータを操作することができるソフトウェアである．私は，このソフトウェアの企画，Python(OpenCV, MediaPipe)による画像処理プログラムの実装，プレゼンをほぼすべて1人で行った．メンターの方のアドバイスを参考にしつつさらに改良を施し，結果として開発スキル支援部門で**優秀賞**を受賞した．
 - **Technical Skills**: Python (with OpenCV, MediaPipe, Numpy, Tkinter), Ubuntu, Git/Github.
 - **Soft Skills**: Time Management, Presentation skills, Communication.
-- [記事(日本語)](https://zenn.dev/ninzin/articles/94b05fdb9edf53)
-- [GitHub](https://github.com/takeyamayuki/NonMouse)
+- 記事(日本語): https://zenn.dev/ninzin/articles/94b05fdb9edf53
+- GitHub: https://github.com/takeyamayuki/NonMouse
 
 ### `全国5位` ロボカップジュニア サッカーライトウェイト ジャパンオープン/関東ブロック/茨城ノード 参加
 - Mar 2017
 - 2台の完全自律型ロボット同士でサッカーの試合をする大会であるロボカップジュニアサッカーにおいて，主にロボットのハードウェアの設計開発を行った．チームは２人で編成され，私は，ロボットの機構設計(123D Design)，回路・基板設計(KiCad)を行った．また，ロボットのプログラミングはC++(Arduino)を用いて２人で行った．およそ3年間にわたってロボットの設計開発を行い，全国大会では**全国5位**に入賞した．ポスターによるプレゼンテーションも行っている．
 - **Technical Skills**: Arduino, C++, 3DCAD, KiCad, Sensors(IMU, Ultrasonic sensor, Infrared sensor).
 - **Soft Skills**: Teamwork, Time Management, Communication, Presentation skills.
-- [動画](https://www.youtube.com/embed/YSenTVdDd-s)
-- [まとめ記事(日本語)](https://note.com/spinach_egg/n/n5938fe6f424b)
-- [基板データ(GitHub)](https://github.com/takeyamayuki/RCJ_Japan_Soccer2017_Board)
+- 動画: https://www.youtube.com/embed/YSenTVdDd-s
+- まとめ記事(日本語): https://note.com/spinach_egg/n/n5938fe6f424b
+- 基板データ(GitHub): https://github.com/takeyamayuki/RCJ_Japan_Soccer2017_Board
 
 ### `優秀賞` 千葉大学 第10回高校生理科研究発表会 参加
 - Oct 2016
 - 「自律型サッカーロボットの開発」という題で，ロボカップジュニアサッカーにおける自律型ロボットの開発について発表した．これは，前述のロボカップジュニアにおけるロボットの設計開発をまとめたものである．結果として，理科研究発表会で**優秀賞**を受賞した．
-- [受賞者一覧](https://www.cfs.chiba-u.jp/koudai-renkei/event/history/2016/10jusyou.pdf)
+- 受賞者一覧: https://www.cfs.chiba-u.jp/koudai-renkei/event/history/2016/10jusyou.pdf
 
 # Projects
 - Tech Projects -> [here](https://takeyamayuki.github.io/tech/)
