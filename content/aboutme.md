@@ -23,13 +23,18 @@ images:
     - YouTube: [youtube.com/@DenkiNinzin](https://www.youtube.com/@DenkiNinzin)
 
 
+&nbsp;
 # Profile
+---
 HCI，Computer Vision，Roboticsなどが好きな大学院生です．
 <!--
 私は、ハードウェアからソフトウェアまで幅広い分野に興味を持ち、ロボカップジュニア全国5位や技育展の優秀賞受賞などさまざまな成果を上げてきました．
 大学や2社のインターンを経験し、貴社での新たな技術開発や既存サービスの改善に貢献できるように頑張ります。 -->
 
+
+&nbsp;
 # Education
+---
 ### 筑波大学大学院
 - Apr 2023 - Mar 2025
 - 理工情報生命学術院 システム情報工学研究群 情報理工学位プログラム
@@ -47,8 +52,9 @@ HCI，Computer Vision，Roboticsなどが好きな大学院生です．
 - 中高一貫校
 - 普通科 卒業
 
-
+&nbsp;
 # Work Experience
+---
 ### CyberAgent株式会社 AI事業本部 対話エージェントチーム
 - アルバイト (Feb 2023 - Present)
     - 大阪大学との共同研究チームにリサーチエンジニアとして参画し，画像処理による人物の動作解析プログラムの作成を行っている．また，チーム内でのコミュニケーションや進捗管理を行っている．
@@ -70,9 +76,9 @@ HCI，Computer Vision，Roboticsなどが好きな大学院生です．
     - 新規開発のグループワークを行った．最終的には，プレゼンを行い，社員さんから良い評価をいただいた．
     - **Soft Skills**: Teamwork, Time Management, Communication, Presentation skills.
 
-
+&nbsp;
 # Activities
-
+---
 ### 学部卒業研究
 - Feb 2023
 - 「3次元点群における動的物体の検出精度向上手法の開発」というテーマで，3次元点群のモーションブラー除去を行うことで動的物体の検出精度を向上させる手法の開発を行った．私は，Pythonで3次元点群処理のフィルタの実装や，ROSによる評価プログラムの実装，LaTeXによる論文作成，共同研究者との英語・日本語でのコミュニケーションを行った．
@@ -111,19 +117,23 @@ HCI，Computer Vision，Roboticsなどが好きな大学院生です．
 - 「自律型サッカーロボットの開発」という題で，ロボカップジュニアサッカーにおける自律型ロボットの開発について発表した．これは，前述のロボカップジュニアにおけるロボットの設計開発をまとめたものである．結果として，理科研究発表会で**優秀賞**を受賞した．
 - [受賞者一覧](https://www.cfs.chiba-u.jp/koudai-renkei/event/history/2016/10jusyou.pdf)
 
+&nbsp;
 # Projects
+---
 - Tech Projects -> [here](https://takeyamayuki.github.io/tech/)
 - Other Projects -> [here](https://takeyamayuki.github.io/other/)
 
+&nbsp;
 # Qualifications
+---
 - Mar 2022 TOEIC 740点
 - Aug 2021 第２種電気工事士 取得
 - Sep 2019 普通自動車第一種運転免許 取得
 - Sep 2015 実用英語技能検定２級 取得
 
-
+&nbsp;
 # Skills
-
+---
 ### Technical Skills
 - Language:
     - C/C++ (Arudino, PlatformIO, MPLAB IDE, makefile, portaudio, VOSK)
@@ -143,9 +153,9 @@ HCI，Computer Vision，Roboticsなどが好きな大学院生です．
 - Documentation, Presentation
 - Self-motivated, learning agility
 
-
+&nbsp;
 # Interests
-
+---
 ### **技術**: IoT，RaspberryPi
 私は，画像処理，ロボティクス，IoTやRaspberryPiなどに興味があり，これらの技術を用いて，自分の興味のあることを実現している．自宅では，RaspberryPiを用いて，スマートフォンから家の照明の操作，温度や湿度，監視カメラを確認できるシステムの構築や，VPNサーバー(PiPVN)，DNSサーバー(Pi-hole)の構築も行っている．
 
