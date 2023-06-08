@@ -16,6 +16,7 @@ images:
 - Email: namiki.takeyama@gmail.com
 - GitHub: [github.com/takeyamayuki](https://github.com/takeyamayuki)
 - Twitter: [twitter.com/takeyamaaaaa](https://twitter.com/takeyamaaaaa)
+- LinkedIn: [linkedin.com/in/takeyamayuki](https://www.linkedin.com/in/takeyamayuki/)
 - LAPRAS: [lapras.com/public/PUORP0A](https://lapras.com/public/PUORP0A)
 - Blog
     - Zenn: [zenn.dev/ninzin](https://zenn.dev/ninzin)
@@ -138,6 +139,7 @@ HCI，Computer Vision，Roboticsなどが好きな大学院生です．
 - Language:
     - C/C++ (Arudino, PlatformIO, MPLAB IDE, makefile, portaudio, VOSK)
     - Python (ROS1/2, OpenCV, MediaPipe, Numpy, Pandas, Jupyter Notebook, K3D, Open3D, etc.)
+    - Java (Processing, Android Studio)
 - OS: macOS，Ubuntu，Windows，RaspberrypiOS
 - Editor: VScode，nano
 - Miscellaneous：Shell(bash/zsh), Git/GitHub，Docker，LaTex，Markdown, Hugo，Wordpress
