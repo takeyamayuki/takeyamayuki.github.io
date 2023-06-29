@@ -7,10 +7,6 @@ images:
 ---
 
 
-<!-- ## 武山侑輝（たけやま ゆうき）- Yuki Takeyama   -->
-<!-- googleインターンへの履歴書として，マークダウンでこの様に書きました．添削お願いします．マイナスな部分をたくさんあげてほしいです． -->
-
-
 ## Yuki TAKEYAMA / 武山侑輝（たけやま ゆうき）
 
 - Email: namiki.takeyama@gmail.com
@@ -127,6 +123,7 @@ HCI，Computer Vision，Roboticsなどが好きな大学院生です．
 &nbsp;
 # Qualifications
 ---
+- Jun 2023 応用情報技術者試験 取得
 - Mar 2022 TOEIC 740点
 - Aug 2021 第２種電気工事士 取得
 - Sep 2019 普通自動車第一種運転免許 取得
