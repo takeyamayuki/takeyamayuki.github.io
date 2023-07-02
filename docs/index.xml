@@ -94,8 +94,9 @@ Education 筑波大学大学院 Apr 2023 - Mar 2025 理工情報生命学術院 
 🖱️ GyroMouseBLE Youtubeの企画として，Wiiリモコンのようにジャイロセンサーを使ってマウスを操作するBLEデバイスの製作をした．GitHub，Youtube
 🏠 スマートホーム Raspberry Pi，ESP32を用いて家のIoT化を行った．メイン処理部分にはHomekitエミュレータのHomebridgeをインストールしたRaspberry Piを使用し，リモコン操作も可能にした．壁付けスイッチの操作のために，Switchbotを模したRESTful-servo-motorを開発した．(→現在は，それをarduinoGPIOに拡張したRESTuinoがあります．)
 現時点では，エアコン操作とスイッチ操作を，家の中ならiphoneのホームアプリから，家の外ならVPN接続をしてブラウザから操作できる．Youtube
-iPhoneからスイッチを操作する様子 🤖 倒立振子 ジャイロセンサを搭載した二輪ロボットの製作と，倒立振子のPD制御プログラムを開発した．GitHub
-💻 競技プログラミング C++，Pythonを用いてAtcoderに出場．現在灰色．リンク
+iPhoneからスイッチを操作する様子 🤖 倒立振子 ジャイロセンサを搭載した二輪ロボットの製作と，倒立振子のPD制御プログラムを開発した． GitHub
+💻 競技プログラミング Python，C++を用いてAtcoderに出場．現在茶色(highet 404)．
+リンク
 🛒 ChinaRemover Amazonの検索結果の中から，日本発送以外のものを排除した検索結果を表示するGoogle Chromeの拡張機能を製作． Chrome Store，GitHub
 ※ 下線が引いてあるものはリンク先に飛べます．</description>
     </item>

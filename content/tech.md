@@ -84,14 +84,15 @@ Raspberry Pi，ESP32を用いて家のIoT化を行った．メイン処理部分
 
 ## 🤖 倒立振子
 
-ジャイロセンサを搭載した二輪ロボットの製作と，倒立振子のPD制御プログラムを開発した．[GitHub](https://github.com/takeyamayuki/Inverted-pendulum)
+ジャイロセンサを搭載した二輪ロボットの製作と，倒立振子のPD制御プログラムを開発した． [GitHub](https://github.com/takeyamayuki/Inverted-pendulum)
 
 {{< image src="https://user-images.githubusercontent.com/22733958/174483055-81f5fcc1-4386-4e63-b027-0413a0957270.gif" position="center" style="width:70%; border-radius: 8px;" >}}  
 
 
 ## 💻 競技プログラミング
 
-C++，Pythonを用いてAtcoderに出場．現在灰色．[リンク](https://atcoder.jp/users/takeyama)
+Python，C++を用いてAtcoderに出場．現在茶色(highet 404)．  
+[リンク](https://atcoder.jp/users/takeyama)
 
 
 ## 🛒 ChinaRemover
