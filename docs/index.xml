@@ -86,7 +86,7 @@ Education 筑波大学大学院 Apr 2023 - Mar 2025 理工情報生命学術院 
       <pubDate>Sun, 20 Jun 2021 20:13:34 +0900</pubDate>
       
       <guid>https://takeyamayuki.github.io/tech/</guid>
-      <description>目次 ロボカップジュニアサッカー NonMouse RESTuino シューティングゲーム Youtubeチャンネルの運営 GyroMouseBLE スマートホーム 倒立振子 競技プログラミング ChinaRemover ⚽ ロボカップジュニアサッカー ２台の完全自律型ロボット同士でサッカーの試合をする大会であるロボカップジュニアサッカーにおいて，高校２年生のときに全国５位入賞．チームは２人で運営し，私は主に123Ddesignでの機構設計，KiCad，bsch3vを用いた回路，基板の設計開発を担当． 試合動画，ロボットの詳細，GitHub(基板データ)
+      <description>目次 ロボカップジュニアサッカー NonMouse RESTuino シューティングゲーム Youtubeチャンネルの運営 GyroMouseBLE スマートホーム 倒立振子 競技プログラミング ChinaRemover ASHIMO FingerRunning ITF. ⚽ ロボカップジュニアサッカー ２台の完全自律型ロボット同士でサッカーの試合をする大会であるロボカップジュニアサッカーにおいて，高校２年生のときに全国５位入賞．チームは２人で運営し，私は主に123Ddesignでの機構設計，KiCad，bsch3vを用いた回路，基板の設計開発を担当． 試合動画，ロボットの詳細，GitHub(基板データ)
 試合の様子 製作したロボット 👆 NonMouse Webカメラを用いて手の骨格を認識することで実体のないマウスを開発．技育展2021にて開発スキル支援部門で優秀賞受賞．GitHub，Zenn，Youtube
 📶 RESTuino RESTuinoは，REST APIでArduinoを制御するためのESP32向けファームウェアで，このファームウェアを用いることで，IoT開発の効率化を行えたり，対話型組み込み開発ができるようになる． GitHub，Zenn
 🔫 シューティングゲーム 高校の文化祭において，レーザーでCdSセンサーの的を撃つとパソコン上で点数がカウントされ順位表に表示するシステムを構築．３人で作っていて，自分は回路設計，はんだ付けを担当．
@@ -98,7 +98,8 @@ iPhoneからスイッチを操作する様子 🤖 倒立振子 ジャイロセ�
 💻 競技プログラミング Python，C++を用いてAtcoderに出場．現在茶色(highet 404)．
 リンク
 🛒 ChinaRemover Amazonの検索結果の中から，日本発送以外のものを排除した検索結果を表示するGoogle Chromeの拡張機能を製作． Chrome Store，GitHub
-※ 下線が引いてあるものはリンク先に飛べます．</description>
+👣 ASHIMO 筑波大学大学院　組み込み開発プログラミングの授業で，足に貼ったRFIDから認証を行い改札を手ぶらで通ることができるシステムを開発した．3人で開発していて，私は，バックエンド(Firebase FCM)とスマホアプリ(Android Studio Java)の実装を担当した．GitHub, 動画
+🤞 FingerRunning 筑波大学大学院　組み込み開発プログラミングの授業で，運動不足の課題を解決するため指で走るゲームを開発した．１人で開発し，私は，Android StudioとJavaによる実装を行った．GitHub</description>
     </item>
     
     <item>

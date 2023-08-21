@@ -19,6 +19,10 @@ images:
 - [倒立振子](#-倒立振子)
 - [競技プログラミング](#-競技プログラミング)
 - [ChinaRemover](#-chinaremover)
+- [ASHIMO](#-ashimo)
+- [FingerRunning](#-fingerrunning)
+- [ITF.](#-itf)
+
 
 &nbsp;
 
@@ -100,6 +104,15 @@ Python，C++を用いてAtcoderに出場．現在茶色(highet 404)．
 Amazonの検索結果の中から，日本発送以外のものを排除した検索結果を表示するGoogle Chromeの拡張機能を製作．
 [Chrome Store](https://chrome.google.com/webstore/detail/china-remover/koddfmmljnagafaapbegnjacfhlhiefg?hl=ja&gl=001)，[GitHub](https://github.com/takeyamayuki/ChinaRemover)
 
+
+## 👣 ASHIMO
+筑波大学大学院　組み込み開発プログラミングの授業で，足に貼ったRFIDから認証を行い改札を手ぶらで通ることができるシステムを開発した．3人で開発していて，私は，バックエンド(Firebase FCM)とスマホアプリ(Android Studio Java)の実装を担当した．[GitHub](https://github.com/takeyamayuki/ASHIMO), [動画](https://drive.google.com/file/d/125ItnGQid4D2cwPhSFbauSmri3XzdNFZ/view?usp=sharing)
+
+## 🤞 FingerRunning
+筑波大学大学院　組み込み開発プログラミングの授業で，運動不足の課題を解決するため指で走るゲームを開発した．１人で開発し，私は，Android StudioとJavaによる実装を行った．[GitHub](https://github.com/shim03/FingerRunning)
+
+## 📚 ITF.
+大学院授業enPiTで，新学期に買う教科書が高いという課題から，筑波大生限定の教科書取引アプリケーションを開発した．6人で開発していて，私は，スクラムマスターという役職と，バックエンド(Flask)や認証システム(Firebase authentificationなど)の実装を担当した．[GitHub](https://github.com/enpitut2023/ITF)
 
 &nbsp;
 
