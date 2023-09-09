@@ -112,7 +112,7 @@ Amazonの検索結果の中から，日本発送以外のものを排除した�
 筑波大学大学院　組み込み開発プログラミングの授業で，運動不足の課題を解決するため指で走るゲームを開発した．１人で開発し，私は，Android StudioとJavaによる実装を行った．[GitHub](https://github.com/shim03/FingerRunning)
 
 ## 📚 ITF.
-大学院授業enPiTで，新学期に買う教科書が高いという課題から，筑波大生限定の教科書取引アプリケーションを開発した．6人で開発していて，私は，スクラムマスターという役職と，バックエンド(Flask)や認証システム(Firebase authentificationなど)の実装を担当した．[GitHub](https://github.com/enpitut2023/ITF)
+大学院授業enPiTで，新学期に買う教科書が高いという課題から，筑波大生限定の教科書取引アプリケーションを開発した．6人で開発していて，私はスクラムマスターという役職と，バックエンドの実装(Flask)や認証システム(Firebase authentificationなど)，CI/CD(mainブランチへのマージによってGCPへの自動デプロイを行う)を担当した．[GitHub](https://github.com/enpitut2023/ITF)
 
 &nbsp;
 
