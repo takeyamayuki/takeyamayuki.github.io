@@ -54,16 +54,22 @@ HCI，Computer Vision，Roboticsなどが好きな大学院生です．
 ---
 ### CyberAgent株式会社 AI事業本部 対話エージェントチーム
 - アルバイト (Feb 2023 - Present)
-    - 大阪大学との共同研究チームにリサーチエンジニアとして参画し，画像処理による人物の動作解析プログラムの作成を行っている．また，チーム内でのコミュニケーションや進捗管理を行っている．
+    - 大阪大学との共同研究チームにリサーチエンジニアとして参画し，画像処理による人物の動作解析プログラムの作成を行っている．
     - **Technical Skills**: Python (with motpy, YOLO, MediaPipe), ROS2, OpenCV, Docker, Ubuntu, Git/Github.
+    - **Soft Skills**: Teamwork, Time Management, Communication, Presentation skills.
+
+### ソニーセミコンダクタソリューションズ株式会社 コーデックシステム開発部 4課
+- 3weeks インターンシップ (Aug 2023 - Sep 2023)
+    - 3次元点群の圧縮技術である[G-PCC(TMC13)](https://github.com/MPEGGroup/mpeg-pcc-tmc13)のパラメータ調査を行った．具体的には，空間情報圧縮パラメータposition scale，属性情報圧縮パラメータQPなどのパラメータをふることによって点群の圧縮率やスライス数の変化を観察し報告した．
+    - **Technical Skills**: C++, Shell(bash), TMC13, WSL2.
     - **Soft Skills**: Teamwork, Time Management, Communication, Presentation skills.
 
 ### ユカイ工学株式会社
 - アルバイト (Oct 2022 - Jan 2023)
-    - 自社で使用している自然言語処理エンジンの精度向上を目的として，自然言語処理OSSの評価プログラムや音声認識エンジンの開発を行い，週に１回の報告会を行った．より詳細な業務内容は，秘密保持契約書により非公開となっている．
+    - 自社で使用している自然言語処理エンジンの精度向上を目的として，自然言語処理OSSの評価プログラムや音声認識エンジンの開発を行い，週に１回の報告会を行った．
     - **Technical Skills**: Python, C++ (with portaudio), Docker, Ubuntu.
     - **Soft Skills**: Teamwork, Time Management, Communication, Presentation skills.
-- インターンシップ (Aug 2022 - Sep 2022)
+- 2weeks インターンシップ (Aug 2022 - Sep 2022)
     - 「何気ない日常を彩り豊かにする、そんなプロダクトの立案、開発」というテーマに沿った新規事業の企画を行い，プロトタイプを作成し，プレゼンを行った．デザイナー2人，エンジニア2人の計4人でチームは編成され，私はエンジニアとしてチームに参画した．私たちのチームでは、定期的な休息により集中力や生産性向上を狙ったプロダクトの立案と開発を行った。私は，マイコン周辺の回路設計やC++(Arduino)によるソフトウェア開発や一部プレゼン資料作成を行った．社員さんからは技術面で良い評価をいただいた．
     - **Technical Skills**: Arduino, C++.
     - **Soft Skills**: Teamwork, Time Management, Communication, Presentation skills.
