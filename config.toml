@@ -191,19 +191,19 @@ logoHomeLink = "/"
 [languages.en.menu]
 [[languages.en.menu.main]]
 identifier = "aboutme"
-name = "0_aboutme"
+name = "aboutme"
 url = "/aboutme"
 [[languages.en.menu.main]]
 identifier = "tech"
-name = "1_tech"
+name = "tech"
 url = "/tech"
 [[languages.en.menu.main]]
 identifier = "other"
-name = "2_other"
+name = "other"
 url = "/other"
 [[languages.en.menu.main]]
 identifier = "link"
-name = "3_link"
+name = "link"
 url = "/link"
 
 [markup.goldmark.renderer]
