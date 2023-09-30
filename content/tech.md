@@ -90,7 +90,7 @@ Raspberry Pi，ESP32を用いて家のIoT化を行った．メイン処理部分
 
 ジャイロセンサを搭載した二輪ロボットの製作と，倒立振子のPD制御プログラムを開発した． [GitHub](https://github.com/takeyamayuki/Inverted-pendulum)
 
-{{< image src="https://user-images.githubusercontent.com/22733958/174483055-81f5fcc1-4386-4e63-b027-0413a0957270.gif" position="center" style="width:40%; border-radius: 8px;" >}}  
+<!-- {{< image src="https://user-images.githubusercontent.com/22733958/174483055-81f5fcc1-4386-4e63-b027-0413a0957270.gif" position="center" style="width:40%; border-radius: 8px;" >}}   -->
 
 
 ## 💻 競技プログラミング

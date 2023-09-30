@@ -9,6 +9,7 @@ images:
 
 ## Yuki TAKEYAMA / 武山侑輝（たけやま ゆうき）
 
+- Academic: [iplab.cs.tsukuba.ac.jp/~takeyama/](https://www.iplab.cs.tsukuba.ac.jp/~takeyama/)
 - Email: namiki.takeyama@gmail.com
 - GitHub: [github.com/takeyamayuki](https://github.com/takeyamayuki)
 - Twitter: [twitter.com/takeyamaaaaa](https://twitter.com/takeyamaaaaa)

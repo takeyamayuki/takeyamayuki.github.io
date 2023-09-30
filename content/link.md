@@ -6,11 +6,11 @@ toc: false
 images:
 ---
 
-
+- [Academic portfolio](https://www.iplab.cs.tsukuba.ac.jp/~takeyama/)
 - [GitHub](https://github.com/takeyamayuki)    
 - [LAPRAS](https://lapras.com/public/PUORP0A)
 - [LinkedIn](https://www.linkedin.com/in/takeyamayuki/)
-- [Twitter(日常)](https://twitter.com/takeyamaaaaa)  
+- [Twitter](https://twitter.com/takeyamaaaaa)  
 - [note](https://note.com/spinach_egg)  
 - [Zenn](https://zenn.dev/ninzin)
 - [Youtube(でんきにんじん)](https://www.youtube.com/channel/UC2Ijyce-DOkMKqagTPDZleg)  
