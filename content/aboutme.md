@@ -8,25 +8,31 @@ images:
 
 
 ## Yuki TAKEYAMA / 武山侑輝（たけやま ゆうき）
+[筑波大学大学院 理工情報生命学術院 システム情報工学研究群 情報理工学位プログラム](https://www.cs.tsukuba.ac.jp/)  修士1年．  
+[インタラクティブプログラミング研究室（IPLAB）](https://www.iplab.cs.tsukuba.ac.jp/)  
+WAVEチーム（指導教員 志築文太郎 教授）  
 
-- Email: namiki.takeyama@gmail.com
-- GitHub: [github.com/takeyamayuki](https://github.com/takeyamayuki)
-- Twitter: [twitter.com/takeyamaaaaa](https://twitter.com/takeyamaaaaa)
-- LinkedIn: [linkedin.com/in/takeyamayuki](https://www.linkedin.com/in/takeyamayuki/)
-- LAPRAS: [lapras.com/public/PUORP0A](https://lapras.com/public/PUORP0A)
+
+- Email: namiki.takeyama[at]gmail.com
+- GitHub: [takeyamayuki](https://github.com/takeyamayuki)
+- Twitter: [takeyamaaaaa](https://twitter.com/takeyamaaaaa)
+- LinkedIn: [takeyamayuki](https://www.linkedin.com/in/takeyamayuki/)
+- LAPRAS: [PUORP0A](https://lapras.com/public/PUORP0A)
 - Blog
-    - Zenn: [zenn.dev/ninzin](https://zenn.dev/ninzin)
-    - note: [note.com/spinach_egg](https://note.com/spinach_egg)
-    - YouTube: [youtube.com/@DenkiNinzin](https://www.youtube.com/@DenkiNinzin)
+    - Zenn: [ninzin](https://zenn.dev/ninzin)
+    - note: [spinach_egg](https://note.com/spinach_egg)
+    - YouTube: [@DenkiNinzin](https://www.youtube.com/@DenkiNinzin)
 
 
-&nbsp;
+<!-- &nbsp;
 # Profile
----
-HCI，Computer Vision，Roboticsなどが好きな大学院生です．
+--- -->
+<!-- HCI，Computer Vision，Roboticsなどが好きな大学院生です． -->
 <!--
 私は、ハードウェアからソフトウェアまで幅広い分野に興味を持ち、ロボカップジュニア全国5位や技育展の優秀賞受賞などさまざまな成果を上げてきました．
 大学や2社のインターンを経験し、貴社での新たな技術開発や既存サービスの改善に貢献できるように頑張ります。 -->
+
+
 
 
 &nbsp;
@@ -120,6 +126,7 @@ HCI，Computer Vision，Roboticsなどが好きな大学院生です．
 - 「自律型サッカーロボットの開発」という題で，ロボカップジュニアサッカーにおける自律型ロボットの開発について発表した．これは，前述のロボカップジュニアにおけるロボットの設計開発をまとめたものである．結果として，理科研究発表会で**優秀賞**を受賞した．
 - [受賞者一覧](https://www.cfs.chiba-u.jp/koudai-renkei/event/history/2016/10jusyou.pdf)
 
+
 &nbsp;
 # Projects
 ---
@@ -134,6 +141,13 @@ HCI，Computer Vision，Roboticsなどが好きな大学院生です．
 - Aug 2021 第２種電気工事士 取得
 - Sep 2019 普通自動車第一種運転免許 取得
 - Sep 2015 実用英語技能検定２級 取得
+
+
+&nbsp;
+# Scholarship
+---
+- 独立行政法人 日本学生支援機構（JASSO）第一種奨学金（貸与型無利子），2023年4月-
+
 
 &nbsp;
 # Skills
