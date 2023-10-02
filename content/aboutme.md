@@ -8,12 +8,12 @@ images:
 
 
 ## Yuki TAKEYAMA / 武山侑輝（たけやま ゆうき）
-[筑波大学大学院 理工情報生命学術院 システム情報工学研究群 情報理工学位プログラム](https://www.cs.tsukuba.ac.jp/)  修士1年．  
+[筑波大学大学院 理工情報生命学術院 システム情報工学研究群 情報理工学位プログラム](https://www.cs.tsukuba.ac.jp/)  修士1年  
 [インタラクティブプログラミング研究室（IPLAB）](https://www.iplab.cs.tsukuba.ac.jp/)  
 WAVEチーム（指導教員 志築文太郎 教授）  
 
 
-- Email: namiki.takeyama[at]gmail.com
+- Email: takeyama[at]iplab.cs.tsukuba.ac.jp
 - GitHub: [takeyamayuki](https://github.com/takeyamayuki)
 - Twitter: [takeyamaaaaa](https://twitter.com/takeyamaaaaa)
 - LinkedIn: [takeyamayuki](https://www.linkedin.com/in/takeyamayuki/)

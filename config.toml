@@ -165,7 +165,7 @@ url = "https://www.youtube.com/channel/UC2Ijyce-DOkMKqagTPDZleg"
 
 [[params.social]]
 name = "email"
-url = "mailto:namiki.takeyama@gmail.com"
+url = "mailto:takeyama@iplab.cs.tsukuba.ac.jp"
 
 [[params.social]]
 name = "linkedin"
