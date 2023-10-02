@@ -6,7 +6,6 @@ toc: false
 images:
 ---
 
-- [Academic portfolio](https://www.iplab.cs.tsukuba.ac.jp/~takeyama/)
 - [GitHub](https://github.com/takeyamayuki)    
 - [LAPRAS](https://lapras.com/public/PUORP0A)
 - [LinkedIn](https://www.linkedin.com/in/takeyamayuki/)

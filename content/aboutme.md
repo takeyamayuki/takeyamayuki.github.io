@@ -9,7 +9,6 @@ images:
 
 ## Yuki TAKEYAMA / 武山侑輝（たけやま ゆうき）
 
-- Academic: [iplab.cs.tsukuba.ac.jp/~takeyama/](https://www.iplab.cs.tsukuba.ac.jp/~takeyama/)
 - Email: namiki.takeyama@gmail.com
 - GitHub: [github.com/takeyamayuki](https://github.com/takeyamayuki)
 - Twitter: [twitter.com/takeyamaaaaa](https://twitter.com/takeyamaaaaa)
@@ -55,7 +54,7 @@ HCI，Computer Vision，Roboticsなどが好きな大学院生です．
 ---
 ### CyberAgent株式会社 AI事業本部 対話エージェントチーム
 - アルバイト (Feb 2023 - Present)
-    - 大阪大学との共同研究チームにリサーチエンジニアとして参画し，画像処理による人物の動作解析プログラムの作成を行っている．
+    - [大阪大学との共同研究チーム](http://www.frontier.sangaku.es.osaka-u.ac.jp/)にリサーチエンジニアとして参画し，画像処理による人物の動作解析プログラムの作成を行っている．
     - **Technical Skills**: Python (with motpy, YOLO, MediaPipe), ROS2, OpenCV, Docker, Ubuntu, Git/Github.
     - **Soft Skills**: Teamwork, Time Management, Communication, Presentation skills.
 
@@ -67,7 +66,7 @@ HCI，Computer Vision，Roboticsなどが好きな大学院生です．
 
 ### ユカイ工学株式会社
 - アルバイト (Oct 2022 - Jan 2023)
-    - 自社で使用している自然言語処理エンジンの精度向上を目的として，自然言語処理OSSの評価プログラムや音声認識エンジンの開発を行い，週に１回の報告会を行った．
+    - 自然言語処理エンジンの精度向上を目的として，自然言語処理OSSの評価プログラムや音声認識エンジンの開発を行い，週に１回の報告会を行った．
     - **Technical Skills**: Python, C++ (with portaudio), Docker, Ubuntu.
     - **Soft Skills**: Teamwork, Time Management, Communication, Presentation skills.
 - 2weeks インターンシップ (Aug 2022 - Sep 2022)

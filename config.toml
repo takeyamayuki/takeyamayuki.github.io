@@ -205,6 +205,11 @@ url = "/other"
 identifier = "link"
 name = "link"
 url = "/link"
+[[languages.en.menu.main]]
+identifier = "publication"
+name = "publication"
+url = "/publication"
+
 
 [markup.goldmark.renderer]
 unsafe = true
