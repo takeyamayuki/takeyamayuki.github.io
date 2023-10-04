@@ -115,8 +115,10 @@ WAVEチーム（指導教員 志築文太郎 教授）
 ## 👀 Interests
 ---
 - 技術: 
+    - HCI
     - IoT
-    - RaspberryPi
+    - Robotics
+    - Computer Vision
 - 発信: 
     - ブログ
     - YouTube
