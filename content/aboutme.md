@@ -51,7 +51,7 @@ WAVEチーム（指導教員 志築文太郎 教授）
     - 中高一貫校
     - 普通科 卒業
 
-## 👨‍🔧 Work Experience
+## 👨‍🔧 Work Experiences
 ---
 - CyberAgent株式会社 AI事業本部 対話エージェントチーム
     - アルバイト (Feb 2023 - Present)
@@ -63,7 +63,7 @@ WAVEチーム（指導教員 志築文太郎 教授）
 - 富士通株式会社
     - 3days インターンシップ (Sep 2019)
 
-## 🏃‍♂️ Activities
+## 🏆 Awards
 ---
 
 - [`優秀賞` 技育展2022 開発スキル支援部門](https://takeyamayuki.github.io/tech#-nonmouse)
