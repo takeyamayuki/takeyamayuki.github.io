@@ -85,7 +85,7 @@ WAVEチーム（指導教員 志築文太郎 教授）
 
 ### `優秀賞` 技育展2021 開発スキル支援部門 参加
 - Oct 2021
-- 「NonMouse」というソフトウェアの開発を行った．NonMouseはマウスを使わずに，webカメラから手の動きを認識してコンピュータを操作することができるソフトウェアである．私は，このソフトウェアの企画，Python(OpenCV, MediaPipe)による画像処理プログラムの実装，プレゼンをほぼすべて1人で行った．メンターの方のアドバイスを参考にしつつさらに改良を施し，結果として開発スキル支援部門で**優秀賞**を受賞した．
+- 「NonMouse」というソフトウェアの開発を行った．NonMouseはマウスを使わずに，webカメラから手の動きを認識してコンピュータを操作することができるソフトウェアである．私は，このソフトウェアの企画，Python(OpenCV, MediaPipe)による画像処理プログラムの実装，プレゼンをほぼすべて1人で行った．メンターの方のアドバイスを参考にしつつさらに改良を施し，結果として開発スキル支援部門で**優秀賞**を受賞した．更には，Zennに投稿したところWeekly Topの記事にも選ばれた．
 - **Technical Skills**: Python (with OpenCV, MediaPipe, Numpy, Tkinter), Ubuntu, Git/Github.
 - **Soft Skills**: Time Management, Presentation skills, Communication.
 - [記事(日本語)](https://zenn.dev/ninzin/articles/94b05fdb9edf53)
