@@ -7,7 +7,7 @@ images:
 ---
 
 
-## Yuki TAKEYAMA / 武山侑輝（たけやま ゆうき）
+## 武山侑輝（たけやま ゆうき） / Yuki TAKEYAMA
 [筑波大学大学院 理工情報生命学術院 システム情報工学研究群 情報理工学位プログラム](https://www.cs.tsukuba.ac.jp/)  修士1年  
 [インタラクティブプログラミング研究室（IPLAB）](https://www.iplab.cs.tsukuba.ac.jp/)  
 WAVEチーム（指導教員 志築文太郎 教授）  
@@ -63,14 +63,19 @@ WAVEチーム（指導教員 志築文太郎 教授）
 - 富士通株式会社
     - 3days インターンシップ (Sep 2019)
 
-## 🏆 Awards
+## 🏃 Activities
 ---
 
 - [`優秀賞` 技育展2022 開発スキル支援部門](https://takeyamayuki.github.io/tech#-nonmouse)
 - [`優秀賞` 技育展2021 開発スキル支援部門](https://takeyamayuki.github.io/tech#-restuino)
--  [`全国5位` ロボカップジュニア サッカーライトウェイト ジャパンオープン 2017](https://takeyamayuki.github.io/tech#-ロボカップジュニアサッカー)
-- `優秀賞` 千葉大学 第10回高校生理科研究発表会
-
+- MY FUTURE CAMPUS 課題解決プロジェクトシーズン２ 2019 参加
+- [`全国5位` ロボカップジュニア サッカーライトウェイト ジャパンオープン 2017](https://takeyamayuki.github.io/tech#-ロボカップジュニアサッカー)
+- `優秀賞` 千葉大学 第10回高校生理科研究発表会 2016
+- ロボカップジュニア サッカーライトウェイト 関東ブロック 2016 参加
+- 筑波大学 GFEST2016 参加
+- ロボカップジュニア サッカーライトウェイト 茨城ノード大会 2015 参加
+- 創造アイデアロボットコンテスト 2013 茨城県大会 参加
+- 創造アイデアロボットコンテスト 2012 茨城県大会・関東大会 参加
 
 ## 🧗‍♂️ Projects
 ---
@@ -114,24 +119,11 @@ WAVEチーム（指導教員 志築文太郎 教授）
 
 ## 👀 Interests
 ---
-- 技術: 
-    - HCI
-    - IoT
-    - Robotics
-    - Computer Vision
-- 発信: 
-    - ブログ
-    - YouTube
-    - Twitter
-- 音楽: 
-    - 聞く
-    - 作る
-- スポーツ: 
-    - 野球
-    - バドミントン
-- 食べ物: 
-    - コーヒー
-    - たこ焼き
+- 技術: HCI, IoT, Robotics, Computer Vision
+- 発信: ブログ, YouTube, Twitter
+- 音楽: 聞く, 作る
+- スポーツ: 野球, バドミントン
+- 食べ物: コーヒー, たこ焼き
 
 
 <!-- ※ 下線が引いてあるものはリンク先に飛べます. -->
