@@ -100,14 +100,14 @@ WAVEチーム（指導教員 志築文太郎 教授）
 ### Technical Skills
 - Language:
     - C/C++ (Arudino, PlatformIO, MPLAB IDE, makefile, portaudio, VOSK)
-    - Python (ROS1/2, OpenCV, MediaPipe, Numpy, Pandas, Jupyter Notebook, K3D, Open3D, etc.)
+    - Python (ROS1/2, OpenCV, MediaPipe, Numpy, Pandas, Jupyter Notebook, K3D, Open3D, Flask, etc.)
     - Swift (SwiftUI)
     - C# (Unity)
     - Java (Android Studio)
     - Processing
 - OS: macOS，Ubuntu，Windows，RaspberrypiOS
 - Editor: VScode，nano
-- Miscellaneous：Shell(bash/zsh), Git/GitHub，Docker，LaTex，Markdown, Hugo，Wordpress
+- Miscellaneous：Shell(bash/zsh), Git/GitHub，Docker，LaTex，Markdown, Hugo，Wordpress, GCP, CI/CD, etc.
 - PCB CAD: Fritzing，KiCad，PasS，bsch3v
 - Microsoft Office: Word，Excel，PowerPoint，OneNote
 - 画像編集: Affinity Photo，Affinity Designer
