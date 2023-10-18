@@ -197,10 +197,10 @@ url = "/aboutme"
 identifier = "tech"
 name = "tech"
 url = "/tech"
-[[languages.en.menu.main]]
-identifier = "other"
-name = "other"
-url = "/other"
+# [[languages.en.menu.main]]
+# identifier = "other"
+# name = "other"
+# url = "/other"
 [[languages.en.menu.main]]
 identifier = "link"
 name = "link"
