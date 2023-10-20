@@ -66,6 +66,7 @@ WAVEチーム（指導教員 志築文太郎 教授）
 ## 🏃 Activities
 ---
 
+- 技育展2023 関東大会 参加
 - [`優秀賞` 技育展2022 開発スキル支援部門](https://takeyamayuki.github.io/tech#-nonmouse)
 - [`優秀賞` 技育展2021 開発スキル支援部門](https://takeyamayuki.github.io/tech#-restuino)
 - MY FUTURE CAMPUS 課題解決プロジェクトシーズン２ 2019 参加
