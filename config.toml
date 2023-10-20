@@ -193,22 +193,33 @@ logoHomeLink = "/"
 identifier = "aboutme"
 name = "aboutme"
 url = "/aboutme"
-[[languages.en.menu.main]]
-identifier = "tech"
-name = "tech"
-url = "/tech"
-# [[languages.en.menu.main]]
-# identifier = "other"
-# name = "other"
-# url = "/other"
-[[languages.en.menu.main]]
-identifier = "link"
-name = "link"
-url = "/link"
+weight = 1
+
+
 [[languages.en.menu.main]]
 identifier = "publication"
 name = "publication"
 url = "/publication"
+weight = 2
+
+[[languages.en.menu.main]]
+identifier = "tech"
+name = "tech"
+url = "/tech"
+weight = 3
+
+[[languages.en.menu.main]]
+identifier = "extra"
+name = "extra"
+url = "/extra"
+weight = 4
+
+[[languages.en.menu.main]]
+identifier = "link"
+name = "link"
+url = "/link"
+weight = 5
+
 # [[languages.en.menu.main]]
 # identifier = "resume"
 # name = "resume"
