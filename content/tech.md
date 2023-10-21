@@ -106,7 +106,9 @@ Amazonの検索結果の中から，日本発送以外のものを排除した�
 
 
 ## 👣 ASHIMO
-筑波大学大学院　組み込み開発プログラミングの授業で，足に貼ったRFIDから認証を行い改札を手ぶらで通ることができるシステムを開発した．3人で開発していて，私は，バックエンド(Firebase FCM)とスマホアプリ(Android Studio Java)の実装を担当した．[GitHub](https://github.com/takeyamayuki/ASHIMO), [動画](https://drive.google.com/file/d/125ItnGQid4D2cwPhSFbauSmri3XzdNFZ/view?usp=sharing)
+筑波大学大学院 組み込み開発プログラミングの授業で，足に貼ったRFIDから認証を行い改札を手ぶらで通ることができるシステムを開発した．3人で開発し，私はバックエンド(Firebase FCM)とスマホアプリ(Android Studio Java)の実装を担当した．授業の最後に行われた発表会において1位を獲得した．
+
+[GitHub](https://github.com/takeyamayuki/ASHIMO), [動画](https://drive.google.com/file/d/125ItnGQid4D2cwPhSFbauSmri3XzdNFZ/view?usp=sharing)
 
 ## 🤞 FingerRunning
 筑波大学大学院　組み込み開発プログラミングの授業で，運動不足の課題を解決するため指で走るゲームを開発した．１人で開発し，私は，Android StudioとJavaによる実装を行った．[GitHub](https://github.com/shim03/FingerRunning)
