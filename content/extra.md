@@ -7,6 +7,7 @@ images:
 ---
 
 ## 🎶 作曲
+---
 [SoundCloud](https://soundcloud.com/takeyamadesu), [Youtube](https://www.youtube.com/c/でんきにんじん)で自分で作った曲や動画を投稿.    
 
 - [日体大コールをNCS風にRemixしてみたwww](https://www.youtube.com/watch?v=4RMUM_g9-A8)   
@@ -19,15 +20,17 @@ images:
 - [でんきにんじん - ファミコン](https://youtu.be/DwgCpm_AR0U)
 
 
-## 🖱️ 商品レビュー
+## 🖱️ 動画
+---
 - [Anne pro 2商品レビュー【2ヶ月使用】](https://youtu.be/_DSBGMVispw)
 - [3000円でメカニカルキーボードを使いやすくする方法 / Customizing Your Keyboard With $30](https://youtu.be/H2PSWxv4Qvs)
 - [【商品レビュー】トラックボールM575を半年使って分かったこと](https://youtu.be/un_THzKRMhM)
-
-## 😂 ネタ動画
 - [真面目に全自動入力キーボード作る](https://youtu.be/m1KO7G2T02A)
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
-&nbsp;
-
-※ 下線が引いてあるものはリンク先に飛べます.
