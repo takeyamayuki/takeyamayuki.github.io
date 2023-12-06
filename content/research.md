@@ -20,6 +20,14 @@ images:
     電気学会，東京，2022年8月（口頭発表）  
     `unpublished`  
 
+1. <u>武山侑輝</u>，河村祐弥  
+    "自律型サッカーロボットの開発"  
+    [第10回高校生理科研究発表会](https://www.cfs.chiba-u.jp/koudai-renkei/event/history/2016/houkoku28.html)  
+    千葉大学，千葉，2016年12月（ポスター発表）  
+    `unpublished`  
+    [優秀賞受賞](https://www.cfs.chiba-u.jp/koudai-renkei/event/history/2016/10jusyou.pdf)
+
+
 ## 学位論文
 
 1. 学士論文，学士(工学)  

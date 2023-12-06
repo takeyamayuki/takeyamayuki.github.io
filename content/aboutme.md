@@ -17,7 +17,7 @@ WAVEチーム（指導教員 志築文太郎 教授）
 - GitHub: [takeyamayuki](https://github.com/takeyamayuki)
 - Twitter: [takeyamaaaaa](https://twitter.com/takeyamaaaaa)
 - LinkedIn: [takeyamayuki](https://www.linkedin.com/in/takeyamayuki/)
-- Resume: [takeyamayuki.github.io/resume](https://takeyamayuki.github.io/resume)
+- Resume: [takeyamayuki.github.io/resume](/resume)
 - Blog
     - Zenn: [ninzin](https://zenn.dev/ninzin)
     - note: [spinach_egg](https://note.com/spinach_egg)
@@ -42,7 +42,7 @@ WAVEチーム（指導教員 志築文太郎 教授）
     - 2019/04 - 2023/03
     - 理工学部 電気電子工学科 卒業
     - 学士(工学)
-    - 卒業研究: [3次元点群における動的物体の検出精度向上手法の開発](https://takeyamayuki.github.io/publication#学位論文)
+    - 卒業研究: [3次元点群における動的物体の検出精度向上手法の開発](/research/#学位論文)
     <!-- - 電気電子工学，制御工学，情報工学，解析学，線形代数などの基礎科目を修得 -->
 - 茨城県立並木中等教育学校
     - 2012/04 - 2018/03
@@ -51,25 +51,28 @@ WAVEチーム（指導教員 志築文太郎 教授）
 
 ## 🧗‍♂️ Projects
 ---
-- Tech: [here](https://takeyamayuki.github.io/tech/)
-- Research: [here](https://takeyamayuki.github.io/research/)
+- Tech: [here](/tech/)
+- Research: [here](/research/)
 
-## 🏃 Activities
+## 🏋️‍♂️ Contests
 ---
 - リクルートプログラミングコンテスト：PIGICON 2023 参加 (7位/11チーム) (2023/12/2~3)
-- 第31回インタラクティブシステムとソフトウェアに関するワークショップ（WISS 2023）ボランティア 参加 (2023/11/28~12/1)
 - 技育展2023 関東大会 参加 (2023/08)
-- [`1位` 筑波大学大学院 情報理工学位プログラム 組み込み開発プログラミング 最終発表会](https://takeyamayuki.github.io/tech/#-ashimo) (2023/7)
-- [`優秀賞` 技育展2022 開発スキル支援部門](https://takeyamayuki.github.io/tech/#-nonmouse) (2022/08)
-- [`優秀賞` 技育展2021 開発スキル支援部門](https://takeyamayuki.github.io/tech/#-restuino) (2021/08)
+- `優秀賞` [技育展2022 開発スキル支援部門](/tech/#-nonmouse) (2022/08)
+- `優秀賞` [技育展2021 開発スキル支援部門](/tech/#-restuino) (2021/08)
 - MY FUTURE CAMPUS 課題解決プロジェクトシーズン２ 参加 (2019/10)
-- [`全国5位` ロボカップジュニア サッカーライトウェイト ジャパンオープン 2017](https://takeyamayuki.github.io/tech#-ロボカップジュニアサッカー) (2017/03)
-- `優秀賞` 千葉大学 第10回高校生理科研究発表会 (2016/12)
+- `全国5位` [ロボカップジュニア サッカーライトウェイト ジャパンオープン 2017](/tech/#-ロボカップジュニアサッカー) (2017/03)
 - ロボカップジュニア サッカーライトウェイト 関東ブロック 2016 参加
-- 筑波大学 GFEST2016 参加
 - ロボカップジュニア サッカーライトウェイト 茨城ノード大会 2015 参加
 - 創造アイデアロボットコンテスト 2013 茨城県大会 参加
 - 創造アイデアロボットコンテスト 2012 茨城県大会・関東大会 参加
+
+## 🏃 Activities
+---
+- 第31回インタラクティブシステムとソフトウェアに関するワークショップ（WISS 2023）ボランティア 参加 (2023/11/28~12/1)
+- `1位` [筑波大学大学院 情報理工学位プログラム 組み込み開発プログラミング 最終発表会](/tech/#-ashimo) (2023/7)
+- 筑波大学 GFEST2016 参加
+
 
 ## 👨‍🔧 Work Experiences
 ---
