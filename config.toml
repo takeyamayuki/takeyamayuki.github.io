@@ -203,9 +203,9 @@ url = "/research"
 weight = 2
 
 [[languages.en.menu.main]]
-identifier = "tech"
-name = "tech"
-url = "/tech"
+identifier = "product"
+name = "product"
+url = "/product"
 weight = 3
 
 [[languages.en.menu.main]]

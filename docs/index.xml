@@ -89,50 +89,23 @@ Email: takeyama[at]iplab.cs.tsukuba.ac.jp GitHub: takeyamayuki Twitter: takeyama
     </item>
     
     <item>
+      <title>Product</title>
+      <link>https://takeyamayuki.github.io/product/</link>
+      <pubDate>Sun, 20 Jun 2021 20:13:34 +0900</pubDate>
+      
+      <guid>https://takeyamayuki.github.io/product/</guid>
+      <description>目次 ロボカップジュニアサッカー NonMouse RESTuino ITF. ASHIMO FingerRunning ChinaRemover Youtubeチャンネルの運営 シューティングゲーム GyroMouseBLE プログラミングコンテスト 学部卒業研究 ⚽ ロボカップジュニアサッカー 2台の完全自律型ロボット同士でサッカーの試合をする大会であるロボカップジュニアサッカーにおいて，主にロボットのハードウェアの設計開発を行った．チームは２人で編成され，私は，ロボットの機構設計(123D Design)，回路・基板設計(KiCad)を行った．また，ロボットのプログラミングはC++(Arduino)を用いて２人で行った．およそ3年間にわたってロボットの設計開発を行い，全国大会では全国5位に入賞した．ポスターによるプレゼンテーションも行っている．さらに，第10回高校生理科研究発表会にて「自律型サッカーロボットの開発」という題で，ロボカップジュニアサッカーにおける自律型ロボットの開発について発表し優秀賞を受賞した． 試合動画 ロボットの詳細 GitHub(基板データ) 高校生理科研究発表会受賞者一覧
+試合の様子 製作したロボット 👆 NonMouse 「NonMouse」というソフトウェアの開発を行った．NonMouseはマウスを使わずに，webカメラから手の動きを認識してコンピュータを操作することができるソフトウェアである．私は，このソフトウェアの企画，Python(OpenCV, MediaPipe)による画像処理プログラムの実装，プレゼンをほぼすべて1人で行った．メンターの方のアドバイスを参考にしつつさらに改良を施し，結果として開発スキル支援部門で優秀賞を受賞した．更には，Zennに投稿したところWeeklyTopの記事にも選出された． GitHub Zenn Youtube Technical Skills: Python (with OpenCV, MediaPipe, Numpy, Tkinter), Ubuntu, Git/Github. Soft Skills: Time Management, Presentation skills, Communication. 📶 RESTuino 「RESTuino」というソフトウェアの開発を行った．RESTuinoは，ArduinoのGPIOをREST APIによって対話的に操作可能にするソフトウェアである．私は，このソフトウェアの企画，C++(PlatformIO)によるマイコン上へのREST API実装，およびプレゼンをほぼすべて1人で行った．結果として開発スキル支援部門で優秀賞を受賞した． GitHub Zenn Technical Skills: PlatformIO, Arduino, C++, Python, Git/Github. Soft Skills: Time Management, Presentation skills.
+curlコマンドを用いてLEDを点灯させる様子 iPhoneからスイッチを操作する様子 📚 ITF.</description>
+    </item>
+    
+    <item>
       <title>Resume</title>
       <link>https://takeyamayuki.github.io/resume/</link>
       <pubDate>Sun, 20 Jun 2021 20:13:34 +0900</pubDate>
       
       <guid>https://takeyamayuki.github.io/resume/</guid>
       <description>🧑‍🔧 Work Experience CyberAgent株式会社 AI事業本部 対話エージェントチーム アルバイト (Feb 2023 - Present) 大阪大学との共同研究チームにリサーチエンジニアとして参画し，画像処理による人物の動作解析プログラムの作成を行っている． Technical Skills: Python (with motpy, YOLO, MediaPipe), ROS2, OpenCV, Docker, Ubuntu, Git/Github. Soft Skills: Teamwork, Time Management, Communication, Presentation skills. ソニーセミコンダクタソリューションズ株式会社 コーデックシステム開発部 4課 3weeks インターンシップ (Aug 2023 - Sep 2023) 3次元点群の圧縮技術であるG-PCC(TMC13)のパラメータ調査を行った．具体的には，空間情報圧縮パラメータposition scale，属性情報圧縮パラメータQPなどのパラメータをふることによって点群の圧縮率やスライス数の変化を観察し報告した． Technical Skills: C++, Shell(bash), TMC13, WSL2. Soft Skills: Teamwork, Time Management, Communication, Presentation skills. ユカイ工学株式会社 アルバイト (Oct 2022 - Jan 2023) 自然言語処理エンジンの精度向上を目的として，自然言語処理OSSの評価プログラムや音声認識エンジンの開発を行い，週に１回の報告会を行った． Technical Skills: Python, C++ (with portaudio), Docker, Ubuntu.</description>
-    </item>
-    
-    <item>
-      <title>Tech</title>
-      <link>https://takeyamayuki.github.io/tech/</link>
-      <pubDate>Sun, 20 Jun 2021 20:13:34 +0900</pubDate>
-      
-      <guid>https://takeyamayuki.github.io/tech/</guid>
-      <description>⚽ ロボカップジュニアサッカー ２台の完全自律型ロボット同士でサッカーの試合をする大会であるロボカップジュニアサッカーにおいて，高校２年生のときに全国５位入賞．チームは２人で運営し，私は主に123Ddesignでの機構設計，KiCad，bsch3vを用いた回路，基板の設計開発を担当．
-試合動画
-ロボットの詳細
-GitHub(基板データ)
-試合の様子 製作したロボット 👆 NonMouse Webカメラを用いて手の骨格を認識することで実体のないマウスを開発．技育展2021にて開発スキル支援部門で優秀賞受賞．ZennのWeeklyTopの記事にも選ばれた．
-GitHub
-Zenn
-Youtube
-📶 RESTuino RESTuinoは，REST APIでArduinoを制御するためのESP32向けファームウェアで，このファームウェアを用いることで，IoT開発の効率化を行えたり，対話型組み込み開発ができるようになる．技育展2022にて開発スキル支援部門で優秀賞受賞．
-GitHub
-Zenn
-curlコマンドを用いてLEDを点灯させる様子 iPhoneからスイッチを操作する様子 📚 ITF. 大学院授業enPiTにて，新学期に買う教科書が高いという課題から，筑波大生限定の教科書取引アプリケーションを開発した．6人で開発していて，私はスクラムマスターという役職と，バックエンドの実装(Flask)や認証システム(Firebase authentificationなど)，CI/CD(mainブランチへのマージによってGCPへの自動デプロイを行う)を担当した．
-GitHub
-サイト
-👣 ASHIMO 筑波大学大学院 組み込み開発プログラミングの授業にて，足に貼ったRFIDから認証を行い改札を手ぶらで通ることができるシステムを開発した．3人で開発し，私はバックエンド(Firebase FCM)とスマホアプリ(Android Studio, Java)の実装を担当した．授業の最後に行われた発表会において1位を獲得した．
-GitHub
-動画
-🤞 FingerRunning 筑波大学大学院 組み込み開発プログラミングの授業で，運動不足の課題を解決するため指で走るゲームを開発した．１人で開発し，私は，Android StudioとJavaによる実装を行った．
-GitHub
-🛒 ChinaRemover Amazonの検索結果の中から，日本発送以外のものを排除した検索結果を表示するGoogle Chromeの拡張機能を製作．
-Chrome Store
-GitHub
-💻 Youtubeチャンネルの運営 Youtubeチャンネルでんきにんじんで電子工作，プログラミング，商品レビューや音楽の動画を投稿． 【電子工作】シンセサイザーを作る というシンセサイザーの作り方の動画を投稿し，現在1.4万回再生．
-🔫 シューティングゲーム 高校の文化祭において，レーザーでCdSセンサーの的を撃つとパソコン上で点数がカウントされ順位表に表示するシステムを構築．３人で作っていて，自分は回路設計，はんだ付けを担当．
-🖱️ GyroMouseBLE Youtubeの企画として，Wiiリモコンのようにジャイロセンサーを使ってマウスを操作するBLEデバイスの製作をした．
-GitHub
-Youtube
-💻 プログラミングコンテスト Python，C++を用いてAtcoderに出場．現在茶色(highet 676)．また，PIGICONという機械学習+Web技術の高速化を行うコンテストにも出場(7位/11チーム)
-AtCoder
-※ 下線が引いてあるものはリンク先に飛べます．</description>
     </item>
     
     <item>
