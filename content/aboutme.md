@@ -17,7 +17,6 @@ WAVEチーム（指導教員 志築文太郎 教授）
 - GitHub: [takeyamayuki](https://github.com/takeyamayuki)
 - Twitter: [takeyamaaaaa](https://twitter.com/takeyamaaaaa)
 - LinkedIn: [takeyamayuki](https://www.linkedin.com/in/takeyamayuki/)
-- Resume: [takeyamayuki.github.io/resume](/resume)
 - Blog
     - Zenn: [ninzin](https://zenn.dev/ninzin)
     - note: [spinach_egg](https://note.com/spinach_egg)
@@ -32,7 +31,7 @@ WAVEチーム（指導教員 志築文太郎 教授）
 私は、ハードウェアからソフトウェアまで幅広い分野に興味を持ち、ロボカップジュニア全国5位や技育展の優秀賞受賞などさまざまな成果を上げてきました．
 大学や2社のインターンを経験し、貴社での新たな技術開発や既存サービスの改善に貢献できるように頑張ります。 -->
 
-## 🏫 Education
+## 🏫 学歴
 ---
 - 筑波大学大学院 理工情報生命学術院 システム情報工学研究群 情報理工学位プログラム  
     - 2023/04 - 2025/03  
@@ -45,32 +44,34 @@ WAVEチーム（指導教員 志築文太郎 教授）
 - 茨城県立並木中等教育学校 普通科  
     - 2012/04 - 2018/03
 
-## 🧗‍♂️ Projects
+## 🧗‍♂️ プロジェクト
 ---
-- Tech: [here](/tech/)
-- Research: [here](/research/)
+- プロダクト: [here](/product/)
+- 研究活動: [here](/research/)
+- 職務履歴: [here](/workexp/)  
 
-## 🏋️‍♂️ Contests
+## 🏋️‍♂️ コンテスト
 ---
 - リクルートプログラミングコンテスト：PIGICON 2023 参加 (7位/11チーム) (2023/12/2~3)
 - 技育展2023 関東大会 参加 (2023/08)
-- `優秀賞` [技育展2022 開発スキル支援部門](/tech/#-nonmouse) (2022/08)
-- `優秀賞` [技育展2021 開発スキル支援部門](/tech/#-restuino) (2021/08)
+- `1位` [筑波大学大学院 情報理工学位プログラム 組み込み開発プログラミング 最終発表会](/product/#-ashimo) (2023/7)
+- `優秀賞` [技育展2022 開発スキル支援部門](/product/#-nonmouse) (2022/08)
+- `優秀賞` [技育展2021 開発スキル支援部門](/product/#-restuino) (2021/08)
 - MY FUTURE CAMPUS 課題解決プロジェクトシーズン２ 参加 (2019/10)
-- `全国5位` [ロボカップジュニア サッカーライトウェイト ジャパンオープン 2017](/tech/#-ロボカップジュニアサッカー) (2017/03)
+- `全国5位` [ロボカップジュニア サッカーライトウェイト ジャパンオープン 2017](/product/#-ロボカップジュニアサッカー) (2017/03)
 - ロボカップジュニア サッカーライトウェイト 関東ブロック 2016 参加
 - ロボカップジュニア サッカーライトウェイト 茨城ノード大会 2015 参加
 - 創造アイデアロボットコンテスト 2013 茨城県大会 参加
 - 創造アイデアロボットコンテスト 2012 茨城県大会・関東大会 参加
 
-## 🏃 Activities
+## 🏃 活動
 ---
 - [第31回インタラクティブシステムとソフトウェアに関するワークショップ（WISS 2023）](https://www.wiss.org/WISS2023/) ボランティア 参加 (2023/11/28~12/1)
-- `1位` [筑波大学大学院 情報理工学位プログラム 組み込み開発プログラミング 最終発表会](/tech/#-ashimo) (2023/7)
-- [未来を創る科学技術人材育成プログラム 筑波大学GFEST](https://gfest.tsukuba.ac.jp/) 参加
+- [未来を創る科学技術人材育成プログラム 筑波大学GFEST](https://gfest.tsukuba.ac.jp/) 2016 参加
 
-## 👨‍🔧 Work Experiences
+<!-- ## 👨‍🔧 Work Experiences
 ---
+
 - CyberAgent株式会社 AI事業本部 対話エージェントチーム
     - アルバイト (2023/02 - Present)
 - ソニーセミコンダクタソリューションズ株式会社 コーデックシステム開発部 4課
@@ -79,9 +80,9 @@ WAVEチーム（指導教員 志築文太郎 教授）
     - アルバイト (2022/10 - 2023/01)
     - 2weeks インターンシップ (2022/08 - 2022/09)
 - 富士通株式会社
-    - 3days インターンシップ (2019/09)
+    - 3days インターンシップ (2019/09)   -->
 
-## 👔 Qualifications
+## 👔 資格
 ---
 - 応用情報技術者試験 取得 (2023/06)
 - TOEIC 740点 (2022/05)
@@ -90,20 +91,20 @@ WAVEチーム（指導教員 志築文太郎 教授）
 - 実用英語技能検定２級 取得 (2015/09)
 
 
-## 👛 Scholarship
+## 👛 奨学金
 ---
 - 独立行政法人 日本学生支援機構（JASSO）第一種奨学金（貸与型無利子），2023/04-
 
-## 👨‍🏫 Teaching Assistant
+## 👨‍🏫 ティーチングアシスタント
 ---
 - プログラミング入門A，筑波大学情報メディア創成学類，2023/10-2023/12
 - プログラミング入門B，筑波大学情報メディア創成学類，2024/01-2024/02
 
 
-## 💪 Skills
+## 💪 スキル
 ---
 ### Technical Skills
-- Language:
+- 言語:
     - C/C++ (Arudino, PlatformIO, MPLAB IDE, makefile, portaudio, VOSK)
     - Python (ROS1/2, OpenCV, MediaPipe, Numpy, Pandas, Jupyter Notebook, K3D, Open3D, Flask, etc.)
     - Swift (SwiftUI)
@@ -111,8 +112,8 @@ WAVEチーム（指導教員 志築文太郎 教授）
     - Java (Android Studio)
     - Processing
 - OS: macOS，Ubuntu，Windows，RaspberrypiOS
-- Editor: VScode，nano
-- Miscellaneous：Shell(bash/zsh), Git/GitHub，Docker，LaTex，Markdown, Hugo，Wordpress, GCP, CI/CD, etc.
+- エディタ: VScode，nano
+- その他: Shell(bash/zsh), Git/GitHub，Docker，LaTex，Markdown, Hugo，Wordpress, GCP, CI/CD, etc.
 - PCB CAD: Fritzing，KiCad，PasS，bsch3v
 - Microsoft Office: Word，Excel，PowerPoint，OneNote
 - 画像編集: Affinity Photo，Affinity Designer
@@ -125,7 +126,7 @@ WAVEチーム（指導教員 志築文太郎 教授）
 - Documentation, Presentation
 - Self-motivated, learning agility
 
-## 👀 Interests
+## 👀 興味
 ---
 - 技術: HCI, IoT, Robotics, Computer Vision
 - 発信: ブログ, YouTube, Twitter
