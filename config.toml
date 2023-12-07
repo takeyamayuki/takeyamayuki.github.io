@@ -1,6 +1,6 @@
 baseURL = "https://takeyamayuki.github.io"
 title = "Yuki Takeyama"
-languageCode = "en-us"
+languageCode = "ja"
 theme = "hello-friend-ng"
 
 PygmentsCodeFences = true
@@ -191,26 +191,26 @@ logoHomeLink = "/"
 [languages.en.menu]
 [[languages.en.menu.main]]
 identifier = "aboutme"
-name = "aboutme"
+name = "基本情報"
 url = "/aboutme"
 weight = 1
 
 
 [[languages.en.menu.main]]
 identifier = "research"
-name = "research"
+name = "研究"
 url = "/research"
 weight = 2
 
 [[languages.en.menu.main]]
 identifier = "product"
-name = "product"
+name = "プロダクト"
 url = "/product"
 weight = 3
 
 [[languages.en.menu.main]]
 identifier = "misc"
-name = "misc"
+name = "その他"
 url = "/misc"
 weight = 4
 

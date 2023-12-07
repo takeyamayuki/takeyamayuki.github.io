@@ -1,5 +1,5 @@
 ---
-title: "Product"
+title: "プロダクト"
 date: 2021-06-20T20:13:34+09:00
 draft: false
 toc: false
@@ -35,6 +35,8 @@ images:
 - [ロボットの詳細](https://note.com/spinach_egg/n/n5938fe6f424b)  
 - [GitHub(基板データ)](https://github.com/takeyamayuki/RCJ_Japan_Soccer2017_Board)
 - [高校生理科研究発表会受賞者一覧](https://www.cfs.chiba-u.jp/koudai-renkei/event/history/2016/10jusyou.pdf)  
+- **Technical Skills**: Arduino, C++, 3DCAD, KiCad, Sensors(IMU, Ultrasonic sensor, Infrared sensor).
+- **Soft Skills**: Teamwork, Time Management, Communication, Presentation skills.
 <br>
 - 試合の様子
 
@@ -89,6 +91,8 @@ images:
 - 筑波大学大学院 組み込み開発プログラミングの授業にて，足に貼ったRFIDから認証を行い改札を手ぶらで通ることができるシステムを開発した．3人で開発し，私はバックエンド(Firebase FCM)とスマホアプリ(Android Studio, Java)の実装を担当した．授業の最後に行われた発表会において1位を獲得した．
 - [GitHub](https://github.com/takeyamayuki/ASHIMO)  
 - [動画](https://drive.google.com/file/d/125ItnGQid4D2cwPhSFbauSmri3XzdNFZ/view?usp=sharing)
+- **Technical Skills**: Android Studio, Java, Firebase, Git/Github.
+- **Soft Skills**: Teamwork, Time Management, Communication, Presentation skills.
 
 {{< image src="/img/ashimo.gif" position="center" style="width:70%; border-radius: 8px;" >}}
 
@@ -96,6 +100,8 @@ images:
 ---
 - 筑波大学大学院 組み込み開発プログラミングの授業で，運動不足の課題を解決するため指で走るゲームを開発した．１人で開発し，私は，Android StudioとJavaによる実装を行った．  
 - [GitHub](https://github.com/shim03/FingerRunning)
+- **Technical Skills**: Android Studio, Java, Git/Github.
+- **Soft Skills**: Time Management, Presentation skills.
 
 {{< image src="/img/finger.gif" position="center" style="width:70%; border-radius: 8px;" >}}
 
@@ -104,6 +110,8 @@ images:
 - Amazonの検索結果の中から，日本発送以外のものを排除した検索結果を表示するGoogle Chromeの拡張機能を製作．
 - [Chrome Store](https://chrome.google.com/webstore/detail/china-remover/koddfmmljnagafaapbegnjacfhlhiefg?hl=ja&gl=001)  
 - [GitHub](https://github.com/takeyamayuki/ChinaRemover)
+- **Technical Skills**: JavaScript, Git/Github.
+- **Soft Skills**: Time Management
 
 {{< image src="/img/cr.png" position="center" style="width:70%; border-radius: 8px;" >}}
 
@@ -111,12 +119,17 @@ images:
 ## 💻 Youtubeチャンネルの運営
 ---
 - Youtubeチャンネル[でんきにんじん](https://www.youtube.com/channel/UC2Ijyce-DOkMKqagTPDZleg)で電子工作，プログラミング，商品レビューや音楽の動画を投稿．[【電子工作】シンセサイザーを作る](https://youtu.be/jINfBOPpO74) というシンセサイザーの作り方の動画を投稿し，現在1.4万回再生．
+- [【電子工作】シンセサイザーを作る](https://youtu.be/jINfBOPpO74)
+- **Technical Skills**: YouTube, Video Editing, Music Production.
+- **Soft Skills**: Time Management, Presentation skills, Communication.
 
 <iframe width="560" height="auto" style="display:block; margin:24px auto 0; width:70%; aspect-ratio:1.766;"  src="https://www.youtube.com/embed/jINfBOPpO74" title="【電子工作】シンセサイザーを作る" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## 🔫 シューティングゲーム      
 ---
 - 高校の文化祭において，レーザーでCdSセンサーの的を撃つとパソコン上で点数がカウントされ順位表に表示するシステムを構築．３人で作っていて，自分は回路設計，はんだ付けを担当．
+- **Technical Skills**: Arduino, C++, bsch3v, Sensors(CdS sensor).
+- **Soft Skills**: Teamwork, Time Management, Communication.
 
 {{< image src="/img/02_013.JPG" position="center" style="width:70%; border-radius: 8px;" >}}
 
@@ -125,6 +138,8 @@ images:
 - Youtubeの企画として，Wiiリモコンのようにジャイロセンサーを使ってマウスを操作するBLEデバイスの製作をした．  
 - [GitHub](https://github.com/takeyamayuki/GyroMouseBLE)  
 - [Youtube](https://youtu.be/DzT40SCh3nI)
+- **Technical Skills**: Arduino, C++, Git/Github.
+- **Soft Skills**: Time Management, Presentation skills.
 
 {{< image src="https://user-images.githubusercontent.com/22733958/130589777-bb9e9679-aeb6-43dd-bc9e-a26c03030525.gif" position="center" style="width:70%; border-radius: 8px;" >}} 
 
@@ -132,6 +147,8 @@ images:
 ---
 - Python，C++を用いてAtcoderに出場．現在茶色(highet 676)．また，PIGICONという機械学習+Web技術の高速化を行うコンテストにも出場(7位/11チーム)  
 - [AtCoder](https://atcoder.jp/users/takeyama)
+- **Technical Skills**: Python, C++, Algorithms, Git/Github.
+- **Soft Skills**: Time Management, Presentation skills.
 
 ## 👨‍🎓 学部卒業研究
 ---
