@@ -2,6 +2,7 @@ baseURL = "https://takeyamayuki.github.io"
 title = "Yuki Takeyama"
 languageCode = "ja"
 theme = "hello-friend-ng"
+defaultContentLanguage = "ja"
 
 PygmentsCodeFences = true
 PygmentsStyle = "monokai"
@@ -173,13 +174,13 @@ url = "https://www.linkedin.com/in/takeyamayuki/"
 
 
 [languages]
-[languages.en]
+[languages.ja]
 title = "Yuki Takeyama"
 subtitle = ""
 keywords = ""
 readOtherPosts = "Read other posts"
 
-[languages.en.params.logo]
+[languages.ja.params.logo]
 logoMark = ">"
 logoText = "$ cd /home"
 logoHomeLink = "/"
@@ -188,39 +189,39 @@ logoHomeLink = "/"
 # path = "/img/your-example-logo.svg"
 # alt = "Your example logo alt text"
 
-[languages.en.menu]
-[[languages.en.menu.main]]
+[languages.ja.menu]
+[[languages.ja.menu.main]]
 identifier = "aboutme"
 name = "基本情報"
 url = "/aboutme"
 weight = 1
 
 
-[[languages.en.menu.main]]
+[[languages.ja.menu.main]]
 identifier = "research"
 name = "研究"
 url = "/research"
 weight = 2
 
-[[languages.en.menu.main]]
+[[languages.ja.menu.main]]
 identifier = "product"
 name = "プロダクト"
 url = "/product"
 weight = 3
 
-[[languages.en.menu.main]]
+[[languages.ja.menu.main]]
 identifier = "misc"
 name = "その他"
 url = "/misc"
 weight = 4
 
-# [[languages.en.menu.main]]
+# [[languages.ja.menu.main]]
 # identifier = "link"
 # name = "link"
 # url = "/link"
 # weight = 5
 
-# [[languages.en.menu.main]]
+# [[languages.ja.menu.main]]
 # identifier = "resume"
 # name = "resume"
 # url = "/resume"
