@@ -105,27 +105,27 @@ WAVEチーム（指導教員 志築文太郎 教授）
 ---
 ### Technical Skills
 - 言語:  
-    [![My Skills](https://skillicons.dev/icons?i=cpp,arduino,cmake)](https://skillicons.dev)  
-    <!-- - C/C++ (Arudino, PlatformIO, MPLAB IDE, makefile, portaudio, VOSK) -->
-    [![My Skills](https://skillicons.dev/icons?i=python,ros,flask,pytorch)](https://skillicons.dev)  
-    <!-- (ROS1/2, OpenCV, MediaPipe, Numpy, Pandas, Jupyter Notebook, K3D, Open3D, Flask, etc.) -->
-    [![My Skills](https://skillicons.dev/icons?i=swift)](https://skillicons.dev)  
-    <!-- - Swift (SwiftUI) -->
-    [![My Skills](https://skillicons.dev/icons?i=cs,unity)](https://skillicons.dev)  
-    <!-- - C# (Unity) -->
-    [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)  
-    <!-- - Java (Android Studio) -->
-    [![My Skills](https://skillicons.dev/icons?i=processing,matlab,javascript)](https://skillicons.dev)  
-    <!-- - Processing -->
+    <!-- [![My Skills](https://skillicons.dev/icons?i=cpp,arduino,cmake)](https://skillicons.dev)   -->
+    - C/C++ (Arudino, PlatformIO, MPLAB IDE, makefile, portaudio, VOSK)
+    <!-- [![My Skills](https://skillicons.dev/icons?i=python,ros,flask,pytorch)](https://skillicons.dev)   -->
+    - Python (ROS1/2, OpenCV, MediaPipe, Numpy, Pandas, Jupyter Notebook, K3D, Open3D, Flask, etc.)
+    <!-- [![My Skills](https://skillicons.dev/icons?i=swift)](https://skillicons.dev)   -->
+    - Swift (SwiftUI)
+    <!-- [![My Skills](https://skillicons.dev/icons?i=cs,unity)](https://skillicons.dev)   -->
+    - C# (Unity)
+    <!-- [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)   -->
+    - Java (Android Studio)
+    <!-- [![My Skills](https://skillicons.dev/icons?i=processing,matlab,javascript)](https://skillicons.dev)   -->
+    - Processing
 - エディタ: 
-    <!-- VScode，nano -->
-    [![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio)](https://skillicons.dev)
+    Cursor, VScode，Xcode, Android Studio, nano
+    <!-- [![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio)](https://skillicons.dev) -->
 - OS: 
-    <!-- macOS，Ubuntu，Windows，RaspberrypiOS -->
-    [![My Skills](https://skillicons.dev/icons?i=linux,raspberrypi)](https://skillicons.dev)  
+    macOS，Ubuntu，Windows，RaspberrypiOS
+    <!-- [![My Skills](https://skillicons.dev/icons?i=linux,raspberrypi)](https://skillicons.dev)   -->
 - その他: 
-    <!-- Shell(bash/zsh), Git/GitHub，Docker，LaTex，Markdown, Hugo，Wordpress, GCP, CI/CD, etc. -->
-    [![My Skills](https://skillicons.dev/icons?i=bash,git,github,githubactions,docker,latex,md,wordpress,gcp)](https://skillicons.dev)
+    Shell(bash/zsh), Git/GitHub，Docker，LaTex，Markdown, Hugo，Wordpress, GCP, GitHub Actions, etc.
+    <!-- [![My Skills](https://skillicons.dev/icons?i=bash,git,github,githubactions,docker,latex,md,wordpress,gcp)](https://skillicons.dev) -->
 - PCB CAD: Fritzing，KiCad，PasS，bsch3v
 - Microsoft Office: Word，Excel，PowerPoint，OneNote
 - 画像編集: Affinity Photo，Affinity Designer
