@@ -16,9 +16,9 @@ images:
 [[PDF](https://www.iplab.cs.tsukuba.ac.jp/paper/poster/takeyama_wiss2023.pdf)], [[Poster](https://drive.google.com/file/d/1gAoUOPVCN2oj0JsR1EVc5Ulsi8cVxfYO/view?usp=sharing)], [[Workshop Page](https://www.wiss.org/WISS2023/demo-poster.html)]  
 
 
-1. **武山侑輝**  
+1. **武山侑輝**，伊丹琢，米山淳  
 "骨格検出画像処理を用いた入力インタフェースの開発"  
-[電気学会東京支部主催 第12回学生研究発表会](https://www.iee.jp/tokyo/20220826student/)，  
+[令和4年度電気学会東京支部第12回学生研究発表会](https://www.iee.jp/tokyo/20220826student/)，  
 電気学会，東京，2022年8月（口頭発表）  
 [`unpublished`]  
 
