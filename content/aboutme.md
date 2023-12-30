@@ -17,6 +17,7 @@ WAVEチーム（指導教員 志築文太郎 教授）
 - GitHub: [takeyamayuki](https://github.com/takeyamayuki)
 - Twitter: [takeyamaaaaa](https://twitter.com/takeyamaaaaa)
 - LinkedIn: [takeyamayuki](https://www.linkedin.com/in/takeyamayuki/)
+- CV: [here](https://drive.google.com/file/d/1zaY-Dga-js1Ghtn_xZPsGPcPLg6-4tSZ/view?usp=sharing)
 - Blog
     - Zenn: [ninzin](https://zenn.dev/ninzin)
     - note: [spinach_egg](https://note.com/spinach_egg)
