@@ -209,11 +209,11 @@ name = "プロダクト"
 url = "/product"
 weight = 3
 
-[[languages.ja.menu.main]]
-identifier = "misc"
-name = "その他"
-url = "/misc"
-weight = 4
+# [[languages.ja.menu.main]]
+# identifier = "misc"
+# name = "その他"
+# url = "/misc"
+# weight = 4
 
 # [[languages.ja.menu.main]]
 # identifier = "link"
