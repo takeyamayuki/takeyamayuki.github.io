@@ -152,17 +152,17 @@ alt = "Portrait"
 maxWidth = "300px"
 
 # Social icons
-[[params.social]]
-name = "twitter"
-url = "https://twitter.com/takeyamaaaaa"
+# [[params.social]]
+# name = "twitter"
+# url = "https://twitter.com/takeyamaaaaa"
 
 [[params.social]]
 name = "github"
 url = "https://github.com/takeyamayuki"
 
-[[params.social]]
-name = "youtube"
-url = "https://www.youtube.com/channel/UC2Ijyce-DOkMKqagTPDZleg"
+# [[params.social]]
+# name = "youtube"
+# url = "https://www.youtube.com/channel/UC2Ijyce-DOkMKqagTPDZleg"
 
 [[params.social]]
 name = "email"

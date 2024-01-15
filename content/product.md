@@ -116,7 +116,7 @@ images:
 
 {{< image src="/img/cr.png" position="center" style="width:70%; border-radius: 8px;" >}}
 
-
+<!-- 
 ## 💻 Youtubeチャンネルの運営
 ---
 - Youtubeチャンネル[でんきにんじん](https://www.youtube.com/channel/UC2Ijyce-DOkMKqagTPDZleg)で電子工作，プログラミング，商品レビューや音楽の動画を投稿．[【電子工作】シンセサイザーを作る](https://youtu.be/jINfBOPpO74) というシンセサイザーの作り方の動画を投稿し，現在1.4万回再生．
@@ -124,7 +124,7 @@ images:
 - **Technical Skills**: YouTube, Video Editing, Music Production.
 - **Soft Skills**: Time Management, Presentation skills, Communication.
 
-<iframe width="560" height="auto" style="display:block; margin:24px auto 0; width:70%; aspect-ratio:1.766;"  src="https://www.youtube.com/embed/jINfBOPpO74" title="【電子工作】シンセサイザーを作る" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="auto" style="display:block; margin:24px auto 0; width:70%; aspect-ratio:1.766;"  src="https://www.youtube.com/embed/jINfBOPpO74" title="【電子工作】シンセサイザーを作る" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
 
 ## 🔫 シューティングゲーム      
 ---
@@ -136,7 +136,7 @@ images:
 
 ## 🖱️ GyroMouseBLE
 ---
-- Youtubeの企画として，Wiiリモコンのようにジャイロセンサーを使ってマウスを操作するBLEデバイスの製作をした．  
+- Wiiリモコンのようにジャイロセンサーを使ってマウスを操作するBLEデバイスの製作をした．  
 - [[GitHub](https://github.com/takeyamayuki/GyroMouseBLE)]  
 - [[Youtube](https://youtu.be/DzT40SCh3nI)]
 - **Technical Skills**: Arduino, C++, Git/Github.
