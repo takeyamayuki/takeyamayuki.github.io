@@ -160,9 +160,9 @@ maxWidth = "300px"
 name = "github"
 url = "https://github.com/takeyamayuki"
 
-# [[params.social]]
-# name = "youtube"
-# url = "https://www.youtube.com/channel/UC2Ijyce-DOkMKqagTPDZleg"
+[[params.social]]
+name = "youtube"
+url = "https://www.youtube.com/channel/UC2Ijyce-DOkMKqagTPDZleg"
 
 [[params.social]]
 name = "email"
