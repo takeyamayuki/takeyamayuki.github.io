@@ -34,8 +34,9 @@ images:
 - [[試合動画](https://www.youtube.com/playlist?list=PLkEBRGnKNUILFJv4zKvQkQi69NoT-_FYg)]  
 - [[ロボットの詳細](https://note.com/spinach_egg/n/n5938fe6f424b)]  
 - [[基板データ](https://github.com/takeyamayuki/RCJ_Japan_Soccer2017_Board)]
-- [[ロボカップジュニア競技結果](https://www.robocupjunior.jp/docs/RCJJ2017Results-Soccer_LightWeight(WSL).pdf)]
-- [[高校生理科研究発表会受賞者一覧](https://www.cfs.chiba-u.jp/koudai-renkei/event/history/2016/10jusyou.pdf)]  
+- [[RoboCupJuniorJapan HP](https://www.robocupjunior.jp/index.html)]
+- [[RoboCupJuniorJapan 競技結果](https://www.robocupjunior.jp/docs/RCJJ2017Results-Soccer_LightWeight(WSL).pdf)]
+- [[高校生理科研究発表会 受賞者一覧](https://www.cfs.chiba-u.jp/koudai-renkei/event/history/2016/10jusyou.pdf)]  
 - **Technical Skills**: Arduino, C++, 3DCAD, KiCad, Sensors(IMU, Ultrasonic sensor, Infrared sensor).
 - **Soft Skills**: Teamwork, Time Management, Communication, Presentation skills.
 <br>
@@ -54,6 +55,8 @@ images:
 - [[GitHub](https://github.com/takeyamayuki/NonMouse2)]  
 - [[Zenn](https://zenn.dev/ninzin/articles/94b05fdb9edf53)]  
 - [[Youtube](https://youtu.be/ufvOJUTCF8M)]
+- [[技育展2021 HP](https://talent.supporterz.jp/geekten/2021/)]
+- [[表彰状](https://drive.google.com/file/d/13QC0B-ERtwVyCp4O0RPveOUX1KNsMWpP/view?usp=sharing)]
 - **Technical Skills**: Python (with OpenCV, MediaPipe, Numpy, Tkinter), Ubuntu, Git/Github.
 - **Soft Skills**: Time Management, Presentation skills, Communication.
 
@@ -64,6 +67,8 @@ images:
 - 「RESTuino」というソフトウェアの開発を行った．RESTuinoは，ArduinoのGPIOをREST APIによって対話的に操作可能にするソフトウェアである．私は，このソフトウェアの企画，C++(PlatformIO)によるマイコン上へのREST API実装，およびプレゼンをほぼすべて1人で行った．結果として開発スキル支援部門で**優秀賞**を受賞した．  
 - [[GitHub](https://github.com/takeyamayuki/RESTuino)]  
 - [[Zenn](https://zenn.dev/ninzin/articles/5c859a0bfc1ee6)]  
+- [[技育展2022 HP](https://talent.supporterz.jp/geekten/2022/)]
+- [[表彰状](https://drive.google.com/file/d/1iFwxoJWp2PNzWfSxtcxW3pdKwkH-N76K/view?usp=sharing)]
 - **Technical Skills**: PlatformIO, Arduino, C++, Python, Git/Github.
 - **Soft Skills**: Time Management, Presentation skills.  
 <br>
