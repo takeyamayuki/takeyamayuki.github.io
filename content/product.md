@@ -51,12 +51,13 @@ images:
 
 ## 👆 NonMouse  
 ---
-- 「NonMouse」というソフトウェアの開発を行った．NonMouseはマウスを使わずに，webカメラから手の動きを認識してコンピュータを操作することができるソフトウェアである．私は，このソフトウェアの企画，Python(OpenCV, MediaPipe)による画像処理プログラムの実装，プレゼンをほぼすべて1人で行った．メンターの方のアドバイスを参考にしつつさらに改良を施し，結果として開発スキル支援部門で**優秀賞**を受賞した．更には，Zennに投稿したところ**WeeklyTop**の記事にも選出された．  
+- 「NonMouse」というソフトウェアの開発を行った．NonMouseはマウスを使わずに，webカメラから手の動きを認識してコンピュータを操作することができるソフトウェアである．私は，このソフトウェアの企画，Python(OpenCV, MediaPipe)による画像処理プログラムの実装，プレゼンをほぼすべて1人で行った．メンターの方のアドバイスを参考にしつつさらに改良を施し，結果として開発スキル支援部門で**優秀賞**を受賞した．更には，Zennに投稿したところ**WeeklyTop**の記事にも選出された．また，異能vation 2023年度 「ジェネレーションアワード」部門ノミネートを受けた．  
 - [[GitHub](https://github.com/takeyamayuki/NonMouse2)]  
 - [[Zenn](https://zenn.dev/ninzin/articles/94b05fdb9edf53)]  
 - [[Youtube](https://youtu.be/ufvOJUTCF8M)]
 - [[技育展2021 HP](https://talent.supporterz.jp/geekten/2021/)]
-- [[表彰状](https://drive.google.com/file/d/13QC0B-ERtwVyCp4O0RPveOUX1KNsMWpP/view?usp=sharing)]
+- [[技育展2021 表彰状](https://drive.google.com/file/d/13QC0B-ERtwVyCp4O0RPveOUX1KNsMWpP/view?usp=sharing)]
+- [[異能vation 2023 ノミネート一覧](https://www.inno.go.jp/result/2023/generation/nominate/)]
 - **Technical Skills**: Python (with OpenCV, MediaPipe, Numpy, Tkinter), Ubuntu, Git/Github.
 - **Soft Skills**: Time Management, Presentation skills, Communication.
 
