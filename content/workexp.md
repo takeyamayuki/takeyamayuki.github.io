@@ -10,7 +10,7 @@ images:
 
 ### CyberAgent株式会社 AI事業本部 対話エージェントチーム
 - アルバイト (2023/02 - 2024/02)
-    - [大阪大学との共同研究チーム](http://www.frontier.sangaku.es.osaka-u.ac.jp/)にリサーチエンジニアとして参画し，対話エージェントの開発を行っている．
+    - [大阪大学との共同研究チーム](http://www.frontier.sangaku.es.osaka-u.ac.jp/)にリサーチエンジニアとして参画し，対話エージェントの開発を行った．
     - **Technical Skills**: Python (with motpy, YOLO, MediaPipe), ROS2, OpenCV, Docker, Ubuntu, Git/Github.
     - **Soft Skills**: Teamwork, Time Management, Communication, Presentation skills.
 
