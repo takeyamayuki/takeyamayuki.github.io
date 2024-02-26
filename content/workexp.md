@@ -9,29 +9,29 @@ images:
 
 
 ### CyberAgent株式会社 AI事業本部 対話エージェントチーム
-- アルバイト (Feb 2023 - Present)
-    - [大阪大学との共同研究チーム](http://www.frontier.sangaku.es.osaka-u.ac.jp/)にリサーチエンジニアとして参画し，画像処理による人物の動作解析プログラムの作成を行っている．
+- アルバイト (2023/02 - 2024/02)
+    - [大阪大学との共同研究チーム](http://www.frontier.sangaku.es.osaka-u.ac.jp/)にリサーチエンジニアとして参画し，対話エージェントの開発を行っている．
     - **Technical Skills**: Python (with motpy, YOLO, MediaPipe), ROS2, OpenCV, Docker, Ubuntu, Git/Github.
     - **Soft Skills**: Teamwork, Time Management, Communication, Presentation skills.
 
 ### ソニーセミコンダクタソリューションズ株式会社 コーデックシステム開発部 4課
-- 3weeks インターンシップ (Aug 2023 - Sep 2023)
+- 3weeks インターンシップ (2023/08 - 2023/09)
     - 3次元点群の圧縮技術である[G-PCC(TMC13)](https://github.com/MPEGGroup/mpeg-pcc-tmc13)のパラメータ調査を行った．具体的には，空間情報圧縮パラメータposition scale，属性情報圧縮パラメータQPなどのパラメータをふることによって点群の圧縮率やスライス数の変化を観察し報告した．
     - **Technical Skills**: C++, Shell(bash), TMC13, WSL2.
     - **Soft Skills**: Teamwork, Time Management, Communication, Presentation skills.
 
 ### ユカイ工学株式会社
-- アルバイト (Oct 2022 - Jan 2023)
+- アルバイト (2022/10 - 2023/01)
     - 自然言語処理エンジンの精度向上を目的として，自然言語処理OSSの評価プログラムや音声認識エンジンの開発を行い，週に１回の報告会を行った．
     - **Technical Skills**: Python, C++ (with portaudio), Docker, Ubuntu.
     - **Soft Skills**: Teamwork, Time Management, Communication, Presentation skills.
-- 2weeks インターンシップ (Aug 2022 - Sep 2022) [[certification](https://drive.google.com/file/d/1uPwK-W0BH1AOdSANKuN6pblFqbDV9emS/view?usp=sharing)]
+- 2weeks インターンシップ (2022/08 - 2022/09) [[certification](https://drive.google.com/file/d/1uPwK-W0BH1AOdSANKuN6pblFqbDV9emS/view?usp=sharing)]
     - 「何気ない日常を彩り豊かにする、そんなプロダクトの立案、開発」というテーマに沿った新規事業の企画を行い，プロトタイプを作成し，プレゼンを行った．デザイナー2人，エンジニア2人の計4人でチームは編成され，私はエンジニアとしてチームに参画した．私たちのチームでは、定期的な休息により集中力や生産性向上を狙ったプロダクトの立案と開発を行った。私は，マイコン周辺の回路設計やC++(Arduino)によるソフトウェア開発や一部プレゼン資料作成を行った．社員さんからは技術面で良い評価をいただいた．
     - **Technical Skills**: Arduino, C++.
     - **Soft Skills**: Teamwork, Time Management, Communication, Presentation skills.
 
 ### 富士通株式会社
-- 3days インターンシップ (Sep 2019)
+- 3days インターンシップ (2019/09)
     - 新規開発のグループワークを行った．最終的には，プレゼンを行い，社員さんから良い評価をいただいた．
     - **Soft Skills**: Teamwork, Time Management, Communication, Presentation skills.
 
