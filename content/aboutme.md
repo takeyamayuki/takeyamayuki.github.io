@@ -53,12 +53,12 @@ WAVEチーム（指導教員 志築文太郎 教授）
 
 ## 🏋️‍♂️ 受賞
 ---
-- **ノミネート** 異能vation 2023年度 「ジェネレーションアワード」部門 (2024/02) [[link](/product/#-nonmouse)], [[ノミネート一覧](https://www.inno.go.jp/result/2023/generation/nominate/)]
-- **1位** 筑波大学大学院 情報理工学位プログラム 組み込み開発プログラミング 最終発表会 (2023/7) [[link](/product/#-ashimo)]
-- **優秀賞** 技育展2022 開発スキル支援部門 (2022/08) [[link](/product/#-restuino)], [[表彰状](https://drive.google.com/file/d/1iFwxoJWp2PNzWfSxtcxW3pdKwkH-N76K/view?usp=sharing)]
-- **優秀賞** 技育展2021 開発スキル支援部門 (2021/08) [[link](/product/#-nonmouse)], [[表彰状](https://drive.google.com/file/d/13QC0B-ERtwVyCp4O0RPveOUX1KNsMWpP/view?usp=sharing)]
-- **全国5位** ロボカップジュニア サッカーライトウェイト ジャパンオープン 2017 (2017/03) [[link](/product/#-ロボカップジュニアサッカー)], [[競技結果](https://www.robocupjunior.jp/docs/RCJJ2017Results-Soccer_LightWeight(WSL).pdf)]
-- **優秀賞** 高校生理科研究発表会 優秀賞 (2016/09) [[link](/product/#-ロボカップジュニアサッカー)], [[受賞者一覧](https://www.cfs.chiba-u.jp/koudai-renkei/event/history/2016/10jusyou.pdf)]
+- 異能vation 2023年度 「ジェネレーションアワード」部門 **ノミネート** (121件/16929応募) (2024/02) [[link](/product/#-nonmouse)], [[ノミネート一覧](https://www.inno.go.jp/result/2023/generation/nominate/)]
+- 筑波大学大学院 情報理工学位プログラム 組み込み開発プログラミング 最終発表会 **1位** (2023/07) [[link](/product/#-ashimo)]
+- 技育展2022 開発スキル支援部門 **優秀賞** (2022/08) [[link](/product/#-restuino)], [[表彰状](https://drive.google.com/file/d/1iFwxoJWp2PNzWfSxtcxW3pdKwkH-N76K/view?usp=sharing)]
+- 技育展2021 開発スキル支援部門 **優秀賞** (2021/08) [[link](/product/#-nonmouse)], [[表彰状](https://drive.google.com/file/d/13QC0B-ERtwVyCp4O0RPveOUX1KNsMWpP/view?usp=sharing)]
+- ロボカップジュニア サッカーライトウェイト ジャパンオープン 2017 **全国5位** (2017/03) [[link](/product/#-ロボカップジュニアサッカー)], [[競技結果](https://www.robocupjunior.jp/docs/RCJJ2017Results-Soccer_LightWeight(WSL).pdf)]
+- 第10回高校生理科研究発表会 **優秀賞** (2016/09) [[link](/product/#-ロボカップジュニアサッカー)], [[受賞者一覧](https://www.cfs.chiba-u.jp/koudai-renkei/event/history/2016/10jusyou.pdf)]
 
 ## 🏃 活動
 ---
