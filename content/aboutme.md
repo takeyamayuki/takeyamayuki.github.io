@@ -17,11 +17,10 @@ WAVEチーム（指導教員 志築文太郎 教授）
 - GitHub: [takeyamayuki](https://github.com/takeyamayuki)
 - LinkedIn: [takeyamayuki](https://www.linkedin.com/in/takeyamayuki/)
 - CV: [here](https://drive.google.com/file/d/1zaY-Dga-js1Ghtn_xZPsGPcPLg6-4tSZ/view?usp=sharing)
-- Blog
-    - Zenn: [ninzin](https://zenn.dev/ninzin)
-    - note: [spinach_egg](https://note.com/spinach_egg)
-    <!-- - YouTube: [@DenkiNinzin](https://www.youtube.com/@DenkiNinzin) -->
-    <!-- - Twitter: [takeyamaaaaa](https://twitter.com/takeyamaaaaa) -->
+- Zenn: [ninzin](https://zenn.dev/ninzin)
+<!-- - note: [spinach_egg](https://note.com/spinach_egg) -->
+<!-- - YouTube: [@DenkiNinzin](https://www.youtube.com/@DenkiNinzin) -->
+<!-- - Twitter: [takeyamaaaaa](https://twitter.com/takeyamaaaaa) -->
 
 <!-- &nbsp;
 # Profile
@@ -53,7 +52,7 @@ WAVEチーム（指導教員 志築文太郎 教授）
 
 ## 🏋️‍♂️ 受賞
 ---
-- 異能vation 2023年度 「ジェネレーションアワード」部門 **ノミネート** (121件/16929応募) (2024/02) [[link](/product/#-nonmouse)], [[ノミネート一覧](https://www.inno.go.jp/result/2023/generation/nominate/)]
+- 異能vation 2023年度 「ジェネレーションアワード」部門 **ノミネート** (121件/16929応募) (2024/02) [[link](/product/#-nonmouse)], [[表彰状](https://drive.google.com/file/d/12GZg1Wx3ZPSXtmn1RosNp5PXvozhiQMS/view?usp=sharing)]
 - 筑波大学大学院 情報理工学位プログラム 組み込み開発プログラミング 最終発表会 **1位** (2023/07) [[link](/product/#-ashimo)]
 - 技育展2022 開発スキル支援部門 **優秀賞** (2022/08) [[link](/product/#-restuino)], [[表彰状](https://drive.google.com/file/d/1iFwxoJWp2PNzWfSxtcxW3pdKwkH-N76K/view?usp=sharing)]
 - 技育展2021 開発スキル支援部門 **優秀賞** (2021/08) [[link](/product/#-nonmouse)], [[表彰状](https://drive.google.com/file/d/13QC0B-ERtwVyCp4O0RPveOUX1KNsMWpP/view?usp=sharing)]
@@ -88,7 +87,7 @@ WAVEチーム（指導教員 志築文太郎 教授）
 
 ## 👔 資格
 ---
-- 応用情報技術者試験 取得 (2023/06)
+- 応用情報技術者試験 取得 (2023/06) [[合格証書](https://drive.google.com/file/d/1BFG7EmhEiV75UdWvPqPBQuVZNluIHAjH/view?usp=sharing)]
 - TOEIC 740点 (2022/05)
 - 第２種電気工事士 取得 (2021/08)
 - 普通自動車第一種運転免許 取得 (2019/09)
