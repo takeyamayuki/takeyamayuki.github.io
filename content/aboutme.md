@@ -113,6 +113,7 @@ WAVEチーム（指導教員 志築文太郎 教授）
     <!-- [![My Skills](https://skillicons.dev/icons?i=python,ros,flask,pytorch)](https://skillicons.dev)   -->
     - Python (ROS1/2, OpenCV, MediaPipe, Numpy, Pandas, Jupyter Notebook, K3D, Open3D, Flask, etc.)
     <!-- [![My Skills](https://skillicons.dev/icons?i=swift)](https://skillicons.dev)   -->
+    - MATLAB
     - Swift (SwiftUI)
     <!-- [![My Skills](https://skillicons.dev/icons?i=cs,unity)](https://skillicons.dev)   -->
     - C# (Unity)
