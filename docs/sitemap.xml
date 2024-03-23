@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://takeyamayuki.github.io/pfn/</loc>
+    <lastmod>2024-03-23T22:18:31+09:00</lastmod>
+  </url><url>
     <loc>https://takeyamayuki.github.io/research/</loc>
     <lastmod>2023-10-02T21:11:36+09:00</lastmod>
   </url><url>
@@ -11,9 +14,6 @@
     <loc>https://takeyamayuki.github.io/link/</loc>
     <lastmod>2021-06-21T21:21:36+09:00</lastmod>
   </url><url>
-    <loc>https://takeyamayuki.github.io/workexp/</loc>
-    <lastmod>2021-06-20T20:13:34+09:00</lastmod>
-  </url><url>
     <loc>https://takeyamayuki.github.io/misc/</loc>
     <lastmod>2021-06-20T20:13:34+09:00</lastmod>
   </url><url>
@@ -21,6 +21,9 @@
     <lastmod>2021-06-20T20:13:34+09:00</lastmod>
   </url><url>
     <loc>https://takeyamayuki.github.io/aboutme/</loc>
+    <lastmod>2021-06-20T20:13:34+09:00</lastmod>
+  </url><url>
+    <loc>https://takeyamayuki.github.io/workexp/</loc>
     <lastmod>2021-06-20T20:13:34+09:00</lastmod>
   </url><url>
     <loc>https://takeyamayuki.github.io/tags/daily/</loc>
