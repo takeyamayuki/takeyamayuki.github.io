@@ -110,7 +110,7 @@ rss = false
 copyright = false
 author = false
 
-topText = ["<span style=\"font-size:0.8rem;\">© 2023 Yuki Takeyama</span>"]
+topText = ["<span style=\"font-size:0.8rem;\">© 2024 Yuki Takeyama</span>"]
 bottomText = [
   "<span style=\"font-size:0.4rem;\">Powered by <a href=\"http://gohugo.io\">Hugo</a> / Made with &#10084; by <a href=\"https://github.com/rhazdon\">Djordje Atlialp</a></span>",
 ]
