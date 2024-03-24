@@ -10,6 +10,7 @@ images:
 ### [基本情報](/aboutme)
 - [所属](/aboutme/)
 - [受賞](/aboutme/#-受賞)
+- [資格](/aboutme/#-資格)
 - [スキル](/aboutme/#-スキル)
 
 ### 力を入れてきたこと
@@ -17,7 +18,7 @@ images:
 {{< image src="/img/exp.png" position="center" style="width:70%; border-radius: 8px;" >}}
 
 ### 研究
-- [学部研究](/product/#-学部卒業研究)
+<!-- - [学部研究](/product/#-学部卒業研究) -->
 - [修士研究](/product/#-修士研究)
 
 ### 課外活動
@@ -26,13 +27,13 @@ images:
 <!-- - [RESTuino](/product/#-restuino) -->
 <!-- - [GyroMouseBLE](/product/#-gyromouseble) -->
 
-### 授業
-- [ITF.](/product/#-itf)
+<!-- ### 授業
+- [ITF.](/product/#-itf) -->
 
 ### アルバイト，インターン
 - [CA AILabアルバイト](/workexp/)
-- [SSSインターン](/workexp/)
-- [ユカイ工学アルバイト](/workexp/)
+<!-- - [SSSインターン](/workexp/)
+- [ユカイ工学アルバイト](/workexp/) -->
 
 
 

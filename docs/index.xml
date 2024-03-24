@@ -13,7 +13,7 @@
       <pubDate>Sat, 23 Mar 2024 22:18:31 +0900</pubDate>
       
       <guid>https://takeyamayuki.github.io/self-introduction/</guid>
-      <description>基本情報 所属 受賞 スキル 力を入れてきたこと 研究 学部研究 修士研究 課外活動 ロボカップジュニア NonMouse 授業 ITF. アルバイト，インターン CA AILabアルバイト SSSインターン ユカイ工学アルバイト </description>
+      <description>基本情報 所属 受賞 資格 スキル 力を入れてきたこと 研究 修士研究 課外活動 ロボカップジュニア NonMouse アルバイト，インターン CA AILabアルバイト </description>
     </item>
     
     <item>
@@ -96,7 +96,7 @@
       <pubDate>Sun, 20 Jun 2021 20:13:34 +0900</pubDate>
       
       <guid>https://takeyamayuki.github.io/product/</guid>
-      <description>目次 ロボカップジュニアサッカー NonMouse RESTuino ITF. ASHIMO FingerRunning ChinaRemover Youtubeチャンネルの運営 シューティングゲーム GyroMouseBLE プログラミングコンテスト 学部卒業研究 ⚽ ロボカップジュニアサッカー 2台の完全自律型ロボット同士でサッカーの試合をする大会であるロボカップジュニアサッカーにおいて，主にロボットのハードウェアの設計開発を行った．チームは２人で編成され，私は，ロボットの機構設計(123D Design)，回路・基板設計(KiCad)を行った．また，ロボットのプログラミングはC++(Arduino)を用いて２人で行った．およそ3年間にわたってロボットの設計開発を行い，全国大会では全国5位に入賞した．ポスターによるプレゼンテーションも行っている．さらに，第10回高校生理科研究発表会にて「自律型サッカーロボットの開発」という題で，ロボカップジュニアサッカーにおける自律型ロボットの開発について発表し優秀賞を受賞した． [試合動画] [ロボットの詳細] [基板データ] [RoboCupJuniorJapan HP] [RoboCupJuniorJapan 競技結果] [高校生理科研究発表会 受賞者一覧] Technical Skills: Arduino, C++, 3DCAD, KiCad, Sensors(IMU, Ultrasonic sensor, Infrared sensor). Soft Skills: Teamwork, Time Management, Communication, Presentation skills. 試合の様子 製作したロボット 👆 NonMouse 「NonMouse」というソフトウェアの開発を行った．NonMouseはマウスを使わずに，webカメラから手の動きを認識してコンピュータを操作することができるソフトウェアである．私は，このソフトウェアの企画，Python(OpenCV, MediaPipe)による画像処理プログラムの実装，プレゼンをほぼすべて1人で行った．メンターの方のアドバイスを参考にしつつさらに改良を施し，結果として開発スキル支援部門で優秀賞を受賞した．更には，Zennに投稿したところWeeklyTopの記事にも選出された．また，異能vation 2023年度 「ジェネレーションアワード」部門ノミネートを受けた． [GitHub] [Zenn] [Youtube] [技育展2021 HP] [技育展2021 表彰状] [異能vation 2023 ノミネート一覧] [異能vation 2023 表彰状] Technical Skills: Python (with OpenCV, MediaPipe, Numpy, Tkinter), Ubuntu, Git/GitHub.</description>
+      <description>目次 ロボカップジュニアサッカー NonMouse RESTuino ITF. ASHIMO FingerRunning ChinaRemover Youtubeチャンネルの運営 シューティングゲーム GyroMouseBLE プログラミングコンテスト 学部卒業研究 ⚽ ロボカップジュニアサッカー 2台の完全自律型ロボット同士でサッカーの試合をする大会であるロボカップジュニアサッカーにおいて，主にロボットのハードウェアの設計開発を行った．チームは２人で編成され，私は，ロボットの機構設計(123D Design)，回路・基板設計(KiCad)を行った．また，ロボットのプログラミングはC++(Arduino)を用いて２人で行った．およそ3年間にわたってロボットの設計開発を行い，全国大会では全国5位に入賞した．ポスターによるプレゼンテーションも行っている．さらに，第10回高校生理科研究発表会にて「自律型サッカーロボットの開発」という題で，ロボカップジュニアサッカーにおける自律型ロボットの開発について発表し優秀賞を受賞した． [試合動画] [ロボットの詳細] [基板データ] [RoboCupJuniorJapan HP] [RoboCupJuniorJapan 競技結果] [高校生理科研究発表会 受賞者一覧] Technical Skills: Arduino, C++, 3DCAD, KiCad, Sensors(IMU, Ultrasonic sensor, Infrared sensor). Soft Skills: Teamwork, Time Management, Communication, Presentation skills. 試合の様子 製作したロボット 👆 NonMouse 「NonMouse」というソフトウェアの開発を行った．NonMouseはマウスを使わずに，webカメラから手の動きを認識してコンピュータを操作することができるソフトウェアである．私は，このソフトウェアの企画，Python(OpenCV, MediaPipe)による画像処理プログラムの実装，プレゼンをほぼすべて1人で行った．メンターの方のアドバイスを参考にしつつさらに改良を施し，結果として技育展 開発スキル支援部門で優秀賞を受賞した．また，Zenn WeeklyTop選出，および，異能vation 2023年度 「ジェネレーションアワード」部門ノミネートの実績を持つ． [GitHub] [Zenn] [Youtube] [技育展2021 HP] [技育展2021 表彰状] [異能vation 2023 ノミネート一覧] [異能vation 2023 表彰状] Technical Skills: Python (with OpenCV, MediaPipe, Numpy, Tkinter), Ubuntu, Git/GitHub.</description>
     </item>
     
     <item>
@@ -117,7 +117,7 @@ Email: takeyama[at]iplab.cs.tsukuba.ac.jp GitHub: takeyamayuki LinkedIn: takeyam
       <pubDate>Sun, 20 Jun 2021 20:13:34 +0900</pubDate>
       
       <guid>https://takeyamayuki.github.io/workexp/</guid>
-      <description>CyberAgent株式会社 AI事業本部 対話エージェントチーム アルバイト (2023/02 - 2024/02) 大阪大学との共同研究チームにリサーチエンジニアとして参画し，対話エージェントの開発を行った． Technical Skills: Python (with motpy, YOLO, MediaPipe), ROS2, OpenCV, Docker, Ubuntu, Git/Github. Soft Skills: Teamwork, Time Management, Communication, Presentation skills. ソニーセミコンダクタソリューションズ株式会社 コーデックシステム開発部 4課 3weeks インターンシップ (2023/08 - 2023/09) 3次元点群の圧縮技術であるG-PCC(TMC13)のパラメータ調査を行った．具体的には，空間情報圧縮パラメータposition scale，属性情報圧縮パラメータQPなどのパラメータをふることによって点群の圧縮率やスライス数の変化を観察し報告した． Technical Skills: C++, Shell(bash), TMC13, WSL2. Soft Skills: Teamwork, Time Management, Communication, Presentation skills. ユカイ工学株式会社 アルバイト (2022/10 - 2023/01) 自然言語処理エンジンの精度向上を目的として，自然言語処理OSSの評価プログラムや音声認識エンジンの開発を行い，週に１回の報告会を行った． Technical Skills: Python, C++ (with portaudio), Docker, Ubuntu. Soft Skills: Teamwork, Time Management, Communication, Presentation skills.</description>
+      <description>CyberAgent株式会社 AI事業本部 対話エージェントチーム アルバイト (2023/02 - 2024/02) 大阪大学との共同研究チームにリサーチエンジニアとして参画し，対話エージェントの開発を行った．チームは，小売業界向けの対話エージェントの開発を行っており，ユーザの動作(発話，動き)からユーザの意図を推定し，対話エージェントの応答を生成するシステムを開発している．私は，ユーザ認識モデル導入の叩き台となるプロトタイプ，ROSにおけるカスタムメッセージ，テスト，ROS向けCI/CD，および，ドキュメントの作成などを行った． Technical Skills: Python (with motpy, YOLO, MediaPipe), ROS2, OpenCV, Docker, Ubuntu, Git/Github. Soft Skills: Teamwork, Time Management, Communication, Presentation skills. ソニーセミコンダクタソリューションズ株式会社 コーデックシステム開発部 4課 3weeks インターンシップ (2023/08 - 2023/09) 3次元点群の圧縮技術であるG-PCC(TMC13)のパラメータ調査を行った．具体的には，空間情報圧縮パラメータposition scale，属性情報圧縮パラメータQPなどのパラメータをふることによって点群の圧縮率やスライス数の変化を観察し報告した． Technical Skills: C++, Shell(bash), TMC13, WSL2. Soft Skills: Teamwork, Time Management, Communication, Presentation skills. ユカイ工学株式会社 アルバイト (2022/10 - 2023/01) 自然言語処理エンジンの精度向上を目的として，自然言語処理OSSの評価プログラムや音声認識エンジンの開発を行い，週に１回の報告会を行った． Technical Skills: Python, C++ (with portaudio), Docker, Ubuntu. Soft Skills: Teamwork, Time Management, Communication, Presentation skills.</description>
     </item>
     
     <item>

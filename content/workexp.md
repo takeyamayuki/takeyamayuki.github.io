@@ -10,7 +10,7 @@ images:
 
 ### CyberAgent株式会社 AI事業本部 対話エージェントチーム
 - アルバイト (2023/02 - 2024/02)
-    - [大阪大学との共同研究チーム](http://www.frontier.sangaku.es.osaka-u.ac.jp/)にリサーチエンジニアとして参画し，対話エージェントの開発を行った．
+    - [大阪大学との共同研究チーム](http://www.frontier.sangaku.es.osaka-u.ac.jp/)にリサーチエンジニアとして参画し，対話エージェントの開発を行った．チームは，小売業界向けの対話エージェントの開発を行っており，ユーザの動作(発話，動き)からユーザの意図を推定し，対話エージェントの応答を生成するシステムを開発している．私は，ユーザ認識モデル導入の叩き台となるプロトタイプ，ROSにおけるカスタムメッセージ，テスト，ROS向けCI/CD，および，ドキュメントの作成などを行った．
     - **Technical Skills**: Python (with motpy, YOLO, MediaPipe), ROS2, OpenCV, Docker, Ubuntu, Git/Github.
     - **Soft Skills**: Teamwork, Time Management, Communication, Presentation skills.
 
