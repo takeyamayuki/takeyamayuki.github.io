@@ -59,7 +59,7 @@ images:
 - [[技育展2021 表彰状](https://drive.google.com/file/d/13QC0B-ERtwVyCp4O0RPveOUX1KNsMWpP/view?usp=sharing)]
 - [[異能vation 2023 ノミネート一覧](https://www.inno.go.jp/result/2023/generation/nominate/)]
 - [[異能vation 2023 表彰状](https://drive.google.com/file/d/12GZg1Wx3ZPSXtmn1RosNp5PXvozhiQMS/view?usp=sharing)]
-- **Technical Skills**: Python (with OpenCV, MediaPipe, Numpy, Tkinter), Ubuntu, Git/Github.
+- **Technical Skills**: Python (with OpenCV, MediaPipe, Numpy, Tkinter), Ubuntu, Git/GitHub.
 - **Soft Skills**: Time Management, Presentation skills, Communication.
 
 {{< image src="https://user-images.githubusercontent.com/22733958/135473409-9ddf2fc5-4722-4e55-8eef-64476635c10d.gif" position="center" style="width:70%; border-radius: 8px;" >}}  
@@ -71,7 +71,7 @@ images:
 - [[Zenn](https://zenn.dev/ninzin/articles/5c859a0bfc1ee6)]  
 - [[技育展2022 HP](https://talent.supporterz.jp/geekten/2022/)]
 - [[表彰状](https://drive.google.com/file/d/1iFwxoJWp2PNzWfSxtcxW3pdKwkH-N76K/view?usp=sharing)]
-- **Technical Skills**: PlatformIO, Arduino, C++, Python, Git/Github.
+- **Technical Skills**: PlatformIO, Arduino, C++, Python, Git/GitHub.
 - **Soft Skills**: Time Management, Presentation skills.  
 <br>
 - curlコマンドを用いてLEDを点灯させる様子
@@ -89,7 +89,7 @@ images:
 - 大学院授業enPiTにて，新学期に買う教科書が高いという課題から，筑波大生限定の教科書取引アプリケーションを開発した．このアプリケーションはWebアプリとしてデプロイされている．6人で開発していて，私はバックエンドのロジック(Flask)や認証システム(Firebase authentificationなど)，CI/CD(mainブランチへのマージによってGCPへの自動デプロイを行う)の実装，およびスクラムマスターとしてチームのプロジェクトマネジメント(アジャイル開発)を行った．実装と同時に，チームとして「何が必要か？」「いつまでに必要か？」「誰が何をやるべきか？」という視点からコミュニケーションを取りながらチームメンバーにタスクを振り分ける作業を行った．
 - [[GitHub](https://github.com/enpitut2023/ITF)]  
 - [[サイト](https://itf-database-b9026.an.r.appspot.com/)]
-- **Technical Skills**: Flask, Firebase, JavaScript, GCP, Git/Github, CI/CD, Docker, Agile development.
+- **Technical Skills**: Flask, Firebase, JavaScript, GCP, Git/GitHub, CI/CD, Docker, Agile development.
 - **Soft Skills**: Teamwork, Time Management, Communication, Presentation skills.
 
 {{< image src="/img/itf.png" position="center" style="width:70%; border-radius: 8px;" >}}
@@ -99,7 +99,7 @@ images:
 - 筑波大学大学院 組み込み開発プログラミングの授業にて，足に貼ったRFIDから認証を行い改札を手ぶらで通ることができるシステムを開発した．3人で開発し，私はバックエンド(Firebase FCM)とスマホアプリ(Android Studio, Java)の実装を担当した．授業の最後に行われた発表会において1位を獲得した．
 - [[GitHub](https://github.com/takeyamayuki/ASHIMO)]  
 - [[動画](https://drive.google.com/file/d/125ItnGQid4D2cwPhSFbauSmri3XzdNFZ/view?usp=sharing)]
-- **Technical Skills**: Android Studio, Java, Firebase, Git/Github.
+- **Technical Skills**: Android Studio, Java, Firebase, Git/GitHub.
 - **Soft Skills**: Teamwork, Time Management, Communication, Presentation skills.
 
 {{< image src="/img/ashimo.gif" position="center" style="width:70%; border-radius: 8px;" >}}
@@ -108,7 +108,7 @@ images:
 ---
 - 筑波大学大学院 組み込み開発プログラミングの授業で，運動不足の課題を解決するため指で走るゲームを開発した．１人で開発し，私は，Android StudioとJavaによる実装を行った．  
 - [[GitHub](https://github.com/shim03/FingerRunning)]
-- **Technical Skills**: Android Studio, Java, Git/Github.
+- **Technical Skills**: Android Studio, Java, Git/GitHub.
 - **Soft Skills**: Time Management, Presentation skills.
 
 {{< image src="/img/finger.gif" position="center" style="width:70%; border-radius: 8px;" >}}
@@ -118,7 +118,7 @@ images:
 - Amazonの検索結果の中から，日本発送以外のものを排除した検索結果を表示するGoogle Chromeの拡張機能を製作．
 - [[Chrome Store](https://chrome.google.com/webstore/detail/china-remover/koddfmmljnagafaapbegnjacfhlhiefg?hl=ja&gl=001)]  
 - [[GitHub](https://github.com/takeyamayuki/ChinaRemover)]
-- **Technical Skills**: JavaScript, Git/Github.
+- **Technical Skills**: JavaScript, Git/GitHub.
 - **Soft Skills**: Time Management
 
 {{< image src="/img/cr.png" position="center" style="width:70%; border-radius: 8px;" >}}
@@ -146,7 +146,7 @@ images:
 - Wiiリモコンのようにジャイロセンサーを使ってマウスを操作するBLEデバイスの製作をした．  
 - [[GitHub](https://github.com/takeyamayuki/GyroMouseBLE)]  
 - [[Youtube](https://youtu.be/DzT40SCh3nI)]
-- **Technical Skills**: Arduino, C++, Git/Github.
+- **Technical Skills**: Arduino, C++, Git/GitHub.
 - **Soft Skills**: Time Management, Presentation skills.
 
 {{< image src="https://user-images.githubusercontent.com/22733958/130589777-bb9e9679-aeb6-43dd-bc9e-a26c03030525.gif" position="center" style="width:70%; border-radius: 8px;" >}} 
@@ -155,7 +155,7 @@ images:
 ---
 - Python，C++を用いてAtcoderに出場．現在茶色(highet 676)．また，PIGICONという機械学習+Web技術の高速化を行うコンテストにも出場(7位/11チーム)  
 - [[AtCoder](https://atcoder.jp/users/takeyama)]
-- **Technical Skills**: Python, C++, Algorithms, Git/Github.
+- **Technical Skills**: Python, C++, Algorithms, Git/GitHub.
 - **Soft Skills**: Time Management, Presentation skills.
 
 ## 👨‍🎓 学部卒業研究
@@ -163,9 +163,19 @@ images:
 - Feb 2023
 - 「3次元点群における動的物体の検出精度向上手法の開発」というテーマで，3次元点群のモーションブラー除去を行うことで動的物体の検出精度を向上させる手法の開発を行った．私は，Pythonで3次元点群処理のフィルタの実装や，ROSによる評価プログラムの実装，LaTeXによる論文作成，共同研究者との英語・日本語でのコミュニケーションを行った．
 - [[研究室HP](https://www.itami-robot-research.net/)]
-- **Technical Skills**: Python (with Open3D, Numpy, Pandas, Jupyter Notebook, K3D, etc.), ROS1, Ubuntu, Git/Github, LaTeX.
+- **Technical Skills**: Python (with Open3D, Numpy, Pandas, Jupyter Notebook, K3D, etc.), ROS1, Ubuntu, Git/GitHub, LaTeX.
 - **Soft Skills**: Time Management, Presentation skills.
 
+## 🧑‍🎓 修士研究
+---
+- 大学院の修士研究のテーマとして，スマートフォンを台座のように用いた3Dモデリングシステムの開発を行っている．
+本システムは，PCでの3Dモデリングにおいて協調作業およびハンドジェスチャによる造形を可能にすることによって，3Dモデリングの自由度を上げることを目指している．ユースケースは，主に初心者や複数人の会議などの場において即座に3Dモデルを作成することを目的としている．
+- [[HCI207](/research/#-国内会議(査読なし))]
+- [[WISS2023](/research/#-国内会議(査読あり))]
+- **Technical Skills**: Python (with OpenCV, MediaPipe, bpy), Swift, Blender, Git/GitHub.
+- **Soft Skills**: Time Management, Presentation skills.
+
+{{< image src="/img/rotation-modeling.gif" position="center" style="width:70%; border-radius: 8px;" >}}
 
 <!-- 
 ## 🏠 スマートホーム

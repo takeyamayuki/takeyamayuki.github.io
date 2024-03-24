@@ -29,10 +29,10 @@ images:
 
 1. **武山侑輝**，河村祐弥  
 "自律型サッカーロボットの開発"  
-[第10回高校生理科研究発表会](https://www.cfs.chiba-u.jp/koudai-renkei/event/history/2016/houkoku28.html) ，  
+[第10回高校生理科研究発表会，  
 千葉大学，千葉，2016年9月（ポスター発表）  
-🎖 **[優秀賞](https://www.cfs.chiba-u.jp/koudai-renkei/event/history/2016/10jusyou.pdf)**  
-[`unpublished`]
+🎖 **優秀賞**  
+[`unpublished`], [[HP](https://www.cfs.chiba-u.jp/koudai-renkei/event/history/2016/houkoku28.html)], [[優秀賞一覧]((https://www.cfs.chiba-u.jp/koudai-renkei/event/history/2016/10jusyou.pdf))]
 
 ## 👨‍🎓 学位論文
 ---

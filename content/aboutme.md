@@ -128,7 +128,7 @@ WAVEチーム（指導教員 志築文太郎 教授）
     macOS，Ubuntu，Windows，RaspberrypiOS
     <!-- [![My Skills](https://skillicons.dev/icons?i=linux,raspberrypi)](https://skillicons.dev)   -->
 - その他: 
-    Shell(bash/zsh), Git/GitHub，Docker，LaTex，Markdown, Hugo，Wordpress, GCP, GitHub Actions, etc.
+    Shell(bash/zsh), Git/GitHub，Docker，LaTeX，Markdown, Hugo，Wordpress, GCP, GitHub Actions, etc.
     <!-- [![My Skills](https://skillicons.dev/icons?i=bash,git,github,githubactions,docker,latex,md,wordpress,gcp)](https://skillicons.dev) -->
 - PCB CAD: Fritzing，KiCad，PasS，bsch3v
 - Microsoft Office: Word，Excel，PowerPoint，OneNote

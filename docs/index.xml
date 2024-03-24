@@ -8,13 +8,12 @@
     <language>ja</language>
     <lastBuildDate>Sun, 20 Jun 2021 02:34:27 +0900</lastBuildDate><atom:link href="https://takeyamayuki.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>自己紹介(PFN)</title>
-      <link>https://takeyamayuki.github.io/pfn/</link>
+      <title>自己紹介</title>
+      <link>https://takeyamayuki.github.io/self-introduction/</link>
       <pubDate>Sat, 23 Mar 2024 22:18:31 +0900</pubDate>
       
-      <guid>https://takeyamayuki.github.io/pfn/</guid>
-      <description>基本情報
-力を入れてきたこと 研究 学部研究 修士研究 課外活動 NonMouse GyroMouseBLE ロボカップジュニア RESTuino 授業 ITF. アルバイト，インターン CA AILabアルバイト SSSインターン ユカイ工学アルバイト </description>
+      <guid>https://takeyamayuki.github.io/self-introduction/</guid>
+      <description>基本情報 所属 受賞 スキル 力を入れてきたこと 研究 学部研究 修士研究 課外活動 ロボカップジュニア NonMouse 授業 ITF. アルバイト，インターン CA AILabアルバイト SSSインターン ユカイ工学アルバイト </description>
     </item>
     
     <item>
@@ -39,10 +38,10 @@
 [unpublished], [HP]
 武山侑輝，河村祐弥
 &amp;ldquo;自律型サッカーロボットの開発&amp;rdquo;
-第10回高校生理科研究発表会 ，
+[第10回高校生理科研究発表会，
 千葉大学，千葉，2016年9月（ポスター発表）
 🎖 優秀賞
-[unpublished]
+[unpublished], [HP], [優秀賞一覧]
 👨‍🎓 学位論文 学士論文，学士(工学)
 &amp;ldquo;3次元点群における動的物体の検出精度向上手法の開発&amp;rdquo;
 青山学院大学 理工学部 電気電子工学科，2023年3月
@@ -97,7 +96,7 @@
       <pubDate>Sun, 20 Jun 2021 20:13:34 +0900</pubDate>
       
       <guid>https://takeyamayuki.github.io/product/</guid>
-      <description>目次 ロボカップジュニアサッカー NonMouse RESTuino ITF. ASHIMO FingerRunning ChinaRemover Youtubeチャンネルの運営 シューティングゲーム GyroMouseBLE プログラミングコンテスト 学部卒業研究 ⚽ ロボカップジュニアサッカー 2台の完全自律型ロボット同士でサッカーの試合をする大会であるロボカップジュニアサッカーにおいて，主にロボットのハードウェアの設計開発を行った．チームは２人で編成され，私は，ロボットの機構設計(123D Design)，回路・基板設計(KiCad)を行った．また，ロボットのプログラミングはC++(Arduino)を用いて２人で行った．およそ3年間にわたってロボットの設計開発を行い，全国大会では全国5位に入賞した．ポスターによるプレゼンテーションも行っている．さらに，第10回高校生理科研究発表会にて「自律型サッカーロボットの開発」という題で，ロボカップジュニアサッカーにおける自律型ロボットの開発について発表し優秀賞を受賞した． [試合動画] [ロボットの詳細] [基板データ] [RoboCupJuniorJapan HP] [RoboCupJuniorJapan 競技結果] [高校生理科研究発表会 受賞者一覧] Technical Skills: Arduino, C++, 3DCAD, KiCad, Sensors(IMU, Ultrasonic sensor, Infrared sensor). Soft Skills: Teamwork, Time Management, Communication, Presentation skills. 試合の様子 製作したロボット 👆 NonMouse 「NonMouse」というソフトウェアの開発を行った．NonMouseはマウスを使わずに，webカメラから手の動きを認識してコンピュータを操作することができるソフトウェアである．私は，このソフトウェアの企画，Python(OpenCV, MediaPipe)による画像処理プログラムの実装，プレゼンをほぼすべて1人で行った．メンターの方のアドバイスを参考にしつつさらに改良を施し，結果として開発スキル支援部門で優秀賞を受賞した．更には，Zennに投稿したところWeeklyTopの記事にも選出された．また，異能vation 2023年度 「ジェネレーションアワード」部門ノミネートを受けた． [GitHub] [Zenn] [Youtube] [技育展2021 HP] [技育展2021 表彰状] [異能vation 2023 ノミネート一覧] [異能vation 2023 表彰状] Technical Skills: Python (with OpenCV, MediaPipe, Numpy, Tkinter), Ubuntu, Git/Github.</description>
+      <description>目次 ロボカップジュニアサッカー NonMouse RESTuino ITF. ASHIMO FingerRunning ChinaRemover Youtubeチャンネルの運営 シューティングゲーム GyroMouseBLE プログラミングコンテスト 学部卒業研究 ⚽ ロボカップジュニアサッカー 2台の完全自律型ロボット同士でサッカーの試合をする大会であるロボカップジュニアサッカーにおいて，主にロボットのハードウェアの設計開発を行った．チームは２人で編成され，私は，ロボットの機構設計(123D Design)，回路・基板設計(KiCad)を行った．また，ロボットのプログラミングはC++(Arduino)を用いて２人で行った．およそ3年間にわたってロボットの設計開発を行い，全国大会では全国5位に入賞した．ポスターによるプレゼンテーションも行っている．さらに，第10回高校生理科研究発表会にて「自律型サッカーロボットの開発」という題で，ロボカップジュニアサッカーにおける自律型ロボットの開発について発表し優秀賞を受賞した． [試合動画] [ロボットの詳細] [基板データ] [RoboCupJuniorJapan HP] [RoboCupJuniorJapan 競技結果] [高校生理科研究発表会 受賞者一覧] Technical Skills: Arduino, C++, 3DCAD, KiCad, Sensors(IMU, Ultrasonic sensor, Infrared sensor). Soft Skills: Teamwork, Time Management, Communication, Presentation skills. 試合の様子 製作したロボット 👆 NonMouse 「NonMouse」というソフトウェアの開発を行った．NonMouseはマウスを使わずに，webカメラから手の動きを認識してコンピュータを操作することができるソフトウェアである．私は，このソフトウェアの企画，Python(OpenCV, MediaPipe)による画像処理プログラムの実装，プレゼンをほぼすべて1人で行った．メンターの方のアドバイスを参考にしつつさらに改良を施し，結果として開発スキル支援部門で優秀賞を受賞した．更には，Zennに投稿したところWeeklyTopの記事にも選出された．また，異能vation 2023年度 「ジェネレーションアワード」部門ノミネートを受けた． [GitHub] [Zenn] [Youtube] [技育展2021 HP] [技育展2021 表彰状] [異能vation 2023 ノミネート一覧] [異能vation 2023 表彰状] Technical Skills: Python (with OpenCV, MediaPipe, Numpy, Tkinter), Ubuntu, Git/GitHub.</description>
     </item>
     
     <item>
