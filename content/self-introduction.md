@@ -7,15 +7,18 @@ images:
 ---
 
 
-### [基本情報](/aboutme)
+## 👤 基本情報
+---
 - [所属](/aboutme/#武山侑輝（たけやま-ゆうき）-/-Yuki-TAKEYAMA)
 - [受賞](/aboutme/#-受賞)
 - [資格](/aboutme/#-資格)
 - [スキル](/aboutme/#-スキル)
 
-### 力を入れてきたこと
+## 💪 力を入れてきたこと
+---
 
-{{< image src="/img/exp.png" position="center" style="width:70%; border-radius: 8px;" >}}
+
+## 🏃 活動毎まとめ
 
 ### 研究
 - ([学部研究](/product/#-学部卒業研究))
@@ -36,5 +39,18 @@ images:
 - ([SSSインターン](/workexp/#ソニーセミコンダクタソリューションズ株式会社-コーデックシステム開発部-4課))
 - ([ユカイ工学アルバイト](/workexp/#ユカイ工学株式会社))
 
+## 📚 分野毎まとめ
+
+{{< image src="/img/exp.png" position="center" style="width:70%; border-radius: 8px;" >}}
+
+
+## 🤔 意識していること
+---
+- 目的ドリブン開発
+    - プロダクトの目的を理解する
+    - ユーザの声を聞く
+- 円滑なコミュニケーション
+    - チーム内コミュニケーション
+    - ドキュメントの作成
 
 
