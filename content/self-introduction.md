@@ -8,7 +8,7 @@ images:
 
 
 ### [基本情報](/aboutme)
-- [所属](/aboutme/)
+- [所属](/aboutme/#武山侑輝（たけやま-ゆうき）-/-Yuki-TAKEYAMA)
 - [受賞](/aboutme/#-受賞)
 - [資格](/aboutme/#-資格)
 - [スキル](/aboutme/#-スキル)
@@ -20,6 +20,7 @@ images:
 ### 研究
 - ([学部研究](/product/#-学部卒業研究))
 - [修士研究](/product/#-修士研究)
+- [業績](/research/#-国内会議(査読なし))
 
 ### 課外活動
 - [ロボカップジュニア](/product/#-ロボカップジュニアサッカー)
@@ -31,9 +32,9 @@ images:
 - ([ITF.](/product/#-itf))
 
 ### アルバイト，インターン
-- [CA AILabアルバイト](/workexp/)
-- ([SSSインターン](/workexp/))
-- ([ユカイ工学アルバイト](/workexp/))
+- [CA AILabアルバイト](/workexp/#CyberAgent株式会社-AI事業本部-対話エージェントチーム)
+- ([SSSインターン](/workexp/#ソニーセミコンダクタソリューションズ株式会社-コーデックシステム開発部-4課))
+- ([ユカイ工学アルバイト](/workexp/#ユカイ工学株式会社))
 
 
 
