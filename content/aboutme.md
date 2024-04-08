@@ -8,7 +8,7 @@ images:
 
 
 ## 武山侑輝（たけやま ゆうき） / Yuki TAKEYAMA
-[筑波大学大学院 理工情報生命学術院 システム情報工学研究群 情報理工学位プログラム](https://www.cs.tsukuba.ac.jp/)  修士1年  
+[筑波大学大学院 理工情報生命学術院 システム情報工学研究群 情報理工学位プログラム](https://www.cs.tsukuba.ac.jp/)  修士2年  
 [インタラクティブプログラミング研究室（IPLAB）](https://www.iplab.cs.tsukuba.ac.jp/)  
 WAVEチーム（指導教員 志築文太郎 教授）  
 
