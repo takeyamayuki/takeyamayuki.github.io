@@ -50,8 +50,9 @@ WAVEチーム（指導教員 志築文太郎 教授）
 - 職歴: [here](/workexp/)  
 - その他: [here](/misc/)
 
-## 🏋️‍♂️ 受賞
+## 🏋️‍♂️ 受賞・認定
 ---
+- 筑波大学 キャリア・リサーチ・マイスター認定制度 2023年度 **Progressive** (2024/04) [[HP](https://www.coins.tsukuba.ac.jp/enrolled_student/internship/)]
 - 異能vation 2023年度 「ジェネレーションアワード」部門 **ノミネート** (121件/16929応募) (2024/02) [[link](/product/#-nonmouse)], [[表彰状](https://drive.google.com/file/d/12GZg1Wx3ZPSXtmn1RosNp5PXvozhiQMS/view?usp=sharing)]
 - 筑波大学大学院 情報理工学位プログラム 組み込み開発プログラミング 最終発表会 **1位** (2023/07) [[link](/product/#-ashimo)]
 - 技育展2022 開発スキル支援部門 **優秀賞** (2022/08) [[link](/product/#-restuino)], [[表彰状](https://drive.google.com/file/d/1iFwxoJWp2PNzWfSxtcxW3pdKwkH-N76K/view?usp=sharing)]
