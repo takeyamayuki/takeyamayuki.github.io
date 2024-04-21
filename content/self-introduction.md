@@ -38,17 +38,17 @@ images:
 - [CA AILabアルバイト](/workexp/#CyberAgent株式会社-AI事業本部-対話エージェントチーム)
 - ([SSSインターン](/workexp/#ソニーセミコンダクタソリューションズ株式会社-コーデックシステム開発部-4課))
 - ([ユカイ工学アルバイト](/workexp/#ユカイ工学株式会社))
-
+<!-- 
 ## 📚 分野毎まとめ
 
-{{< image src="/img/exp.png" position="center" style="width:70%; border-radius: 8px;" >}}
+{{< image src="/img/exp.png" position="center" style="width:70%; border-radius: 8px;" >}} -->
 
 
 ## 🤔 意識していること
 ---
-- 目的ドリブン開発
-    - プロダクトの目的を理解する
-    - ユーザの声を聞く
+- 新しいアイディアの提案
+    - 新しいアイディアの思考
+    - そのアイディアのフィジビリティスタディ
 - 円滑なコミュニケーション
     - チーム内コミュニケーション
     - ドキュメントの作成
