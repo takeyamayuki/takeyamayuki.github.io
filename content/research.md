@@ -39,7 +39,7 @@ Journal of Autonomous Intelligence, Vol.7, No.5, Pages 1634, Frontier Scientific
 第10回高校生理科研究発表会，  
 千葉大学，千葉，2016年9月（ポスター発表）  
 🎖 **優秀賞**  
-[`unpublished`], [[HP](https://www.cfs.chiba-u.jp/koudai-renkei/event/history/2016/houkoku28.html)], [[優秀賞一覧]((https://www.cfs.chiba-u.jp/koudai-renkei/event/history/2016/10jusyou.pdf))]
+[`unpublished`], [[HP](https://www.cfs.chiba-u.jp/koudai-renkei/event/history/2016/houkoku28.html)], [[優秀賞一覧](https://www.cfs.chiba-u.jp/koudai-renkei/event/history/2016/10jusyou.pdf)]
 
 ## 👨‍🎓 学位論文
 ---
