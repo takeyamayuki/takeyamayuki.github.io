@@ -10,19 +10,21 @@ images:
 
 ### CyberAgent株式会社 AI事業本部 対話エージェントチーム
 - アルバイト (2023/02 - 2024/02)
-    - [大阪大学との共同研究チーム](http://www.frontier.sangaku.es.osaka-u.ac.jp/)にリサーチエンジニアとして参画し，対話エージェントの開発を行った．チームは，小売業界向けの対話エージェントの開発を行っており，ユーザの動作(発話，動き)からユーザの意図を推定し，対話エージェントの応答を生成するシステムを開発している．私は，ユーザ認識モデル導入の叩き台となるプロトタイプ，ROSにおけるカスタムメッセージ，テスト，ROS向けCI/CD，および，ドキュメントの作成などを行った．
+    - [大阪大学との共同研究チーム](http://www.frontier.sangaku.es.osaka-u.ac.jp/)にリサーチエンジニアとして参画し，対話エージェントの開発を行った．
+    <!-- - チームは，小売業界向けの対話エージェントの開発を行っており，ユーザの動作(発話，動き)からユーザの意図を推定し，対話エージェントの応答を生成するシステムを開発している．私は，ユーザ認識モデル導入の叩き台となるプロトタイプ，ROSにおけるカスタムメッセージ，テスト，ROS向けCI/CD，および，ドキュメントの作成などを行った． -->
     - **Technical Skills**: Python (with motpy, YOLO, MediaPipe), ROS2, OpenCV, Docker, Ubuntu, Git/Github.
     - **Soft Skills**: Teamwork, Time Management, Communication, Presentation skills.
 
 ### ソニーセミコンダクタソリューションズ株式会社 コーデックシステム開発部 4課
 - 3weeks インターンシップ (2023/08 - 2023/09)
-    - 3次元点群の圧縮技術である[G-PCC(TMC13)](https://github.com/MPEGGroup/mpeg-pcc-tmc13)のパラメータ調査を行った．具体的には，空間情報圧縮パラメータposition scale，属性情報圧縮パラメータQPなどのパラメータをふることによって点群の圧縮率やスライス数の変化を観察し報告した．
+    - 3次元点群の圧縮技術である[G-PCC(TMC13)](https://github.com/MPEGGroup/mpeg-pcc-tmc13)のパラメータ調査を行った．
+    <!-- - 具体的には，空間情報圧縮パラメータposition scale，属性情報圧縮パラメータQPなどのパラメータをふることによって点群の圧縮率やスライス数の変化を観察し報告した． -->
     - **Technical Skills**: C++, Shell(bash), TMC13, WSL2.
     - **Soft Skills**: Teamwork, Time Management, Communication, Presentation skills.
 
 ### ユカイ工学株式会社
 - アルバイト (2022/10 - 2023/01)
-    - 自然言語処理エンジンの精度向上を目的として，自然言語処理OSSの評価プログラムや音声認識エンジンの開発を行い，週に１回の報告会を行った．
+    - 自然言語処理エンジンの精度向上を目的として，評価プログラムや音声認識エンジンの開発を行った．
     - **Technical Skills**: Python, C++ (with portaudio), Docker, Ubuntu.
     - **Soft Skills**: Teamwork, Time Management, Communication, Presentation skills.
 - 2weeks インターンシップ (2022/08 - 2022/09) [[certification](https://drive.google.com/file/d/1uPwK-W0BH1AOdSANKuN6pblFqbDV9emS/view?usp=sharing)]
