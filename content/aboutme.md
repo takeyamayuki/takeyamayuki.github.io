@@ -3,7 +3,7 @@ title: "基本情報"
 date: 2021-06-20T20:13:34+09:00
 draft: false
 toc: false
-images:
+images: ["/content/img/me.jpeg"]
 ---
 
 
