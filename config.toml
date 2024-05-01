@@ -203,17 +203,17 @@ name = "研究"
 url = "/research"
 weight = 2
 
-# [[languages.ja.menu.main]]
-# identifier = "product"
-# name = "プロダクト"
-# url = "/product"
-# weight = 3
+[[languages.ja.menu.main]]
+identifier = "product"
+name = "プロダクト"
+url = "/product"
+weight = 3
 
-# [[languages.ja.menu.main]]
-# identifier = "workexp"
-# name = "職歴"
-# url = "/workexp"
-# weight = 4
+[[languages.ja.menu.main]]
+identifier = "workexp"
+name = "職歴"
+url = "/workexp"
+weight = 4
 
 # [[languages.ja.menu.main]]
 # identifier = "link"
