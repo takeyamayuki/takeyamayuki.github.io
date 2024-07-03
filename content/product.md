@@ -120,7 +120,7 @@ images:
 </details>
 
 {{< image src="/img/finger.gif" position="center" style="width:70%; border-radius: 8px;" >}}
-
+<!-- 
 ## 🛒 ChinaRemover
 
 <details>
@@ -134,7 +134,7 @@ images:
 
 </details>
 
-{{< image src="/img/cr.png" position="center" style="width:70%; border-radius: 8px;" >}}
+{{< image src="/img/cr.png" position="center" style="width:70%; border-radius: 8px;" >}} -->
 
 <!-- 
 ## 💻 Youtubeチャンネルの運営
@@ -145,7 +145,7 @@ images:
 - **Soft Skills**: Time Management, Presentation skills, Communication.
 
 <iframe width="560" height="auto" style="display:block; margin:24px auto 0; width:70%; aspect-ratio:1.766;"  src="https://www.youtube.com/embed/jINfBOPpO74" title="【電子工作】シンセサイザーを作る" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
-
+<!-- 
 ## 🔫 シューティングゲーム      
 
 <details>
@@ -172,7 +172,7 @@ images:
 
 </details>
 
-{{< image src="https://user-images.githubusercontent.com/22733958/130589777-bb9e9679-aeb6-43dd-bc9e-a26c03030525.gif" position="center" style="width:70%; border-radius: 8px;" >}} 
+{{< image src="https://user-images.githubusercontent.com/22733958/130589777-bb9e9679-aeb6-43dd-bc9e-a26c03030525.gif" position="center" style="width:70%; border-radius: 8px;" >}}  -->
 <!-- 
 ## 💻 プログラミングコンテスト
 
