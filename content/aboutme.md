@@ -14,6 +14,7 @@ WAVEチーム（指導教員 志築文太郎 教授）
 
 
 - Email: takeyama[at]iplab.cs.tsukuba.ac.jp
+- Phone: 070-4209-6659
 - GitHub: [takeyamayuki](https://github.com/takeyamayuki)
 - LinkedIn: [takeyamayuki](https://www.linkedin.com/in/takeyamayuki/)
 - CV: [here](https://drive.google.com/file/d/1zaY-Dga-js1Ghtn_xZPsGPcPLg6-4tSZ/view?usp=sharing)
