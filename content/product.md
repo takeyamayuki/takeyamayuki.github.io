@@ -40,7 +40,6 @@ images:
 - 「NonMouse」というソフトウェアの開発を行った．NonMouseはマウスを使わずに，webカメラから手の動きを認識してコンピュータを操作することができるソフトウェアである．私は，このソフトウェアの企画，Python(OpenCV, MediaPipe)による画像処理プログラムの実装，プレゼンをほぼすべて1人で行った．メンターの方のアドバイスを参考にしつつさらに改良を施し，結果として技育展 開発スキル支援部門で**優秀賞**を受賞した．また，Zenn **WeeklyTop**選出，および，**異能vation 2023年度 「ジェネレーションアワード」部門ノミネート**の実績を持つ．  
 - [[GitHub](https://github.com/takeyamayuki/NonMouse2)]  
 - [[Zenn](https://zenn.dev/ninzin/articles/94b05fdb9edf53)]  
-- [[Youtube](https://youtu.be/ufvOJUTCF8M)]
 - [[技育展2021 HP](https://talent.supporterz.jp/geekten/2021/)]
 - [[技育展2021 表彰状](https://drive.google.com/file/d/13QC0B-ERtwVyCp4O0RPveOUX1KNsMWpP/view?usp=sharing)]
 - [[異能vation 2023 ノミネート一覧](https://www.inno.go.jp/result/2023/generation/nominate/)]
@@ -52,6 +51,7 @@ images:
 
 {{< image src="https://user-images.githubusercontent.com/22733958/135473409-9ddf2fc5-4722-4e55-8eef-64476635c10d.gif" position="center" style="width:70%; border-radius: 8px;" >}}  
 
+<!-- - [[Youtube](https://youtu.be/ufvOJUTCF8M)] -->
 
 ## 📶 RESTuino
 
