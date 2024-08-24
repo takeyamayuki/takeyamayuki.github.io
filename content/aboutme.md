@@ -8,28 +8,29 @@ images: ["/content/img/me.jpeg"]
 
 
 ## 武山侑輝（たけやま ゆうき） / Yuki TAKEYAMA
+
+#### 所属
 [筑波大学大学院 理工情報生命学術院 システム情報工学研究群 情報理工学位プログラム](https://www.cs.tsukuba.ac.jp/)  修士2年  
 [インタラクティブプログラミング研究室（IPLAB）](https://www.iplab.cs.tsukuba.ac.jp/)  
 WAVEチーム（指導教員 志築文太郎 教授）  
 
+#### 学会
+- [情報処理学会 学生会員](https://www.ipsj.or.jp/)
+- [ACM Student Membership](https://www.acm.org/membership)
+- [ACM SIGCHI Membership](https://sigchi.org/)
 
+#### コンタクト
 - Email: takeyama[at]iplab.cs.tsukuba.ac.jp
 - Phone: 070-4209-6659
-- GitHub: [takeyamayuki](https://github.com/takeyamayuki)
 - LinkedIn: [takeyamayuki](https://www.linkedin.com/in/takeyamayuki/)
-- CV: [here](https://drive.google.com/file/d/1zaY-Dga-js1Ghtn_xZPsGPcPLg6-4tSZ/view?usp=sharing)
+<!-- - CV: [here](https://drive.google.com/file/d/1zaY-Dga-js1Ghtn_xZPsGPcPLg6-4tSZ/view?usp=sharing) -->
+
+- GitHub: [takeyamayuki](https://github.com/takeyamayuki)
 - Zenn: [ninzin](https://zenn.dev/ninzin)
 <!-- - note: [spinach_egg](https://note.com/spinach_egg) -->
 <!-- - YouTube: [@DenkiNinzin](https://www.youtube.com/@DenkiNinzin) -->
-<!-- - Twitter: [takeyamaaaaa](https://twitter.com/takeyamaaaaa) -->
 
-<!-- &nbsp;
-# Profile
---- -->
-<!-- HCI，Computer Vision，Roboticsなどが好きな大学院生です． -->
-<!--
-私は、ハードウェアからソフトウェアまで幅広い分野に興味を持ち、ロボカップジュニア全国5位や技育展の優秀賞受賞などさまざまな成果を上げてきました．
-大学や2社のインターンを経験し、貴社での新たな技術開発や既存サービスの改善に貢献できるように頑張ります。 -->
+
 
 ## 🏫 学歴
 ---
@@ -97,6 +98,8 @@ WAVEチーム（指導教員 志築文太郎 教授）
 ---
 - プログラミング入門A，筑波大学情報メディア創成学類，2023/10-2023/12
 - プログラミング入門B，筑波大学情報メディア創成学類，2024/01-2024/02
+<!-- - データサイエンス
+- チューター -->
 
 ## 🧗‍♂️ プロジェクト
 ---
