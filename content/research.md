@@ -8,10 +8,18 @@ images:
 
 ## 📃 論文誌
 ---
-1. Taku Itami, <u>Yuki Takeyama</u>, Sota Akamine, Jun Yoneyema, Sebastien Ibarboure  
-"Detecting people in sprinting motion using HPRDenoise: Point cloud denoising with hidden point removal"  
+1. Taku Itami, <u>Yuki Takeyama</u>, Sota Akamine, Jun Yoneyema, and Sebastien Ibarboure  
+"Detecting people in sprinting motion using HPRDenoise: Point cloud denoising with hidden point removal",  
 Journal of Autonomous Intelligence, Vol.7, No.5, Pages 1634, Frontier Scientific Publishing, 2024.  
 [[PDF](https://jai.front-sci.com/index.php/jai/article/download/1634/918)], [[DOI](https://doi.org/10.32629/jai.v7i5.1634)], [[HP](https://jai.front-sci.com/index.php/jai/index)]
+
+## 🌏 国際会議
+---
+1. <u>Yuki Takeyama</u>, Kousei Nagayama, Myungguen Choi, and Buntarou Shizuki.  
+"PhoneCanvas: 3D Sketching System Using a Depth Camera-Equipped Smartphone as a Canvas"  
+In Proceedings of the 2024 ACM Symposium on Spatial User Interaction (SUI '24) (to appear)  
+[PDF], [DOI], [[HP](https://sui.acm.org/2024/)]
+
 
 ## 🇯🇵 国内会議
 ---
