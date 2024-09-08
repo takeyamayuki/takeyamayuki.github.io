@@ -70,6 +70,8 @@ images:
 
 {{< image src="https://user-images.githubusercontent.com/22733958/173193531-89778f00-82e1-46e1-8544-b0c455d07dfb.gif" position="center" style="width:70%; border-radius: 8px;" >}}  
 
+<br>
+
 </details>
 
 
