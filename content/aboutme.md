@@ -50,18 +50,20 @@ WAVEチーム（指導教員 志築文太郎 教授）
 - 筑波大学 キャリア・リサーチ・マイスター認定制度 2023年度 **Progressive** (2024/04) [[HP](https://www.coins.tsukuba.ac.jp/enrolled_student/internship/)]
 - 異能vation 2023年度 「ジェネレーションアワード」部門 **ノミネート** (121件/16929応募) (2024/02) [[link](/product/#-nonmouse)], [[表彰状](https://drive.google.com/file/d/12GZg1Wx3ZPSXtmn1RosNp5PXvozhiQMS/view?usp=sharing)]
 - 筑波大学大学院 情報理工学位プログラム 組み込み開発プログラミング 最終発表会 **1位** (2023/07) [[link](/product/#-ashimo)]
+<!-- -->
 - 技育展2022 開発スキル支援部門 **優秀賞** (2022/08) [[link](/product/#-restuino)], [[表彰状](https://drive.google.com/file/d/1iFwxoJWp2PNzWfSxtcxW3pdKwkH-N76K/view?usp=sharing)]
 - 技育展2021 開発スキル支援部門 **優秀賞** (2021/08) [[link](/product/#-nonmouse)], [[表彰状](https://drive.google.com/file/d/13QC0B-ERtwVyCp4O0RPveOUX1KNsMWpP/view?usp=sharing)]
-- ロボカップジュニア サッカーライトウェイト ジャパンオープン 2017 **全国5位** (2017/03) [[link](/product/#-ロボカップジュニアサッカー)], [[競技結果](https://www.robocupjunior.jp/docs/RCJJ2017Results-Soccer_LightWeight(WSL).pdf)]
+- ロボカップジュニア サッカーライトウェイト ジャパンオープン 2017 **5位** (2017/03) [[link](/product/#-ロボカップジュニアサッカー)], [[競技結果](https://www.robocupjunior.jp/docs/RCJJ2017Results-Soccer_LightWeight(WSL).pdf)]
 - 第10回高校生理科研究発表会 **優秀賞** (2016/09) [[link](/product/#-ロボカップジュニアサッカー)], [[受賞者一覧](https://www.cfs.chiba-u.jp/koudai-renkei/event/history/2016/10jusyou.pdf)]
 
 ## 🏃 活動
 ---
+- CHI2023勉強会 発表 (2024/06/24) [[HP](https://sigchi.jp/seminar/chi2023/)], [[slide](https://drive.google.com/file/d/1Ndc3rRP5cbmCpFxvJgit4x6I7lzK2CrN/view?usp=sharing)]
 - UIST2023勉強会 発表 (2023/12/16) [[HP](https://sigchi.jp/seminar/uist2023/)], [[slide](https://drive.google.com/file/d/1mU6XBK7EyQEYyqBgyCb3XE3tryWSqX3j/view?usp=sharing)]
 - リクルートプログラミングコンテスト：PIGICON 2023 参加 (7位/11チーム) (2023/12/2~3) [[HP](https://www.recruit.co.jp/employment/students/engineers/event/contest2023-2/)]
 - 第31回インタラクティブシステムとソフトウェアに関するワークショップ(WISS 2023) ボランティア 参加 (2023/11/28~12/1) [[HP](https://www.wiss.org/WISS2023/)], [[certification](https://drive.google.com/file/d/1Z3FcCVgsyvodedon41KtxU4ND8M8whFb/view?usp=sharing)]
 - 技育展2023 関東大会 参加 (2023/08) [[link](/product/#-ashimo)], [[HP](https://talent.supporterz.jp/geekten/2023/)]
-- MY FUTURE CAMPUS 課題解決プロジェクトシーズン２ 参加 (2019/10)
+<!-- - MY FUTURE CAMPUS 課題解決プロジェクトシーズン２ 参加 (2019/10) -->
 - ロボカップジュニア サッカーライトウェイト 関東ブロック 2016 参加 [[HP](https://rcjj-kanto.org/)]
 - 未来を創る科学技術人材育成プログラム 筑波大学GFEST 2016 参加 [[HP](https://gfest.tsukuba.ac.jp/)]
 - ロボカップジュニア サッカーライトウェイト 茨城ノード大会 2015 参加 [[HP](https://rcjj-ibaraki.com/)]
@@ -96,10 +98,10 @@ WAVEチーム（指導教員 志築文太郎 教授）
 
 ## 👨‍🏫 ティーチングアシスタント
 ---
-- プログラミング入門A，筑波大学情報メディア創成学類，2023/10-2023/12
-- プログラミング入門B，筑波大学情報メディア創成学類，2024/01-2024/02
-<!-- - データサイエンス
-- チューター -->
+- プログラミング入門A，筑波大学 情報メディア創成学類，2023/10-2023/12
+- プログラミング入門B，筑波大学 情報メディア創成学類，2024/01-2024/02
+- 留学生チューター，筑波大学 社会・国際学群英語プログラム，2024/09-2025/2
+- データサイエンス，筑波大学 共通科目，2024/11-2024/11
 
 ## 🧗‍♂️ プロジェクト
 ---
