@@ -150,7 +150,7 @@ WAVEチーム（指導教員 志築文太郎 教授）
 
 ## 👀 興味
 ---
-- 技術: HCI, IoT, Robotics, Computer Vision
+- 技術: HCI (3D sketching, Keyboards), IoT, Robotics, Computer Vision
 - 発信: ブログ, YouTube, Twitter
 - 音楽: 聞く, 作る
 - スポーツ: 野球, バドミントン
