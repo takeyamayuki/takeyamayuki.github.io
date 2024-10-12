@@ -147,7 +147,7 @@ logoHomeLink = "/"
 # Uncomment this if you want a portrait on your start page
 #
 [params.portrait]
-path = "/img/me.jpeg"
+path = "/img/me@sui24.jpeg"
 alt = "Portrait"
 maxWidth = "300px"
 
