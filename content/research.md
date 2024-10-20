@@ -26,9 +26,17 @@ In Proceedings of the 36th Australian Conference on Human-Computer Interaction (
 [`unpublished`], [[HP](http://www.ozchi.org/2024/)]
 
 
+aa
+
 
 ## 国内会議
 ---
+1. 永山 晃誠，<u>武山侑輝</u>，志築文太郎  
+"E-String Figures: 導電繊維編み込み紐を用いたあやとり技認識システム"   
+第31回インタラクティブシステムとソフトウェアに関するワークショップ（WISS 2024），  
+日本ソフトウェア科学会，山梨，2023年12月（登壇発表）(採択決定済)  
+[`unpublished`], [[HP](https://www.wiss.org/WISS2024/)]
+
 
 1. <u>武山侑輝</u>，西川宜利，志築文太郎  
 "PhonePedestal: 深度カメラ付きのスマートフォンを台座とした3Dモデリング"  
