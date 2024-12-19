@@ -20,7 +20,7 @@ Journal of Autonomous Intelligence, Vol.7, No.5, Article 1634, 11 Pages, Frontie
 In Proceedings of the 2024 ACM Symposium on Spatial User Interaction (SUI '24). ACM, Trier, Germany, Article 26, 12 Pages.  
 [[PDF](https://www.iplab.cs.tsukuba.ac.jp/paper/international/takeyama_SUI.pdf)], [[DOI](https://doi.org/10.1145/3677386.3682078)], [[Slide](https://drive.google.com/file/d/1TfpunyTkO4ucBwiL2lCvmrvNuydQJlkD/view?usp=sharing)], [[HP](https://sui.acm.org/2024/)]
 
-1. Yui Atarashi, <u>Yuki Takeyama</u>, Mayu Akata, Yuma Suzuki, Shingo Kato, Kaisei Yokoyama, Takuma Hidaka, Shota Yamanaka and Buntarou Shizuki  
+1. Yui Atarashi, <u>Yuki Takeyama</u>, Mayu Akata, Yuma Suzuki, Shingo Kato, Kaisei Yokoyama, Takuma Hidaka, Shota Yamanaka, and Buntarou Shizuki  
 "Investigation of Test-retest Reliability in 2D-Target Pointing Task over Five Consecutive Days",  
 In Proceedings of the 36th Australian Conference on Human-Computer Interaction (OzCHI '24). ACM, Brisbane, Australia, 15 Pages.  
 [[PDF](https://outbox.eait.uq.edu.au/uqsville/OzCHI2024/Late%20Breaking%20Works/Investigation%20of%20Test-Retest%20Reliability%20in%202D-Target%20Pointing%20Task%20for%20Five%20Consecutive%20Days.pdf)], [[HP](http://www.ozchi.org/2024/)]
