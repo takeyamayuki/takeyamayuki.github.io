@@ -10,31 +10,37 @@ images:
 ---
 1. Taku Itami, <u>Yuki Takeyama</u>, Sota Akamine, Jun Yoneyema, and Sebastien Ibarboure  
 "Detecting people in sprinting motion using HPRDenoise: Point cloud denoising with hidden point removal",  
-Journal of Autonomous Intelligence, Vol.7, No.5, Pages 1634, Frontier Scientific Publishing, 2024.  
+Journal of Autonomous Intelligence, Vol.7, No.5, Article 1634, 11 Pages, Frontier Scientific Publishing, 2024.  
 [[PDF](https://jai.front-sci.com/index.php/jai/article/download/1634/918)], [[DOI](https://doi.org/10.32629/jai.v7i5.1634)], [[HP](https://jai.front-sci.com/index.php/jai/index)]
 
 ## 国際会議
 ---
 1. <u>Yuki Takeyama</u>, Kousei Nagayama, Myungguen Choi, and Buntarou Shizuki  
 "PhoneCanvas: 3D Sketching System Using a Depth Camera-Equipped Smartphone as a Canvas",  
-In Proceedings of the 2024 ACM Symposium on Spatial User Interaction (SUI '24). ACM, Trier, Germany, Article 26, 12 pages.  
+In Proceedings of the 2024 ACM Symposium on Spatial User Interaction (SUI '24). ACM, Trier, Germany, Article 26, 12 Pages.  
 [[PDF](https://www.iplab.cs.tsukuba.ac.jp/paper/international/takeyama_SUI.pdf)], [[DOI](https://doi.org/10.1145/3677386.3682078)], [[Slide](https://drive.google.com/file/d/1TfpunyTkO4ucBwiL2lCvmrvNuydQJlkD/view?usp=sharing)], [[HP](https://sui.acm.org/2024/)]
 
 1. Yui Atarashi, <u>Yuki Takeyama</u>, Mayu Akata, Yuma Suzuki, Shingo Kato, Kaisei Yokoyama, Takuma Hidaka, Shota Yamanaka and Buntarou Shizuki  
 "Investigation of Test-retest Reliability in 2D-Target Pointing Task over Five Consecutive Days",  
-In Proceedings of the 36th Australian Conference on Human-Computer Interaction (OzCHI '24). ACM, (to appear).  
-[`unpublished`], [[HP](http://www.ozchi.org/2024/)]
+In Proceedings of the 36th Australian Conference on Human-Computer Interaction (OzCHI '24). ACM, Brisbane, Australia, 15 Pages.  
+[[PDF](https://outbox.eait.uq.edu.au/uqsville/OzCHI2024/Late%20Breaking%20Works/Investigation%20of%20Test-Retest%20Reliability%20in%202D-Target%20Pointing%20Task%20for%20Five%20Consecutive%20Days.pdf)], [[HP](http://www.ozchi.org/2024/)]
 
 
 
 
 ## 国内会議
 ---
+1. <u>武山 侑輝</u>，崔 明根，志築 文太郎  
+"深度カメラ付きスマートフォンをキャンバスとして用いたマルチモーダル3Dスケッチシステム"  
+情報処理学会研究報告，(to appear)  
+[`unpublished`], [[HP](https://www.sighci.jp/events/sig/211)]
+
 1. 永山 晃誠，崔 明根，<u>武山 侑輝</u>，赤田 真由，高田 崚介，志築 文太郎  
 "E-String Figures: 導電繊維編み込み紐を用いたあやとり技認識システム"   
 第31回インタラクティブシステムとソフトウェアに関するワークショップ（WISS 2024），  
-日本ソフトウェア科学会，山梨，2024年12月（登壇発表）(採択決定済)  
-[`unpublished`], [[HP](https://www.wiss.org/WISS2024/)]
+日本ソフトウェア科学会，山梨，2024年12月（登壇発表），  
+**最優秀発表賞**  
+[[PDF](https://www.wiss.org/WISS2024Proceedings/data/paper//11.pdf)], [[HP](https://www.wiss.org/WISS2024/)]
 
 
 1. <u>武山 侑輝</u>，西川 宜利，志築 文太郎  
@@ -59,7 +65,7 @@ In Proceedings of the 36th Australian Conference on Human-Computer Interaction (
 "自律型サッカーロボットの開発"  
 第10回高校生理科研究発表会，  
 千葉大学，千葉，2016年9月（ポスター発表）  
-🎖 **優秀賞**  
+**優秀賞**  
 [`unpublished`], [[HP](https://www.cfs.chiba-u.jp/koudai-renkei/event/history/2016/houkoku28.html)], [[優秀賞一覧](https://www.cfs.chiba-u.jp/koudai-renkei/event/history/2016/10jusyou.pdf)]
 
 ## 学位論文
