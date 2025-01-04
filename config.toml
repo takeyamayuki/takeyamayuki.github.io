@@ -181,13 +181,13 @@ keywords = ""
 readOtherPosts = "Read other posts"
 
 [languages.ja.params.logo]
-logoMark = ">"
-logoText = "$ cd /home"
+# logoMark = ">"
+logoText = "cd /home"
 logoHomeLink = "/"
 # or
 #
-# path = "/img/your-example-logo.svg"
-# alt = "Your example logo alt text"
+# path = "/img/mountain.png"
+# alt = "Logo"
 
 [languages.ja.menu]
 [[languages.ja.menu.main]]
@@ -203,17 +203,17 @@ name = "研究"
 url = "/research"
 weight = 2
 
-# [[languages.ja.menu.main]]
-# identifier = "product"
-# name = "プロダクト"
-# url = "/product"
-# weight = 3
+[[languages.ja.menu.main]]
+identifier = "product"
+name = "制作物"
+url = "/product"
+weight = 3
 
-# [[languages.ja.menu.main]]
-# identifier = "workexp"
-# name = "職歴"
-# url = "/workexp"
-# weight = 4
+[[languages.ja.menu.main]]
+identifier = "workexp"
+name = "職歴"
+url = "/workexp"
+weight = 4
 
 # [[languages.ja.menu.main]]
 # identifier = "link"
