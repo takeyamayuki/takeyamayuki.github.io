@@ -26,15 +26,13 @@ In Proceedings of the 36th Australian Conference on Human-Computer Interaction (
 [[PDF](https://outbox.eait.uq.edu.au/uqsville/OzCHI2024/Late%20Breaking%20Works/Investigation%20of%20Test-Retest%20Reliability%20in%202D-Target%20Pointing%20Task%20for%20Five%20Consecutive%20Days.pdf)], [[HP](http://www.ozchi.org/2024/)]
 
 
-
-
 ## 国内会議
 ---
 1. <u>武山 侑輝</u>，崔 明根，志築 文太郎  
 "深度カメラ付きスマートフォンをキャンバスとして用いたマルチモーダル3Dスケッチシステム"  
-情報処理学会研究報告，(to appear)  
-[`unpublished`], [[HP](https://www.sighci.jp/events/sig/211)]
-
+情報処理学会研究報告，Vol.2025-HCI-211，8ページ，情報処理学会，沖縄，2024年1月  
+[[PDF](https://ipsj.ixsq.nii.ac.jp/ej/?action=repository_uri&item_id=241860&file_id=1&file_no=1)], [[Slide](https://drive.google.com/file/d/1ku5tKDsFthBRNfHywFenLcbDGH9UwdmO/view?usp=sharing)], [[HP](https://www.ipsj.or.jp/kenkyukai/event/hci211.html)]
+ 
 1. 永山 晃誠，崔 明根，<u>武山 侑輝</u>，赤田 真由，高田 崚介，志築 文太郎  
 "E-String Figures: 導電繊維編み込み紐を用いたあやとり技認識システム"   
 第31回インタラクティブシステムとソフトウェアに関するワークショップ（WISS 2024），  
@@ -46,7 +44,7 @@ In Proceedings of the 36th Australian Conference on Human-Computer Interaction (
 1. <u>武山 侑輝</u>，西川 宜利，志築 文太郎  
 "PhonePedestal: 深度カメラ付きのスマートフォンを台座とした3Dモデリング"  
 情報処理学会研究報告，Vol.2024-HCI-207，8ページ，情報処理学会，東京，2024年3月  
-[[PDF](https://www.iplab.cs.tsukuba.ac.jp/paper/domestic/takeyama_hci207.pdf)], [[Slide](https://drive.google.com/file/d/1sJbNcecTns5sv0aVK4cyiyB71_6Hwuyu/view?usp=sharing)], [[HP](http://www.sighci.jp/events/sig/207)]
+[[PDF](https://www.iplab.cs.tsukuba.ac.jp/paper/domestic/takeyama_hci207.pdf)], [[Slide](https://drive.google.com/file/d/1sJbNcecTns5sv0aVK4cyiyB71_6Hwuyu/view?usp=sharing)], [[HP](https://www.ipsj.or.jp/kenkyukai/event/hci207.html)]
 
 1. <u>武山 侑輝</u>，西川 宜利，志築 文太郎  
 "スマートフォンを台座として用いた3次元スケッチシステムの実装"   
