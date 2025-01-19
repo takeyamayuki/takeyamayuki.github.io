@@ -30,7 +30,7 @@ In Proceedings of the 36th Australian Conference on Human-Computer Interaction (
 ---
 1. <u>武山 侑輝</u>，崔 明根，志築 文太郎  
 "深度カメラ付きスマートフォンをキャンバスとして用いたマルチモーダル3Dスケッチシステム"  
-情報処理学会研究報告，Vol.2025-HCI-211，8ページ，情報処理学会，沖縄，2024年1月  
+情報処理学会研究報告，Vol.2025-HCI-211，8ページ，情報処理学会，沖縄，2025年1月  
 [[PDF](https://ipsj.ixsq.nii.ac.jp/ej/?action=repository_uri&item_id=241860&file_id=1&file_no=1)], [[Slide](https://drive.google.com/file/d/1ku5tKDsFthBRNfHywFenLcbDGH9UwdmO/view?usp=sharing)], [[HP](https://www.ipsj.or.jp/kenkyukai/event/hci211.html)]
  
 1. 永山 晃誠，崔 明根，<u>武山 侑輝</u>，赤田 真由，高田 崚介，志築 文太郎  
