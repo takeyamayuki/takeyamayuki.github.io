@@ -8,6 +8,11 @@ images:
 
 ## 論文誌
 ---
+
+1. <u>武山 侑輝</u>，崔 明根，志築 文太郎  
+"PhoneCanvas+: 深度カメラ付きのスマートフォンをキャンバスとして用いた3Dスケッチシステム"
+ヒューマンインタフェース学会論文誌 （To Appear）
+
 1. Taku Itami, <u>Yuki Takeyama</u>, Sota Akamine, Jun Yoneyema, and Sebastien Ibarboure  
 "Detecting people in sprinting motion using HPRDenoise: Point cloud denoising with hidden point removal",  
 Journal of Autonomous Intelligence, Vol.7, No.5, Article 1634, 11 Pages, Frontier Scientific Publishing, 2024.  
@@ -17,7 +22,7 @@ Journal of Autonomous Intelligence, Vol.7, No.5, Article 1634, 11 Pages, Frontie
 ---
 1. <u>Yuki Takeyama</u>, Kousei Nagayama, Myungguen Choi, and Buntarou Shizuki  
 "PhoneCanvas++: Multimodal 3D Sketching System Using a Depth Camera-Equipped Smartphone as a Canvas",  
-In Extended Abstracts of the CHI Conference on Human Factors in Computing Systems (CHI EA '25). (To appear)  
+In Extended Abstracts of the CHI Conference on Human Factors in Computing Systems (CHI EA '25). (To Appear)  
 [`unpublished`], [[HP](https://chi2025.acm.org/)]
 
 1. <u>Yuki Takeyama</u>, Kousei Nagayama, Myungguen Choi, and Buntarou Shizuki  
