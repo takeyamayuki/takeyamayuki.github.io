@@ -1,10 +1,10 @@
-<!-- ---
+---
 title: "基本情報"
 date: 2021-06-20T20:13:34+09:00
-draft: false
+draft: true
 toc: false
 images: ["/content/img/me.jpeg"]
---- -->
+---
 
 
 ## 武山侑輝（たけやま ゆうき） / Yuki TAKEYAMA
