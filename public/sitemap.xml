@@ -2,34 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://takeyamayuki.github.io/</loc>
     <lastmod>2024-03-23T22:18:31+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/self-introduction/</loc>
+    <loc>https://takeyamayuki.github.io/self-introduction/</loc>
     <lastmod>2024-03-23T22:18:31+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/research/</loc>
+    <loc>https://takeyamayuki.github.io/research/</loc>
     <lastmod>2023-10-02T21:11:36+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/link/</loc>
+    <loc>https://takeyamayuki.github.io/link/</loc>
     <lastmod>2021-06-21T21:21:36+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://takeyamayuki.github.io/about/</loc>
     <lastmod>2021-06-20T20:13:34+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/project/</loc>
+    <loc>https://takeyamayuki.github.io/project/</loc>
     <lastmod>2021-06-20T20:13:34+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/workexp/</loc>
+    <loc>https://takeyamayuki.github.io/workexp/</loc>
     <lastmod>2021-06-20T20:13:34+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/misc/</loc>
+    <loc>https://takeyamayuki.github.io/misc/</loc>
     <lastmod>2021-06-20T20:13:34+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://takeyamayuki.github.io/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/series/</loc>
+    <loc>https://takeyamayuki.github.io/series/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://takeyamayuki.github.io/tags/</loc>
   </url>
 </urlset>
