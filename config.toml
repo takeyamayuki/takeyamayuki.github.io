@@ -1,8 +1,8 @@
 baseURL = "https://takeyamayuki.github.io"
 title = "Yuki Takeyama"
-languageCode = "ja"
-theme = "hello-friend-ng"
-defaultContentLanguage = "ja"
+languageCode = "en"                        # デフォルト言語を英語に設定
+defaultContentLanguage = "en"              # デフォルトのコンテンツ言語も英語に設定
+theme = "PaperMod"
 
 PygmentsCodeFences = true
 PygmentsStyle = "monokai"
@@ -35,36 +35,63 @@ disable404 = false
 disableHugoGeneratorInject = false
 
 
-[permalinks]
-posts = "/posts/:year/:month/:title/"
+#[permalinks] # このセクションを削除またはコメントアウト
+#posts = "/:lang/posts/:year/:month/:title/"
 
 
-[blackfriday]
-hrefTargetBlank = true
+# [blackfriday]
+# hrefTargetBlank = true
 
-[taxonomies]
-tag = "tags"
-category = "categories"
-series = "series"
+# [taxonomies]
+# tag = "tags"
+# category = "categories"
+# series = "series"
+
 
 [params]
-dateform = "Jan 2, 2021"
-dateformShort = "Jan 2"
-dateformNum = "2021-06-21"
-dateformNumTime = "2021-06-21 15:04"
 
-author = { name = "Yuki Takeyama", email = "namiki.takeyama@gmail.com" }
-
-
-# Metadata mostly used in document's head
-# 
-description = ""
+title = "Yuki Takeyama"
+description = "Product Manager / Researcher / Developer"
 keywords = ""
-images = [""]
+images = ["img/me@sui24.jpeg"]
 
-# Home subtitle of the index page.
-#
-homeSubtitle = "Product Manager / Researcher / Developer"
+logo = "img/favicon.png"
+colorScheme = "auto"
+defaultAppearance = "auto"
+
+# Profileモード設定
+[params.profileMode]
+enabled = true
+title = "Yuki Takeyama"
+subtitle = "Product Manager | Researcher | Developer"
+ImageUrl = "img/me@sui24.jpeg"
+imageTitle = "Yuki Takeyama"
+
+# SNSリンク
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/takeyamayuki"
+
+# [[params.socialIcons]]
+# name = "X"
+# url = "https://x.com/takeyamaaaaa"
+
+# [[params.social]]
+# name = "youtube"
+# url = "https://www.youtube.com/channel/UC2Ijyce-DOkMKqagTPDZleg"
+
+
+[[params.socialIcons]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/takeyamayuki/"
+
+[[params.socialIcons]]
+name = "email"
+url = "mailto:namiki.takeyama@gmail.com"
+
+[[params.socialIcons]]
+name = "googlescholar"
+url = "https://scholar.google.com/citations?user=cyKBte4AAAAJ"
 
 # Set a background for the homepage
 # backgroundImage = "assets/images/background.jpg"
@@ -78,11 +105,11 @@ homeSubtitle = "Product Manager / Researcher / Developer"
 disableReadOtherPosts = false
 
 # Enable theme toggle
-# 
-# This options enables the theme toggle for the theme. 
-# Per default, this option is off. 
-# The theme is respecting the prefers-color-scheme of the operating systeme. 
-# With this option on, the page user is able to set the scheme he wants. 
+#
+# This options enables the theme toggle for the theme.
+# Per default, this option is off.
+# The theme is respecting the prefers-color-scheme of the operating systeme.
+# With this option on, the page user is able to set the scheme he wants.
 enableThemeToggle = false
 
 # Sharing buttons
@@ -96,26 +123,22 @@ enableSharingButtons = true
 # Integrate Javascript files or stylesheets by adding the url to the external assets or by
 # linking local files with their path relative to the static folder, e.g. "css/styles.css"
 #
-customCSS = []
-customJS = []
 
 # Toggle this option need to rebuild SCSS, requires extended version of Hugo
 #
 justifyContent = false # Set "text-align: justify" to .post-content.
 
-# Custom footer 
-# If you want, you can easily override the default footer with your own content. 
+# Custom footer
+# If you want, you can easily override the default footer with your own content.
 #
 [params.footer]
 trademark = false
 rss = false
 copyright = false
-author = false
+author = true
 
-topText = ["<span style=\"font-size:0.8rem;\">© 2025 Yuki Takeyama</span>"]
-bottomText = [
-  "<span style=\"font-size:0.4rem;\">Powered by <a href=\"http://gohugo.io\">Hugo</a> / Made with &#10084; by <a href=\"https://github.com/rhazdon\">Djordje Atlialp</a></span>",
-]
+[params.assets]
+favicon = "img/favicon.png"
 
 # Colors for favicons
 #
@@ -124,10 +147,7 @@ mask = "#1b1c1d"
 msapplication = "#1b1c1d"
 theme = "#1b1c1d"
 
-[params.logo]
-logoMark = ">"
-logoText = "$ cd /home/"
-logoHomeLink = "/"
+
 # Set true to remove the logo cursor entirely.
 # logoCursorDisabled = false
 # Set to a valid CSS color to change the cursor in the logo.
@@ -135,11 +155,11 @@ logoHomeLink = "/"
 # Set to a valid CSS time value to change the animation duration, "0s" to disable.
 # logoCursorAnimate  = "2s"
 
-# Commento is more than just a comments widget you can embed — 
-# it’s a return to the roots of the internet. 
-# An internet without the tracking and invasions of privacy. 
-# An internet that is simple and lightweight. 
-# An internet that is focused on interesting discussions, not ads. 
+# Commento is more than just a comments widget you can embed —
+# it’s a return to the roots of the internet.
+# An internet without the tracking and invasions of privacy.
+# An internet that is simple and lightweight.
+# An internet that is focused on interesting discussions, not ads.
 # A better internet.
 # Uncomment this to enable Commento.
 #
@@ -148,89 +168,120 @@ logoHomeLink = "/"
 
 # Uncomment this if you want a portrait on your start page
 #
-[params.portrait]
-path = "/img/me@sui24.jpeg"
-alt = "Portrait"
-maxWidth = "300px"
-
-# Social icons
-# [[params.social]]
-# name = "twitter"
-# url = "https://twitter.com/takeyamaaaaa"
-
-[[params.social]]
-name = "github"
-url = "https://github.com/takeyamayuki"
-
-# [[params.social]]
-# name = "youtube"
-# url = "https://www.youtube.com/channel/UC2Ijyce-DOkMKqagTPDZleg"
-
-[[params.social]]
-name = "email"
-url = "mailto:[REDACTED]"
-
-[[params.social]]
-name = "linkedin"
-url = "https://www.linkedin.com/in/takeyamayuki/"
-
+[params.author]
+name = "Yuki Takeyama"
+email = "namiki.takeyama@gmail.com"
+image = "/img/me@sui24.jpeg"
 
 [languages]
-[languages.ja]
+[languages.en] # 英語の設定
 title = "Yuki Takeyama"
 subtitle = ""
 keywords = ""
 readOtherPosts = "Read other posts"
+contentDir = "content/en"           # 英語コンテンツのディレクトリを指定
+languageName = "🇺🇸"                 # ここを追加
 
-[languages.ja.params.logo]
-# logoMark = ">"
-logoText = "cd /home"
-logoHomeLink = "/"
-# or
-#
-# path = "/img/mountain.png"
-# alt = "Logo"
+[languages.en.permalinks]
+posts = "/posts/:year/:month/:title/" # 英語の投稿URL
+
+[languages.en.menu]
+[[languages.en.menu.main]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 1
+
+[[languages.en.menu.main]]
+identifier = "research"
+name = "Research"
+url = "/research/"
+weight = 2
+
+[[languages.en.menu.main]]
+identifier = "project"
+name = "Project"
+url = "/project/"
+weight = 3
+
+[[languages.en.menu.main]]
+identifier = "workexp"
+name = "Work"
+url = "/workexp/"
+weight = 4
+
+# [[languages.en.menu.main]]
+# identifier = "robo-cup-soccer"
+# name = "RoboCup Soccer"
+# url = "/project/robo-cup-junior-soccer/"
+# parent = "project"                       # Project のサブメニューとして表示する場合
+# weight = 1
+
+# [[languages.en.menu.main]]
+# identifier = "non-mouse"
+# name = "NonMouse"
+# url = "/project/non-mouse/"
+# parent = "project"
+# weight = 2
+
+
+# [[languages.en.menu.main]]
+# identifier = "link"
+# name = "Link"
+# url = "/link/"
+# weight = 5
+
+# [[languages.en.menu.main]]
+# identifier = "resume"
+# name = "Resume"
+# url = "/resume/"
+
+[languages.ja] # 日本語の設定
+title = "Yuki Takeyama"
+subtitle = ""
+keywords = ""
+readOtherPosts = "他の投稿を読む"
+contentDir = "content/ja"  # 日本語コンテンツのディレクトリを指定
+languageName = "🇯🇵"        # ここを追加
+[languages.ja.permalinks]
+posts = "/ja/posts/:year/:month/:title/" # 日本語の投稿URLに /ja/ を追加
 
 [languages.ja.menu]
 [[languages.ja.menu.main]]
 identifier = "about"
-name = "About"
-url = "/about"
+name = "自己紹介"
+url = "/ja/about/"
 weight = 1
 
 
 [[languages.ja.menu.main]]
 identifier = "research"
-name = "Research"
-url = "/research"
+name = "研究"
+url = "/ja/research/"
 weight = 2
 
 [[languages.ja.menu.main]]
 identifier = "project"
-name = "Project"
-url = "/project"
+name = "プロジェクト"
+url = "/ja/project/"
 weight = 3
 
 [[languages.ja.menu.main]]
 identifier = "workexp"
-name = "Work"
-url = "/workexp"
+name = "職務経歴"
+url = "/ja/workexp/"
 weight = 4
 
 # [[languages.ja.menu.main]]
 # identifier = "link"
 # name = "リンク"
-# url = "/link"
+# url = "/ja/link/"
 # weight = 5
 
 # [[languages.ja.menu.main]]
 # identifier = "resume"
-# name = "resume"
-# url = "/resume"
-
-
-# [markup.goldmark.renderer]
-# unsafe = true
+# name = "履歴書"
+# url = "/ja/resume/"
 
 
 [markup]
