@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Categories on Yuki Takeyama</title>
+    <link>https://takeyamayuki.github.io/categories/</link>
+    <description>Recent content in Categories on Yuki Takeyama</description>
+    <image>
+      <title>Yuki Takeyama</title>
+      <url>https://takeyamayuki.github.io/img/me@sui24.jpeg</url>
+      <link>https://takeyamayuki.github.io/img/me@sui24.jpeg</link>
+    </image>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>en</language>
+    <managingEditor>namiki.takeyama@gmail.com (Yuki Takeyama)</managingEditor>
+    <webMaster>namiki.takeyama@gmail.com (Yuki Takeyama)</webMaster>
+    <atom:link href="https://takeyamayuki.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
