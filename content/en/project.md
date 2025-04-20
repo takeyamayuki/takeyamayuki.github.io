@@ -12,6 +12,7 @@ draft: false
 - **Soft Skills**: Teamwork, Time Management, Communication, Presentation skills.
 <br>
 <iframe width="560" height=auto style="display:block; margin:24px auto 0; width:70%; aspect-ratio:1.766;"  src="https://www.youtube.com/embed/YSenTVdDd-s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <img src="/img/0894.JPG" alt="RoboCup Junior Soccer" style="display:block; margin:24px auto 0; width:70%; border-radius: 8px;" >
 
 <!-- {{< figure src="/img/0894.JPG" position="center" border-radius="8px" width="70%" >}} -->
@@ -24,7 +25,7 @@ draft: false
 - **Soft Skills**: Time Management, Presentation skills, Communication.
 
 <!-- {{< image src="https://user-images.githubusercontent.com/22733958/135473409-9ddf2fc5-4722-4e55-8eef-64476635c10d.gif" position="center" style="width:70%; border-radius: 8px;" >}} -->
-
+　
 <img src="https://user-images.githubusercontent.com/22733958/135473409-9ddf2fc5-4722-4e55-8eef-64476635c10d.gif" alt="NonMouse" style="display:block; margin:24px auto 0; width:70%; border-radius: 8px;" >
 
 ## 📶 RESTuino

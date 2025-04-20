@@ -242,86 +242,8 @@ Shell (bash/zsh), Git/GitHub, Docker, LaTeX, Markdown, Hugo, WordPress, GCP, Git
 
 
 &lt;img src=&#34;https://user-images.githubusercontent.com/22733958/135473409-9ddf2fc5-4722-4e55-8eef-64476635c10d.gif&#34; alt=&#34;&#34; style=&#34;ZgotmplZ&#34;&gt; --&gt;
-&lt;img src=&#34;https://user-images.githubusercontent.com/22733958/135473409-9ddf2fc5-4722-4e55-8eef-64476635c10d.gif&#34; alt=&#34;NonMouse&#34; style=&#34;display:block; margin:24px auto 0; width:70%; border-radius: 8px;&#34; &gt;
-&lt;h2 id=&#34;-restuino&#34;&gt;📶 RESTuino&lt;/h2&gt;
-&lt;hr&gt;
-&lt;ul&gt;
-&lt;li&gt;I developed a software called &amp;quot;RESTuino.&amp;quot; RESTuino is a software that enables interactive control of Arduino&#39;s GPIO via REST APIs. I received the &lt;strong&gt;Excellent Award&lt;/strong&gt; in the GEEKTEN Development Skill Support category.&lt;/li&gt;
-&lt;li&gt;[&lt;a href=&#34;https://github.com/takeyamayuki/RESTuino&#34;&gt;GitHub&lt;/a&gt;], [&lt;a href=&#34;https://zenn.dev/ninzin/articles/5c859a0bfc1ee6&#34;&gt;Zenn&lt;/a&gt;], [&lt;a href=&#34;https://talent.supporterz.jp/geekten/2022/&#34;&gt;GEEKTEN 2022 HP&lt;/a&gt;], [&lt;a href=&#34;https://drive.google.com/file/d/1iFwxoJWp2PNzWfSxtcxW3pdKwkH-N76K/view?usp=sharing&#34;&gt;Certificate of Commendation&lt;/a&gt;]&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Technical Skills&lt;/strong&gt;: PlatformIO, Arduino, C++, Python, Git/GitHub.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Soft Skills&lt;/strong&gt;: Time Management, Presentation skills.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;br&gt;
-&lt;ul&gt;
-&lt;li&gt;Demonstrating switch control from an iPhone&lt;/li&gt;
-&lt;/ul&gt;
-&lt;img src=&#34;https://user-images.githubusercontent.com/22733958/173193531-89778f00-82e1-46e1-8544-b0c455d07dfb.gif&#34; alt=&#34;RESTuino&#34; style=&#34;display:block; margin:24px auto 0; width:70%; border-radius: 8px;&#34; &gt;
-&lt;img src=&#34;https://user-images.githubusercontent.com/22733958/188927218-d310dea3-8fe5-4b1a-8fdd-ffdac5e5f4da.gif&#34; alt=&#34;RESTuino&#34; style=&#34;display:block; margin:24px auto 0; width:70%; border-radius: 8px;&#34; &gt;
-&lt;h2 id=&#34;-itf&#34;&gt;📚 ITF.&lt;/h2&gt;
-&lt;hr&gt;
-&lt;ul&gt;
-&lt;li&gt;In the enPiT (Engineering Practice in Teams) course in graduate school, motivated by the high cost of textbooks at the beginning of a new semester, I developed a textbook transaction application exclusively for University of Tsukuba students.&lt;/li&gt;
-&lt;li&gt;[&lt;a href=&#34;https://github.com/enpitut2023/ITF&#34;&gt;GitHub&lt;/a&gt;], [&lt;a href=&#34;https://itf-database-b9026.an.r.appspot.com/&#34;&gt;Website&lt;/a&gt;]&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Technical Skills&lt;/strong&gt;: Flask, Firebase, JavaScript, GCP, Git/GitHub, CI/CD, Docker, Agile development.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Soft Skills&lt;/strong&gt;: Teamwork, Time Management, Communication, Presentation skills.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;!-- 
-
-
-&lt;img src=&#34;https://takeyamayuki.github.io/img/itf.png&#34; alt=&#34;&#34; style=&#34;ZgotmplZ&#34;&gt; --&gt;
-&lt;img src=&#34;https://takeyamayuki.github.io/img/itf.png&#34; alt=&#34;ITF&#34; style=&#34;display:block; margin:24px auto 0; width:70%; border-radius: 8px;&#34; &gt;
-&lt;h2 id=&#34;-ashimo&#34;&gt;👣 ASHIMO&lt;/h2&gt;
-&lt;hr&gt;
-&lt;ul&gt;
-&lt;li&gt;In the Embedded Development Programming course at the University of Tsukuba Graduate School, I developed a system that allows users to pass through ticket gates hands-free by authenticating with RFID tags attached to their feet. The project won &lt;strong&gt;1st place&lt;/strong&gt; at the final presentation of the course.&lt;/li&gt;
-&lt;li&gt;[&lt;a href=&#34;https://github.com/takeyamayuki/ASHIMO&#34;&gt;GitHub&lt;/a&gt;], [&lt;a href=&#34;https://drive.google.com/file/d/125ItnGQid4D2cwPhSFbauSmri3XzdNFZ/view?usp=sharing&#34;&gt;Video&lt;/a&gt;]&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Technical Skills&lt;/strong&gt;: Android Studio, Java, Firebase, Git/GitHub.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Soft Skills&lt;/strong&gt;: Teamwork, Time Management, Communication, Presentation skills.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;!-- 
-
-
-&lt;img src=&#34;https://takeyamayuki.github.io/img/ashimo.gif&#34; alt=&#34;&#34; style=&#34;ZgotmplZ&#34;&gt; --&gt;
-&lt;img src=&#34;https://takeyamayuki.github.io/img/ashimo.gif&#34; alt=&#34;ASHIMO&#34; style=&#34;display:block; margin:24px auto 0; width:70%; border-radius: 8px;&#34; &gt;
-&lt;h2 id=&#34;-fingerrunning&#34;&gt;🤞 FingerRunning&lt;/h2&gt;
-&lt;hr&gt;
-&lt;ul&gt;
-&lt;li&gt;In the Embedded Development Programming course at the University of Tsukuba Graduate School, I developed a finger-running game to address the issue of lack of exercise.&lt;/li&gt;
-&lt;li&gt;[&lt;a href=&#34;https://github.com/shim03/FingerRunning&#34;&gt;GitHub&lt;/a&gt;]&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Technical Skills&lt;/strong&gt;: Android Studio, Java, Git/GitHub.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Soft Skills&lt;/strong&gt;: Time Management, Presentation skills.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;!-- 
-
-
-&lt;img src=&#34;https://takeyamayuki.github.io/img/finger.gif&#34; alt=&#34;&#34; style=&#34;ZgotmplZ&#34;&gt; --&gt;
-&lt;img src=&#34;https://takeyamayuki.github.io/img/finger.gif&#34; alt=&#34;FingerRunning&#34; style=&#34;display:block; margin:24px auto 0; width:70%; border-radius: 8px;&#34; &gt;
-&lt;h2 id=&#34;-chinaremover&#34;&gt;🛒 ChinaRemover&lt;/h2&gt;
-&lt;hr&gt;
-&lt;ul&gt;
-&lt;li&gt;I created a Google Chrome extension that filters Amazon search results to exclude items not shipped from Japan.&lt;/li&gt;
-&lt;li&gt;[&lt;a href=&#34;https://chrome.google.com/webstore/detail/china-remover/koddfmmljnagafaapbegnjacfhlhiefg?hl=ja&amp;amp;gl=001&#34;&gt;Chrome Store&lt;/a&gt;], [&lt;a href=&#34;https://github.com/takeyamayuki/ChinaRemover&#34;&gt;GitHub&lt;/a&gt;]&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Technical Skills&lt;/strong&gt;: JavaScript, Git/GitHub.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Soft Skills&lt;/strong&gt;: Time Management&lt;/li&gt;
-&lt;/ul&gt;
-&lt;img src=&#34;https://takeyamayuki.github.io/img/cr.png&#34; alt=&#34;ChinaRemover&#34; style=&#34;display:block; margin:24px auto 0; width:70%; border-radius: 8px;&#34; &gt;
-&lt;h2 id=&#34;-shooting-game&#34;&gt;🔫 Shooting Game&lt;/h2&gt;
-&lt;hr&gt;
-&lt;ul&gt;
-&lt;li&gt;At my high school cultural festival, I built a system that counts scores and displays rankings on a computer when targets with CdS sensors are hit with a laser pointer.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Technical Skills&lt;/strong&gt;: Arduino, C++, bsch3v, Sensors (CdS sensor).&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Soft Skills&lt;/strong&gt;: Teamwork, Time Management, Communication.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;img src=&#34;https://takeyamayuki.github.io/img/02_013.JPG&#34; alt=&#34;Shooting Game&#34; style=&#34;display:block; margin:24px auto 0; width:70%; border-radius: 8px;&#34; &gt;
-&lt;h2 id=&#34;-gyromouseble&#34;&gt;🖱️ GyroMouseBLE&lt;/h2&gt;
-&lt;hr&gt;
-&lt;ul&gt;
-&lt;li&gt;I created a BLE device that operates the mouse using a gyro sensor, similar to a Wii Remote.&lt;/li&gt;
-&lt;li&gt;[&lt;a href=&#34;https://github.com/takeyamayuki/GyroMouseBLE&#34;&gt;GitHub&lt;/a&gt;]&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Technical Skills&lt;/strong&gt;: Arduino, C++, Git/GitHub.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Soft Skills&lt;/strong&gt;: Time Management, Presentation skills.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;img src=&#34;https://user-images.githubusercontent.com/22733958/130589777-bb9e9679-aeb6-43dd-bc9e-a26c03030525.gif&#34; alt=&#34;GyroMouseBLE&#34; style=&#34;display:block; margin:24px auto 0; width:70%; border-radius: 8px;&#34; &gt;</description>
+&lt;p&gt;　
+&lt;img src=&#34;https://user-images.githubusercontent.com/22733958/135473409-9ddf2fc5-4722-4e55-8eef-64476635c10d.gif&#34; alt=&#34;NonMouse&#34; style=&#34;display:block; margin:24px auto 0; width:70%; border-radius: 8px;&#34; &gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Work Experience</title>
