@@ -22,7 +22,7 @@ toc: false
 
 ## 🏫 Education
 ---
-- Master's Program in Informatics, Graduate School of Science and Technology, University of Tsukuba
+- Master's Program in Computer Science, Graduate School of Science and Technology, University of Tsukuba
     - April 2023 - March 2025
     - Master of Engineering
     - Affiliated Laboratory: [Interactive Programming Laboratory (IPLAB) WAVE Team](https://www.iplab.cs.tsukuba.ac.jp/)

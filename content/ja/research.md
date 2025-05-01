@@ -25,7 +25,7 @@ Journal of Autonomous Intelligence, Vol.7, No.5, Article 1634, 11 Pages, Frontie
 ---
 1. <u>Yuki Takeyama</u>, Kousei Nagayama, Myungguen Choi, and Buntarou Shizuki  
 **PhoneCanvas++: Multimodal 3D Sketching System Using a Depth Camera-Equipped Smartphone as a Canvas**  
-In Extended Abstracts of the CHI Conference on Human Factors in Computing Systems (CHI EA ’25). ACM, Yokohama, Japan, Article 918, 2 Pages.  
+In Extended Abstracts of the CHI Conference on Human Factors in Computing Systems (CHI EA ’25). ACM, Yokohama, Japan, Article 918, 2 Pages. **採択率34.0%**  
 [[PDF](https://dl.acm.org/doi/pdf/10.1145/3706599.3721334)], [[DOI](https://doi.org/10.1145/3706599.3721334)], [[HP](https://chi2025.acm.org/)]
 
 1. <u>Yuki Takeyama</u>, Kousei Nagayama, Myungguen Choi, and Buntarou Shizuki  
