@@ -6,6 +6,12 @@ toc: false
 images:
 ---
 
+## Rakuten Group, Inc.
+---
+- Full-time Employee (2025/04 - ) as Product Manager
+    - Joined the company as a new graduate in April 2025.
+
+
 ## University of Tsukuba Teaching Assistant
 ---
 - Part-time Job

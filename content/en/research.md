@@ -77,7 +77,7 @@ The 10th High School Science Research Presentation,
 Chiba University, Chiba, September 2016 (Poster Presentation), **Excellent Award**  
 [`unpublished`], [[HP](https://www.cfs.chiba-u.jp/koudai-renkei/event/history/2016/houkoku28.html)], [[List of Excellent Awards](https://www.cfs.chiba-u.jp/koudai-renkei/event/history/2016/10jusyou.pdf)]
 
-## Thesis
+## Theses
 ---
 1. Master's Thesis, Master of Engineering  
 **3D Sketching System Using a Depth Camera-Equipped Smartphone as a Canvas**  
