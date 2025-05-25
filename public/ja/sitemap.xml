@@ -15,9 +15,6 @@
                 href="http://localhost:1313/ja/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ja/self-introduction/</loc>
-    <lastmod>2024-03-23T22:18:31+09:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/ja/research/</loc>
     <lastmod>2023-10-02T21:11:36+09:00</lastmod>
     <xhtml:link
@@ -29,32 +26,6 @@
                 rel="alternate"
                 hreflang="ja"
                 href="http://localhost:1313/ja/research/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/ja/link/</loc>
-    <lastmod>2021-06-21T21:21:36+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/link/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="http://localhost:1313/ja/link/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/ja/misc/</loc>
-    <lastmod>2021-06-20T20:13:34+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/misc/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="http://localhost:1313/ja/misc/"
                 />
   </url><url>
     <loc>http://localhost:1313/ja/project/</loc>
@@ -119,7 +90,5 @@
                 hreflang="ja"
                 href="http://localhost:1313/ja/tags/"
                 />
-  </url><url>
-    <loc>http://localhost:1313/ja/academia/</loc>
   </url>
 </urlset>
