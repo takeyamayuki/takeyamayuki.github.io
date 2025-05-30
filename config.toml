@@ -51,7 +51,7 @@ disableHugoGeneratorInject = false
 [params]
 
 title = "Yuki Takeyama"
-description = "Product Manager / Researcher / Developer"
+description = "Product Manager | Developer"
 keywords = ""
 images = ["img/me@sui24.jpeg"]
 
@@ -63,7 +63,7 @@ defaultAppearance = "auto"
 [params.profileMode]
 enabled = true
 title = "Yuki Takeyama"
-subtitle = "Product Manager | Researcher | Developer"
+subtitle = "Product Manager | Developer"
 ImageUrl = "img/me@sui24.jpeg"
 imageTitle = "Yuki Takeyama"
 
