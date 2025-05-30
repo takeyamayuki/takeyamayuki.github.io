@@ -14,7 +14,9 @@ Computer Software, IPSJ WISS Recommended Paper (To Appear)
 
 2. <u>Yuki Takeyama</u>, Myungguen Choi, and Buntarou Shizuki  
 **PhoneCanvas+: 3D Sketching System Using a Depth Camera-Equipped Smartphone as a Canvas**  
-Transactions of the Human Interface Society of Japan (To Appear)
+Transactions of the Human Interface Society of Japan, Original Article, 2025, Vol.27, No.2, p.47-60  
+[[PDF](https://www.jstage.jst.go.jp/article/his/27/2/27_47/_pdf/-char/ja)], [[DOI](https://doi.org/10.11184/his.27.2_47)], [[HP](https://jp.his.gr.jp/)]  
+
 
 3. Taku Itami, <u>Yuki Takeyama</u>, Sota Akamine, Jun Yoneyema, and Sebastien Ibarboure  
 **Detecting people in sprinting motion using HPRDenoise: Point cloud denoising with hidden point removal**  

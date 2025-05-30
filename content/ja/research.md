@@ -14,7 +14,8 @@ images:
 
 1. <u>武山 侑輝</u>，崔 明根，志築 文太郎  
 **PhoneCanvas+: 深度カメラ付きのスマートフォンをキャンバスとして用いた3Dスケッチシステム**  
-ヒューマンインタフェース学会論文誌 （To Appear）
+ヒューマンインタフェース学会論文誌，原著論文，2025年，27巻，2号，p.47-60  
+[[PDF](https://www.jstage.jst.go.jp/article/his/27/2/27_47/_pdf/-char/ja)], [[DOI](https://doi.org/10.11184/his.27.2_47)], [[HP](https://jp.his.gr.jp/)]  
 
 1. Taku Itami, <u>Yuki Takeyama</u>, Sota Akamine, Jun Yoneyema, and Sebastien Ibarboure  
 **Detecting people in sprinting motion using HPRDenoise: Point cloud denoising with hidden point removal**  
