@@ -59,6 +59,9 @@ logo = "img/favicon.png"
 colorScheme = "auto"
 defaultAppearance = "auto"
 
+# Google Analytics
+env = "production"
+
 # Profileモード設定
 [params.profileMode]
 enabled = true
