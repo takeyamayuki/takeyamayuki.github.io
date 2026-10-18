@@ -13,10 +13,6 @@ toc: false
 - Google Scholar: [Yuki Takeyama](https://scholar.google.com/citations?user=cyKBte4AAAAJ)
 - GitHub: [takeyamayuki](https://github.com/takeyamayuki)
 - Zenn: [ninzin](https://zenn.dev/ninzin)
-#### Affiliations
-- [Information Processing Society of Japan (IPSJ) Student Member](https://www.ipsj.or.jp/)
-- [ACM Student Membership](https://www.acm.org/membership)
-- [ACM SIGCHI Membership](https://sigchi.org/)
 
 
 

@@ -25,12 +25,6 @@ WAVEチーム（指導教員 志築文太郎 教授）   -->
 <!-- - YouTube: [@DenkiNinzin](https://www.youtube.com/@DenkiNinzin) -->
 
 
-#### 学会
-- [情報処理学会 学生会員](https://www.ipsj.or.jp/)
-- [ACM Student Membership](https://www.acm.org/membership)
-- [ACM SIGCHI Membership](https://sigchi.org/)
-
-
 
 ## 🏫 学歴
 ---
