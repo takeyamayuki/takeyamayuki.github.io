@@ -75,15 +75,6 @@ imageTitle = "Yuki Takeyama"
 name = "github"
 url = "https://github.com/takeyamayuki"
 
-# [[params.socialIcons]]
-# name = "X"
-# url = "https://x.com/takeyamaaaaa"
-
-# [[params.social]]
-# name = "youtube"
-# url = "https://www.youtube.com/channel/UC2Ijyce-DOkMKqagTPDZleg"
-
-
 [[params.socialIcons]]
 name = "linkedin"
 url = "https://www.linkedin.com/in/takeyamayuki/"
@@ -234,10 +225,6 @@ weight = 4
 # url = "/link/"
 # weight = 5
 
-# [[languages.en.menu.main]]
-# identifier = "resume"
-# name = "Resume"
-# url = "/resume/"
 
 [languages.ja] # 日本語の設定
 title = "Yuki Takeyama"
@@ -281,10 +268,6 @@ weight = 4
 # url = "/ja/link/"
 # weight = 5
 
-# [[languages.ja.menu.main]]
-# identifier = "resume"
-# name = "履歴書"
-# url = "/ja/resume/"
 
 
 [markup]

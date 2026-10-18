@@ -2,93 +2,93 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/ja/</loc>
-    <lastmod>2024-03-23T22:18:31+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="http://localhost:1313/ja/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/ja/research/</loc>
+    <loc>https://takeyamayuki.github.io/ja/</loc>
     <lastmod>2023-10-02T21:11:36+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/research/"
+                href="https://takeyamayuki.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://localhost:1313/ja/research/"
+                href="https://takeyamayuki.github.io/ja/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ja/project/</loc>
+    <loc>https://takeyamayuki.github.io/ja/research/</loc>
+    <lastmod>2023-10-02T21:11:36+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://takeyamayuki.github.io/research/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://takeyamayuki.github.io/ja/research/"
+                />
+  </url><url>
+    <loc>https://takeyamayuki.github.io/ja/project/</loc>
     <lastmod>2021-06-20T20:13:34+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/project/"
+                href="https://takeyamayuki.github.io/project/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://localhost:1313/ja/project/"
+                href="https://takeyamayuki.github.io/ja/project/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ja/about/</loc>
+    <loc>https://takeyamayuki.github.io/ja/about/</loc>
     <lastmod>2021-06-20T20:13:34+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/about/"
+                href="https://takeyamayuki.github.io/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://localhost:1313/ja/about/"
+                href="https://takeyamayuki.github.io/ja/about/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ja/workexp/</loc>
+    <loc>https://takeyamayuki.github.io/ja/workexp/</loc>
     <lastmod>2021-06-20T20:13:34+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/workexp/"
+                href="https://takeyamayuki.github.io/workexp/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://localhost:1313/ja/workexp/"
+                href="https://takeyamayuki.github.io/ja/workexp/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ja/categories/</loc>
+    <loc>https://takeyamayuki.github.io/ja/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/categories/"
+                href="https://takeyamayuki.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://localhost:1313/ja/categories/"
+                href="https://takeyamayuki.github.io/ja/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ja/tags/</loc>
+    <loc>https://takeyamayuki.github.io/ja/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/tags/"
+                href="https://takeyamayuki.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://localhost:1313/ja/tags/"
+                href="https://takeyamayuki.github.io/ja/tags/"
                 />
   </url>
 </urlset>

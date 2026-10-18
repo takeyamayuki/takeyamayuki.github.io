@@ -15,8 +15,6 @@ draft: false
 
 <img src="/img/0894.JPG" alt="RoboCup Junior Soccer" style="display:block; margin:24px auto 0; width:70%; border-radius: 8px;" >
 
-<!-- {{< figure src="/img/0894.JPG" position="center" border-radius="8px" width="70%" >}} -->
-
 ## 👆 NonMouse
 ---
 - I developed a software called "NonMouse." NonMouse allows users to operate a computer without a physical mouse by recognizing hand movements from a webcam. I received the **Excellent Award** in the GEEKTEN Development Skill Support category. It was also selected as **Zenn Weekly Top** and was **nominated for the INNO-vation Program 2023 "Generation Award."**
@@ -24,7 +22,6 @@ draft: false
 - **Technical Skills**: Python (with OpenCV, MediaPipe, Numpy, Tkinter), Ubuntu, Git/GitHub.
 - **Soft Skills**: Time Management, Presentation skills, Communication.
 
-<!-- {{< image src="https://user-images.githubusercontent.com/22733958/135473409-9ddf2fc5-4722-4e55-8eef-64476635c10d.gif" position="center" style="width:70%; border-radius: 8px;" >}} -->
 　
 <img src="https://user-images.githubusercontent.com/22733958/135473409-9ddf2fc5-4722-4e55-8eef-64476635c10d.gif" alt="NonMouse" style="display:block; margin:24px auto 0; width:70%; border-radius: 8px;" >
 
@@ -50,8 +47,6 @@ draft: false
 - **Technical Skills**: Flask, Firebase, JavaScript, GCP, Git/GitHub, CI/CD, Docker, Agile development.
 - **Soft Skills**: Teamwork, Time Management, Communication, Presentation skills.
 
-<!-- {{< image src="/img/itf.png" position="center" style="width:70%; border-radius: 8px;" >}} -->
-
 <img src="/img/itf.png" alt="ITF" style="display:block; margin:24px auto 0; width:70%; border-radius: 8px;" >
 
 ## 👣 ASHIMO
@@ -61,10 +56,7 @@ draft: false
 - **Technical Skills**: Android Studio, Java, Firebase, Git/GitHub.
 - **Soft Skills**: Teamwork, Time Management, Communication, Presentation skills.
 
-<!-- {{< image src="/img/ashimo.gif" position="center" style="width:70%; border-radius: 8px;" >}} -->
-
 <img src="/img/ashimo.gif" alt="ASHIMO" style="display:block; margin:24px auto 0; width:70%; border-radius: 8px;" >
-
 
 ## 🤞 FingerRunning
 ---
@@ -72,8 +64,6 @@ draft: false
 - [[GitHub](https://github.com/shim03/FingerRunning)]
 - **Technical Skills**: Android Studio, Java, Git/GitHub.
 - **Soft Skills**: Time Management, Presentation skills.
-
-<!-- {{< image src="/img/finger.gif" position="center " style="width:70%; border-radius: 8px;" >}} -->
 
 <img src="/img/finger.gif" alt="FingerRunning" style="display:block; margin:24px auto 0; width:70%; border-radius: 8px;" >
 

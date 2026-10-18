@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Yuki Takeyama</title>
-    <link>http://localhost:1313/</link>
+    <link>https://takeyamayuki.github.io/</link>
     <description>Recent content on Yuki Takeyama</description>
     <image>
       <title>Yuki Takeyama</title>
-      <url>http://localhost:1313/img/me@sui24.jpeg</url>
-      <link>http://localhost:1313/img/me@sui24.jpeg</link>
+      <url>https://takeyamayuki.github.io/img/me@sui24.jpeg</url>
+      <link>https://takeyamayuki.github.io/img/me@sui24.jpeg</link>
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <managingEditor>namiki.takeyama@gmail.com (Yuki Takeyama)</managingEditor>
     <webMaster>namiki.takeyama@gmail.com (Yuki Takeyama)</webMaster>
     <lastBuildDate>Mon, 02 Oct 2023 21:11:36 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://takeyamayuki.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Research</title>
-      <link>http://localhost:1313/research/</link>
+      <link>https://takeyamayuki.github.io/research/</link>
       <pubDate>Mon, 02 Oct 2023 21:11:36 +0900</pubDate><author>namiki.takeyama@gmail.com (Yuki Takeyama)</author>
-      <guid>http://localhost:1313/research/</guid>
+      <guid>https://takeyamayuki.github.io/research/</guid>
       <description>&lt;h2 id=&#34;journal&#34;&gt;Journal&lt;/h2&gt;
 &lt;hr&gt;
 &lt;ol&gt;
@@ -36,9 +36,9 @@ Transactions of the Human Interface Society of Japan, Original Article, 2025, Vo
     </item>
     <item>
       <title>About Me</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://takeyamayuki.github.io/about/</link>
       <pubDate>Sun, 20 Jun 2021 20:13:34 +0900</pubDate><author>namiki.takeyama@gmail.com (Yuki Takeyama)</author>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://takeyamayuki.github.io/about/</guid>
       <description>&lt;h2 id=&#34;yuki-takeyama&#34;&gt;Yuki TAKEYAMA&lt;/h2&gt;
 &lt;hr&gt;
 &lt;h4 id=&#34;contact&#34;&gt;Contact&lt;/h4&gt;
@@ -48,12 +48,6 @@ Transactions of the Human Interface Society of Japan, Original Article, 2025, Vo
 &lt;li&gt;GitHub: &lt;a href=&#34;https://github.com/takeyamayuki&#34;&gt;takeyamayuki&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Zenn: &lt;a href=&#34;https://zenn.dev/ninzin&#34;&gt;ninzin&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4 id=&#34;affiliations&#34;&gt;Affiliations&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.ipsj.or.jp/&#34;&gt;Information Processing Society of Japan (IPSJ) Student Member&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.acm.org/membership&#34;&gt;ACM Student Membership&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sigchi.org/&#34;&gt;ACM SIGCHI Membership&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
 &lt;h2 id=&#34;-education&#34;&gt;🏫 Education&lt;/h2&gt;
 &lt;hr&gt;
 &lt;ul&gt;
@@ -62,7 +56,7 @@ Transactions of the Human Interface Society of Japan, Original Article, 2025, Vo
 &lt;li&gt;April 2023 - March 2025&lt;/li&gt;
 &lt;li&gt;Master of Engineering&lt;/li&gt;
 &lt;li&gt;Affiliated Laboratory: &lt;a href=&#34;https://www.iplab.cs.tsukuba.ac.jp/&#34;&gt;Interactive Programming Laboratory (IPLAB) WAVE Team&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Master&#39;s Thesis: &lt;a href=&#34;http://localhost:1313/research/#%e5%ad%a6%e4%bd%8d%e8%ab%96%e6%96%87&#34;&gt;3D Sketching System Using a Depth Camera-Equipped Smartphone as a Canvas&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Master&#39;s Thesis: &lt;a href=&#34;https://takeyamayuki.github.io/research/#theses&#34;&gt;3D Sketching System Using a Depth Camera-Equipped Smartphone as a Canvas&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;Department of Electrical Engineering and Electronics, School of Science and Engineering, Aoyama Gakuin University
@@ -70,7 +64,7 @@ Transactions of the Human Interface Society of Japan, Original Article, 2025, Vo
 &lt;li&gt;April 2019 - March 2023&lt;/li&gt;
 &lt;li&gt;Bachelor of Engineering&lt;/li&gt;
 &lt;li&gt;Affiliated Laboratory: &lt;a href=&#34;https://www.ee.aoyama.ac.jp/Labs/yoneyama-www/index.html&#34;&gt;Yoneyama Laboratory&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Bachelor&#39;s Thesis: &lt;a href=&#34;http://localhost:1313/research/#%e5%ad%a6%e4%bd%8d%e8%ab%96%e6%96%87&#34;&gt;Development of a Method for Improving the Detection Accuracy of Dynamic Objects in 3D Point Clouds&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Bachelor&#39;s Thesis: &lt;a href=&#34;https://takeyamayuki.github.io/research/#theses&#34;&gt;Development of a Method for Improving the Detection Accuracy of Dynamic Objects in 3D Point Clouds&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;Namiki Secondary Education School, Ibaraki Prefecture
@@ -85,12 +79,12 @@ Transactions of the Human Interface Society of Japan, Original Article, 2025, Vo
 &lt;li&gt;Japan Student Services Organization (JASSO) Type 1 Scholarship (Interest-Free Loan), April 2023 - March 2025&lt;/li&gt;
 &lt;li&gt;INNO-vation Program Generation Award 2024 &lt;strong&gt;Nominee&lt;/strong&gt; (127 selections / 10502 applications) (February 2025) [&lt;a href=&#34;https://inno-vation.jp/nominate/2024/&#34;&gt;link&lt;/a&gt;], [&lt;a href=&#34;https://drive.google.com/file/d/1GEe7UpzzYdPKPO73kbquP9RCjuoAFdfI/view?usp=sharing&#34;&gt;Certificate&lt;/a&gt;]&lt;/li&gt;
 &lt;li&gt;University of Tsukuba Career Research Meister Certification System 2023 &lt;strong&gt;Progressive&lt;/strong&gt; (April 2024) [&lt;a href=&#34;https://www.coins.tsukuba.ac.jp/enrolled_student/internship/&#34;&gt;HP&lt;/a&gt;]&lt;/li&gt;
-&lt;li&gt;INNO-vation Program Generation Award 2023 &lt;strong&gt;Nominee&lt;/strong&gt; (121 selections / 16929 applications) (February 2024) [&lt;a href=&#34;http://localhost:1313/product/#-nonmouse&#34;&gt;link&lt;/a&gt;], [&lt;a href=&#34;https://drive.google.com/file/d/12GZg1Wx3ZPSXtmn1RosNp5PXvozhiQMS/view?usp=sharing&#34;&gt;Certificate&lt;/a&gt;]&lt;/li&gt;
-&lt;li&gt;Embedded Development Programming Final Presentation, Graduate School of Informatics, University of Tsukuba: &lt;strong&gt;1st Place&lt;/strong&gt; (July 2023) [&lt;a href=&#34;http://localhost:1313/product/#-ashimo&#34;&gt;link&lt;/a&gt;]&lt;/li&gt;
-&lt;li&gt;GEEKTEN 2022 Development Skill Support Category: &lt;strong&gt;Excellent Award&lt;/strong&gt; (August 2022) [&lt;a href=&#34;http://localhost:1313/product/#-restuino&#34;&gt;link&lt;/a&gt;], [&lt;a href=&#34;https://drive.google.com/file/d/1iFwxoJWp2PNzWfSxtcxW3pdKwkH-N76K/view?usp=sharing&#34;&gt;Certificate&lt;/a&gt;]&lt;/li&gt;
-&lt;li&gt;GEEKTEN 2021 Development Skill Support Category: &lt;strong&gt;Excellent Award&lt;/strong&gt; (August 2021) [&lt;a href=&#34;http://localhost:1313/product/#-nonmouse&#34;&gt;link&lt;/a&gt;], [&lt;a href=&#34;https://drive.google.com/file/d/13QC0B-ERtwVyCp4O0RPveOUX1KNsMWpP/view?usp=sharing&#34;&gt;Certificate&lt;/a&gt;]&lt;/li&gt;
-&lt;li&gt;RoboCup Junior Soccer Lightweight Japan Open 2017: &lt;strong&gt;5th Place&lt;/strong&gt; (March 2017) [&lt;a href=&#34;http://localhost:1313/product/#-%E3%83%AD%E3%83%9C%E3%82%AB%E3%83%83%E3%83%97%E3%82%B8%E3%83%A5%E3%83%8B%E3%82%A2%E3%82%B5%E3%83%83%E3%82%AB%E3%83%BC&#34;&gt;link&lt;/a&gt;], [&lt;a href=&#34;https://www.robocupjunior.jp/docs/RCJJ2017Results-Soccer_LightWeight%28WSL%29.pdf&#34;&gt;Results&lt;/a&gt;]&lt;/li&gt;
-&lt;li&gt;The 10th High School Science Research Presentation: &lt;strong&gt;Excellent Award&lt;/strong&gt; (September 2016) [&lt;a href=&#34;http://localhost:1313/product/#-%E3%83%AD%E3%83%9C%E3%82%AB%E3%83%83%E3%83%97%E3%82%B8%E3%83%A5%E3%83%8B%E3%82%A2%E3%82%B5%E3%83%83%E3%82%AB%E3%83%BC&#34;&gt;link&lt;/a&gt;], [&lt;a href=&#34;https://www.cfs.chiba-u.jp/koudai-renkei/event/history/2016/10jusyou.pdf&#34;&gt;Winners List&lt;/a&gt;]&lt;/li&gt;
+&lt;li&gt;INNO-vation Program Generation Award 2023 &lt;strong&gt;Nominee&lt;/strong&gt; (121 selections / 16929 applications) (February 2024) [&lt;a href=&#34;https://takeyamayuki.github.io/project/#-nonmouse&#34;&gt;link&lt;/a&gt;], [&lt;a href=&#34;https://drive.google.com/file/d/12GZg1Wx3ZPSXtmn1RosNp5PXvozhiQMS/view?usp=sharing&#34;&gt;Certificate&lt;/a&gt;]&lt;/li&gt;
+&lt;li&gt;Embedded Development Programming Final Presentation, Graduate School of Informatics, University of Tsukuba: &lt;strong&gt;1st Place&lt;/strong&gt; (July 2023) [&lt;a href=&#34;https://takeyamayuki.github.io/project/#-ashimo&#34;&gt;link&lt;/a&gt;]&lt;/li&gt;
+&lt;li&gt;GEEKTEN 2022 Development Skill Support Category: &lt;strong&gt;Excellent Award&lt;/strong&gt; (August 2022) [&lt;a href=&#34;https://takeyamayuki.github.io/project/#-restuino&#34;&gt;link&lt;/a&gt;], [&lt;a href=&#34;https://drive.google.com/file/d/1iFwxoJWp2PNzWfSxtcxW3pdKwkH-N76K/view?usp=sharing&#34;&gt;Certificate&lt;/a&gt;]&lt;/li&gt;
+&lt;li&gt;GEEKTEN 2021 Development Skill Support Category: &lt;strong&gt;Excellent Award&lt;/strong&gt; (August 2021) [&lt;a href=&#34;https://takeyamayuki.github.io/project/#-nonmouse&#34;&gt;link&lt;/a&gt;], [&lt;a href=&#34;https://drive.google.com/file/d/13QC0B-ERtwVyCp4O0RPveOUX1KNsMWpP/view?usp=sharing&#34;&gt;Certificate&lt;/a&gt;]&lt;/li&gt;
+&lt;li&gt;RoboCup Junior Soccer Lightweight Japan Open 2017: &lt;strong&gt;5th Place&lt;/strong&gt; (March 2017) [&lt;a href=&#34;https://takeyamayuki.github.io/project/#-robocup-junior-soccer&#34;&gt;link&lt;/a&gt;], [&lt;a href=&#34;https://www.robocupjunior.jp/docs/RCJJ2017Results-Soccer_LightWeight%28WSL%29.pdf&#34;&gt;Results&lt;/a&gt;]&lt;/li&gt;
+&lt;li&gt;The 10th High School Science Research Presentation: &lt;strong&gt;Excellent Award&lt;/strong&gt; (September 2016) [&lt;a href=&#34;https://takeyamayuki.github.io/project/#-robocup-junior-soccer&#34;&gt;link&lt;/a&gt;], [&lt;a href=&#34;https://www.cfs.chiba-u.jp/koudai-renkei/event/history/2016/10jusyou.pdf&#34;&gt;Winners List&lt;/a&gt;]&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;-activities&#34;&gt;🏃 Activities&lt;/h2&gt;
 &lt;hr&gt;
@@ -99,7 +93,7 @@ Transactions of the Human Interface Society of Japan, Original Article, 2025, Vo
 &lt;li&gt;UIST2023 Study Group Presentation (December 16, 2023) [&lt;a href=&#34;https://sigchi.jp/seminar/uist2023/&#34;&gt;HP&lt;/a&gt;], [&lt;a href=&#34;https://drive.google.com/file/d/1mU6XBK7EyQEYyqBgyCb3XE3tryWSqX3j/view?usp=sharing&#34;&gt;Slide&lt;/a&gt;]&lt;/li&gt;
 &lt;li&gt;Recruit Programming Contest: PIGICON 2023 Participant (December 2-3, 2023) [&lt;a href=&#34;https://www.recruit.co.jp/employment/students/engineers/event/contest2023-2/&#34;&gt;HP&lt;/a&gt;]&lt;/li&gt;
 &lt;li&gt;The 31st Workshop on Interactive Systems and Software (WISS 2023) Volunteer (November 28 - December 1, 2023) [&lt;a href=&#34;https://www.wiss.org/WISS2023/&#34;&gt;HP&lt;/a&gt;], [&lt;a href=&#34;https://drive.google.com/file/d/1Z3FcCVgsyvodedon41KtxU4ND8M8whFb/view?usp=sharing&#34;&gt;Certification&lt;/a&gt;]&lt;/li&gt;
-&lt;li&gt;GEEKTEN 2023 Kanto Tournament Participant (August 2023) [&lt;a href=&#34;http://localhost:1313/product/#-ashimo&#34;&gt;link&lt;/a&gt;], [&lt;a href=&#34;https://talent.supporterz.jp/geekten/2023/&#34;&gt;HP&lt;/a&gt;]&lt;/li&gt;
+&lt;li&gt;GEEKTEN 2023 Kanto Tournament Participant (August 2023) [&lt;a href=&#34;https://takeyamayuki.github.io/project/#-ashimo&#34;&gt;link&lt;/a&gt;], [&lt;a href=&#34;https://talent.supporterz.jp/geekten/2023/&#34;&gt;HP&lt;/a&gt;]&lt;/li&gt;
 &lt;li&gt;RoboCup Junior Soccer Lightweight Kanto Block 2016 Participant [&lt;a href=&#34;https://rcjj-kanto.org/&#34;&gt;HP&lt;/a&gt;]&lt;/li&gt;
 &lt;li&gt;Tsukuba University G-FEST 2016 (Global Future Expert School of Science and Technology) Participant [&lt;a href=&#34;https://gfest.tsukuba.ac.jp/&#34;&gt;HP&lt;/a&gt;]&lt;/li&gt;
 &lt;li&gt;RoboCup Junior Soccer Lightweight Ibaraki Node Tournament 2015 Participant [&lt;a href=&#34;https://rcjj-ibaraki.com/&#34;&gt;HP&lt;/a&gt;]&lt;/li&gt;
@@ -160,9 +154,9 @@ Shell (bash/zsh), Git/GitHub, Docker, LaTeX, Markdown, Hugo, WordPress, GCP, Git
     </item>
     <item>
       <title>Project</title>
-      <link>http://localhost:1313/project/</link>
+      <link>https://takeyamayuki.github.io/project/</link>
       <pubDate>Sun, 20 Jun 2021 20:13:34 +0900</pubDate><author>namiki.takeyama@gmail.com (Yuki Takeyama)</author>
-      <guid>http://localhost:1313/project/</guid>
+      <guid>https://takeyamayuki.github.io/project/</guid>
       <description>&lt;h2 id=&#34;-robocup-junior-soccer&#34;&gt;⚽ RoboCup Junior Soccer&lt;/h2&gt;
 &lt;hr&gt;
 &lt;ul&gt;
@@ -173,11 +167,7 @@ Shell (bash/zsh), Git/GitHub, Docker, LaTeX, Markdown, Hugo, WordPress, GCP, Git
 &lt;br&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;iframe width=&#34;560&#34; height=auto style=&#34;display:block; margin:24px auto 0; width:70%; aspect-ratio:1.766;&#34;  src=&#34;https://www.youtube.com/embed/YSenTVdDd-s&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;img src=&#34;http://localhost:1313/img/0894.JPG&#34; alt=&#34;RoboCup Junior Soccer&#34; style=&#34;display:block; margin:24px auto 0; width:70%; border-radius: 8px;&#34; &gt;
-&lt;!-- &lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/0894.JPG&#34; width=&#34;70%&#34;/&gt; 
-&lt;/figure&gt;
- --&gt;
+&lt;img src=&#34;https://takeyamayuki.github.io/img/0894.JPG&#34; alt=&#34;RoboCup Junior Soccer&#34; style=&#34;display:block; margin:24px auto 0; width:70%; border-radius: 8px;&#34; &gt;
 &lt;h2 id=&#34;-nonmouse&#34;&gt;👆 NonMouse&lt;/h2&gt;
 &lt;hr&gt;
 &lt;ul&gt;
@@ -186,18 +176,14 @@ Shell (bash/zsh), Git/GitHub, Docker, LaTeX, Markdown, Hugo, WordPress, GCP, Git
 &lt;li&gt;&lt;strong&gt;Technical Skills&lt;/strong&gt;: Python (with OpenCV, MediaPipe, Numpy, Tkinter), Ubuntu, Git/GitHub.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Soft Skills&lt;/strong&gt;: Time Management, Presentation skills, Communication.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;!-- 
-
-
-&lt;img src=&#34;https://user-images.githubusercontent.com/22733958/135473409-9ddf2fc5-4722-4e55-8eef-64476635c10d.gif&#34; alt=&#34;&#34; style=&#34;ZgotmplZ&#34;&gt; --&gt;
 &lt;p&gt;　
 &lt;img src=&#34;https://user-images.githubusercontent.com/22733958/135473409-9ddf2fc5-4722-4e55-8eef-64476635c10d.gif&#34; alt=&#34;NonMouse&#34; style=&#34;display:block; margin:24px auto 0; width:70%; border-radius: 8px;&#34; &gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Work Experience</title>
-      <link>http://localhost:1313/workexp/</link>
+      <link>https://takeyamayuki.github.io/workexp/</link>
       <pubDate>Sun, 20 Jun 2021 20:13:34 +0900</pubDate><author>namiki.takeyama@gmail.com (Yuki Takeyama)</author>
-      <guid>http://localhost:1313/workexp/</guid>
+      <guid>https://takeyamayuki.github.io/workexp/</guid>
       <description>&lt;h2 id=&#34;rakuten-group-inc&#34;&gt;Rakuten Group, Inc.&lt;/h2&gt;
 &lt;hr&gt;
 &lt;ul&gt;
