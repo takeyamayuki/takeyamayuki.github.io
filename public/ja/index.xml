@@ -11,49 +11,12 @@
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>ja</language>
-    <managingEditor>namiki.takeyama@gmail.com (Yuki Takeyama)</managingEditor>
-    <webMaster>namiki.takeyama@gmail.com (Yuki Takeyama)</webMaster>
-    <lastBuildDate>Mon, 02 Oct 2023 21:11:36 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 09:00:00 +0900</lastBuildDate>
     <atom:link href="https://takeyamayuki.github.io/ja/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>研究</title>
-      <link>https://takeyamayuki.github.io/ja/research/</link>
-      <pubDate>Mon, 02 Oct 2023 21:11:36 +0900</pubDate><author>namiki.takeyama@gmail.com (Yuki Takeyama)</author>
-      <guid>https://takeyamayuki.github.io/ja/research/</guid>
-      <description>&lt;h2 id=&#34;論文誌&#34;&gt;論文誌&lt;/h2&gt;
-&lt;hr&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;永山 晃誠，崔 明根，&lt;u&gt;武山 侑輝&lt;/u&gt;，赤田 真由，高田 崚介，志築 文太郎&lt;br&gt;
-&lt;strong&gt;E-String Figures: 導電繊維編み込み紐を用いたあやとり技認識システム&lt;/strong&gt;&lt;br&gt;
-コンピュータソフトウェア WISS推薦論文 (To Appear)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;u&gt;武山 侑輝&lt;/u&gt;，崔 明根，志築 文太郎&lt;br&gt;
-&lt;strong&gt;PhoneCanvas+: 深度カメラ付きのスマートフォンをキャンバスとして用いた3Dスケッチシステム&lt;/strong&gt;&lt;br&gt;
-ヒューマンインタフェース学会論文誌，原著論文，2025年，27巻，2号，p.47-60&lt;br&gt;
-[&lt;a href=&#34;https://www.jstage.jst.go.jp/article/his/27/2/27_47/_pdf/-char/ja&#34;&gt;PDF&lt;/a&gt;], [&lt;a href=&#34;https://doi.org/10.11184/his.27.2_47&#34;&gt;DOI&lt;/a&gt;], [&lt;a href=&#34;https://jp.his.gr.jp/&#34;&gt;HP&lt;/a&gt;]&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Taku Itami, &lt;u&gt;Yuki Takeyama&lt;/u&gt;, Sota Akamine, Jun Yoneyema, and Sebastien Ibarboure&lt;br&gt;
-&lt;strong&gt;Detecting people in sprinting motion using HPRDenoise: Point cloud denoising with hidden point removal&lt;/strong&gt;&lt;br&gt;
-Journal of Autonomous Intelligence, Vol.7, No.5, Article 1634, 11 Pages, Frontier Scientific Publishing, 2024.&lt;br&gt;
-[&lt;a href=&#34;https://jai.front-sci.com/index.php/jai/article/view/1634/918&#34;&gt;PDF&lt;/a&gt;], [&lt;a href=&#34;https://doi.org/10.32629/jai.v7i5.1634&#34;&gt;DOI&lt;/a&gt;], [&lt;a href=&#34;https://jai.front-sci.com/index.php/jai/index&#34;&gt;HP&lt;/a&gt;]&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;国際会議&#34;&gt;国際会議&lt;/h2&gt;
-&lt;hr&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;u&gt;Yuki Takeyama&lt;/u&gt;, Kousei Nagayama, Myungguen Choi, and Buntarou Shizuki&lt;br&gt;
-&lt;strong&gt;PhoneCanvas++: Multimodal 3D Sketching System Using a Depth Camera-Equipped Smartphone as a Canvas&lt;/strong&gt;&lt;br&gt;
-In Extended Abstracts of the CHI Conference on Human Factors in Computing Systems (CHI EA ’25). ACM, Yokohama, Japan, Article 918, 2 Pages. &lt;strong&gt;採択率34.0%&lt;/strong&gt;&lt;br&gt;
-[&lt;a href=&#34;https://dl.acm.org/doi/pdf/10.1145/3706599.3721334&#34;&gt;PDF&lt;/a&gt;], [&lt;a href=&#34;https://doi.org/10.1145/3706599.3721334&#34;&gt;DOI&lt;/a&gt;], [&lt;a href=&#34;https://chi2025.acm.org/&#34;&gt;HP&lt;/a&gt;]&lt;/p&gt;</description>
-    </item>
     <item>
       <title>プロジェクト</title>
       <link>https://takeyamayuki.github.io/ja/project/</link>
-      <pubDate>Sun, 20 Jun 2021 20:13:34 +0900</pubDate><author>namiki.takeyama@gmail.com (Yuki Takeyama)</author>
+      <pubDate>Mon, 19 Oct 2026 09:00:00 +0900</pubDate>
       <guid>https://takeyamayuki.github.io/ja/project/</guid>
       <description>&lt;h2 id=&#34;-ロボカップジュニアサッカー&#34;&gt;⚽ ロボカップジュニアサッカー&lt;/h2&gt;
 &lt;hr&gt;
@@ -138,9 +101,44 @@ In Extended Abstracts of the CHI Conference on Human Factors in Computing System
 &lt;p&gt;Wiiリモコンのようにジャイロセンサーを使ってマウスを操作するBLEデバイスの製作をした．&lt;/p&gt;</description>
     </item>
     <item>
+      <title>研究</title>
+      <link>https://takeyamayuki.github.io/ja/research/</link>
+      <pubDate>Mon, 19 Oct 2026 09:00:00 +0900</pubDate>
+      <guid>https://takeyamayuki.github.io/ja/research/</guid>
+      <description>&lt;h2 id=&#34;論文誌&#34;&gt;論文誌&lt;/h2&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;永山 晃誠，崔 明根，&lt;u&gt;武山 侑輝&lt;/u&gt;，赤田 真由，高田 崚介，志築 文太郎&lt;br&gt;
+&lt;strong&gt;E-String Figures: 導電繊維編み込み紐を用いたあやとり技認識システム&lt;/strong&gt;&lt;br&gt;
+コンピュータソフトウェア WISS推薦論文 (To Appear)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;u&gt;武山 侑輝&lt;/u&gt;，崔 明根，志築 文太郎&lt;br&gt;
+&lt;strong&gt;PhoneCanvas+: 深度カメラ付きのスマートフォンをキャンバスとして用いた3Dスケッチシステム&lt;/strong&gt;&lt;br&gt;
+ヒューマンインタフェース学会論文誌，原著論文，2025年，27巻，2号，p.47-60&lt;br&gt;
+[&lt;a href=&#34;https://www.jstage.jst.go.jp/article/his/27/2/27_47/_pdf/-char/ja&#34;&gt;PDF&lt;/a&gt;], [&lt;a href=&#34;https://doi.org/10.11184/his.27.2_47&#34;&gt;DOI&lt;/a&gt;], [&lt;a href=&#34;https://jp.his.gr.jp/&#34;&gt;HP&lt;/a&gt;]&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Taku Itami, &lt;u&gt;Yuki Takeyama&lt;/u&gt;, Sota Akamine, Jun Yoneyema, and Sebastien Ibarboure&lt;br&gt;
+&lt;strong&gt;Detecting people in sprinting motion using HPRDenoise: Point cloud denoising with hidden point removal&lt;/strong&gt;&lt;br&gt;
+Journal of Autonomous Intelligence, Vol.7, No.5, Article 1634, 11 Pages, Frontier Scientific Publishing, 2024.&lt;br&gt;
+[&lt;a href=&#34;https://jai.front-sci.com/index.php/jai/article/view/1634/918&#34;&gt;PDF&lt;/a&gt;], [&lt;a href=&#34;https://doi.org/10.32629/jai.v7i5.1634&#34;&gt;DOI&lt;/a&gt;], [&lt;a href=&#34;https://jai.front-sci.com/index.php/jai/index&#34;&gt;HP&lt;/a&gt;]&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;国際会議&#34;&gt;国際会議&lt;/h2&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;u&gt;Yuki Takeyama&lt;/u&gt;, Kousei Nagayama, Myungguen Choi, and Buntarou Shizuki&lt;br&gt;
+&lt;strong&gt;PhoneCanvas++: Multimodal 3D Sketching System Using a Depth Camera-Equipped Smartphone as a Canvas&lt;/strong&gt;&lt;br&gt;
+In Extended Abstracts of the CHI Conference on Human Factors in Computing Systems (CHI EA ’25). ACM, Yokohama, Japan, Article 918, 2 Pages. &lt;strong&gt;採択率34.0%&lt;/strong&gt;&lt;br&gt;
+[&lt;a href=&#34;https://dl.acm.org/doi/pdf/10.1145/3706599.3721334&#34;&gt;PDF&lt;/a&gt;], [&lt;a href=&#34;https://doi.org/10.1145/3706599.3721334&#34;&gt;DOI&lt;/a&gt;], [&lt;a href=&#34;https://chi2025.acm.org/&#34;&gt;HP&lt;/a&gt;]&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>自己紹介</title>
       <link>https://takeyamayuki.github.io/ja/about/</link>
-      <pubDate>Sun, 20 Jun 2021 20:13:34 +0900</pubDate><author>namiki.takeyama@gmail.com (Yuki Takeyama)</author>
+      <pubDate>Mon, 19 Oct 2026 09:00:00 +0900</pubDate>
       <guid>https://takeyamayuki.github.io/ja/about/</guid>
       <description>&lt;h2 id=&#34;武山侑輝たけやま-ゆうき--yuki-takeyama&#34;&gt;武山侑輝（たけやま ゆうき） / Yuki TAKEYAMA&lt;/h2&gt;
 &lt;hr&gt;
@@ -259,7 +257,7 @@ Shell(bash/zsh), Git/GitHub，Docker，LaTeX，Markdown, Hugo，Wordpress, GCP, 
     <item>
       <title>職務経歴</title>
       <link>https://takeyamayuki.github.io/ja/workexp/</link>
-      <pubDate>Sun, 20 Jun 2021 20:13:34 +0900</pubDate><author>namiki.takeyama@gmail.com (Yuki Takeyama)</author>
+      <pubDate>Mon, 19 Oct 2026 09:00:00 +0900</pubDate>
       <guid>https://takeyamayuki.github.io/ja/workexp/</guid>
       <description>&lt;h2 id=&#34;rakutenグループ株式会社&#34;&gt;Rakutenグループ株式会社&lt;/h2&gt;
 &lt;hr&gt;

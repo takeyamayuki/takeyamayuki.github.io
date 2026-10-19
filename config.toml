@@ -54,6 +54,8 @@ title = "Yuki Takeyama"
 description = "Product Manager | Developer"
 keywords = ""
 images = ["img/me@sui24.jpeg"]
+# PaperMod の post_meta 用（文字列でないと map[...] と表示される）
+author = "Yuki Takeyama"
 
 logo = "img/favicon.png"
 colorScheme = "auto"
@@ -159,13 +161,6 @@ theme = "#1b1c1d"
 #
 # [params.commento]
 #   url = ""
-
-# Uncomment this if you want a portrait on your start page
-#
-[params.author]
-name = "Yuki Takeyama"
-email = "namiki.takeyama@gmail.com"
-image = "/img/me@sui24.jpeg"
 
 [languages]
 [languages.en] # 英語の設定

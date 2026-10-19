@@ -11,33 +11,12 @@
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
-    <managingEditor>namiki.takeyama@gmail.com (Yuki Takeyama)</managingEditor>
-    <webMaster>namiki.takeyama@gmail.com (Yuki Takeyama)</webMaster>
-    <lastBuildDate>Mon, 02 Oct 2023 21:11:36 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 09:00:00 +0900</lastBuildDate>
     <atom:link href="https://takeyamayuki.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Research</title>
-      <link>https://takeyamayuki.github.io/research/</link>
-      <pubDate>Mon, 02 Oct 2023 21:11:36 +0900</pubDate><author>namiki.takeyama@gmail.com (Yuki Takeyama)</author>
-      <guid>https://takeyamayuki.github.io/research/</guid>
-      <description>&lt;h2 id=&#34;journal&#34;&gt;Journal&lt;/h2&gt;
-&lt;hr&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;Kousei Nagayama, Myungguen Choi, &lt;u&gt;Yuki Takeyama&lt;/u&gt;, Mayu Akata, Ryosuke Takada, and Buntarou Shizuki&lt;br&gt;
-&lt;strong&gt;E-String Figures: A String Figure Skill Recognition System Using Conductive Fiber Knitted Strings&lt;/strong&gt;&lt;br&gt;
-Computer Software, IPSJ WISS Recommended Paper (To Appear)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;u&gt;Yuki Takeyama&lt;/u&gt;, Myungguen Choi, and Buntarou Shizuki&lt;br&gt;
-&lt;strong&gt;PhoneCanvas+: 3D Sketching System Using a Depth Camera-Equipped Smartphone as a Canvas&lt;/strong&gt;&lt;br&gt;
-Transactions of the Human Interface Society of Japan, Original Article, 2025, Vol.27, No.2, p.47-60&lt;br&gt;
-[&lt;a href=&#34;https://www.jstage.jst.go.jp/article/his/27/2/27_47/_pdf/-char/ja&#34;&gt;PDF&lt;/a&gt;], [&lt;a href=&#34;https://doi.org/10.11184/his.27.2_47&#34;&gt;DOI&lt;/a&gt;], [&lt;a href=&#34;https://jp.his.gr.jp/&#34;&gt;HP&lt;/a&gt;]&lt;/p&gt;</description>
-    </item>
     <item>
       <title>About Me</title>
       <link>https://takeyamayuki.github.io/about/</link>
-      <pubDate>Sun, 20 Jun 2021 20:13:34 +0900</pubDate><author>namiki.takeyama@gmail.com (Yuki Takeyama)</author>
+      <pubDate>Mon, 19 Oct 2026 09:00:00 +0900</pubDate>
       <guid>https://takeyamayuki.github.io/about/</guid>
       <description>&lt;h2 id=&#34;yuki-takeyama&#34;&gt;Yuki TAKEYAMA&lt;/h2&gt;
 &lt;hr&gt;
@@ -155,7 +134,7 @@ Shell (bash/zsh), Git/GitHub, Docker, LaTeX, Markdown, Hugo, WordPress, GCP, Git
     <item>
       <title>Project</title>
       <link>https://takeyamayuki.github.io/project/</link>
-      <pubDate>Sun, 20 Jun 2021 20:13:34 +0900</pubDate><author>namiki.takeyama@gmail.com (Yuki Takeyama)</author>
+      <pubDate>Mon, 19 Oct 2026 09:00:00 +0900</pubDate>
       <guid>https://takeyamayuki.github.io/project/</guid>
       <description>&lt;h2 id=&#34;-robocup-junior-soccer&#34;&gt;⚽ RoboCup Junior Soccer&lt;/h2&gt;
 &lt;hr&gt;
@@ -180,9 +159,28 @@ Shell (bash/zsh), Git/GitHub, Docker, LaTeX, Markdown, Hugo, WordPress, GCP, Git
 &lt;img src=&#34;https://user-images.githubusercontent.com/22733958/135473409-9ddf2fc5-4722-4e55-8eef-64476635c10d.gif&#34; alt=&#34;NonMouse&#34; style=&#34;display:block; margin:24px auto 0; width:70%; border-radius: 8px;&#34; &gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Research</title>
+      <link>https://takeyamayuki.github.io/research/</link>
+      <pubDate>Mon, 19 Oct 2026 09:00:00 +0900</pubDate>
+      <guid>https://takeyamayuki.github.io/research/</guid>
+      <description>&lt;h2 id=&#34;journal&#34;&gt;Journal&lt;/h2&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Kousei Nagayama, Myungguen Choi, &lt;u&gt;Yuki Takeyama&lt;/u&gt;, Mayu Akata, Ryosuke Takada, and Buntarou Shizuki&lt;br&gt;
+&lt;strong&gt;E-String Figures: A String Figure Skill Recognition System Using Conductive Fiber Knitted Strings&lt;/strong&gt;&lt;br&gt;
+Computer Software, IPSJ WISS Recommended Paper (To Appear)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;u&gt;Yuki Takeyama&lt;/u&gt;, Myungguen Choi, and Buntarou Shizuki&lt;br&gt;
+&lt;strong&gt;PhoneCanvas+: 3D Sketching System Using a Depth Camera-Equipped Smartphone as a Canvas&lt;/strong&gt;&lt;br&gt;
+Transactions of the Human Interface Society of Japan, Original Article, 2025, Vol.27, No.2, p.47-60&lt;br&gt;
+[&lt;a href=&#34;https://www.jstage.jst.go.jp/article/his/27/2/27_47/_pdf/-char/ja&#34;&gt;PDF&lt;/a&gt;], [&lt;a href=&#34;https://doi.org/10.11184/his.27.2_47&#34;&gt;DOI&lt;/a&gt;], [&lt;a href=&#34;https://jp.his.gr.jp/&#34;&gt;HP&lt;/a&gt;]&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Work Experience</title>
       <link>https://takeyamayuki.github.io/workexp/</link>
-      <pubDate>Sun, 20 Jun 2021 20:13:34 +0900</pubDate><author>namiki.takeyama@gmail.com (Yuki Takeyama)</author>
+      <pubDate>Mon, 19 Oct 2026 09:00:00 +0900</pubDate>
       <guid>https://takeyamayuki.github.io/workexp/</guid>
       <description>&lt;h2 id=&#34;rakuten-group-inc&#34;&gt;Rakuten Group, Inc.&lt;/h2&gt;
 &lt;hr&gt;

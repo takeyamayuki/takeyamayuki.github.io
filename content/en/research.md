@@ -1,6 +1,6 @@
 ---
 title: "Research"
-date: 2023-10-02T21:11:36+09:00
+date: 2026-10-19T09:00:00+09:00
 draft: false
 toc: false
 images:
